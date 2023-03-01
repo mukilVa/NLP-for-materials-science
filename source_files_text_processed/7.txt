@@ -1,0 +1,1080 @@
+The elastic properties and solid-solution strengthening (SSS) of the binary Ni-Co and Ni-—Cr, and
+ternary Ni-Co-Cr alloys were investigated by the first-principles method. The results show that
+both Co and Cr increase lattice parameters of the binary alloys linearly. However, nonlinearity is
+found in compositional dependence of lattice parameters in the ternary Ni—Co—Cr alloys, that is,
+Co increases but decreases the lattice parameter at low and high Cr concentrations, respectively.
+Co increases the bulk, shear, and Young’s moduli (B, G, and EF), while Cr increases B but
+decreases G and E in the binary alloys. In the ternary Ni-Co—Cr alloys, G and E have a similar
+compositional dependence to those in the binary alloys, except for B. Based on the Labusch
+model, the SSS parameter of Ni—Cr is larger than that of Ni-Co. The SSS effect increases
+significantly with Cr addition, especially at low Co concentrations in the ternary Ni—Co-Cr alloys.
+Meanwhile, it increases mildly with Co addition at low Cr concentrations but decreases with Co
+addition at high Cr concentrations.
+
+|. INTRODUCTION
+
+Ni-based superalloys are widely used in aero-engines
+due to their excellent mechanical properties and oxidation
+resistance at high temperatures.” The phase of super-
+alloys comprises a face-centered cubic (fcc) Ni-rich solid
+solution (y phase) strengthened by coherent particles of
+L1,-ordered Ni3Al precipitates (y’ phase). In a series of
+commercial Ni-based superalloys, such as Inconel
+939, CMSX-4, TMW, and so on, Co and Cr are the
+main alloying elements, partitioning preferentially in the
+y phase.*° Additions of Co and Cr elements certainly
+produce solid-solution strengthening (SSS) for the
+y phase in superalloys. Furthermore, Co is reported to
+increase the lattice misfit between the y and y’ phases and
+then enhances the high temperature strength and creep
+resistance of superalloys.’ High concentrations of Cr
+element allow the formation of a continuous chromia
+
+(Cr,03) scale with inherent sulfidation and oxidation
+resistance at high temperatures.°
+
+SSS plays an essential role on mechanical properties of
+Ni-based superalloys, and it has been investigated theoret-
+ically and experimentally for the past several decades.’~!°
+On the mechanism of SSS, it is commonly assumed that
+dislocations move through the solvent lattice and are
+impeded by the solute atoms, contributing to the
+strength of the alloys. The general way to assess SSS
+is the linear elasticity theory, in which the two important
+strengthening parameters are atomic and elastic misfit
+parameters, respectively. The classic Fleischer model
+treats the interaction of dislocations with strong pinning
+solute atoms on the gliding plane, giving rise to the
+square-root-power dependence of strengthening on the
+solute concentration, which applies to the dilute solid
+solutions.'' The statistical theory proposed by Labusch
+models the interaction of gliding dislocations with weak
+pinning solute atoms all around the space, resulting in
+
+ 
+
+“Address all correspondence to this author.
+e-mail: jsun @sjtu.edu.cn
+DOE: 10.1557/jmr.2018.174
+
+the two-thirds power dependence of strengthening on
+the solute concentration, which is applicable to the
+concentrated solid solutions.'* A way to treat SSS of
+
+Downloaded from https://www.cambridge.org/core. University of Winniged/later JRes0) 820 1626:58, Gunerteriats RoeveaatSockatys2098, available at 1
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+the multicomponent alloys was further proposed by
+Gypen and Deruyttere,’? when the binary SSS caused
+by each of the solutes is known. Recently, studies of SSS in
+the binary Ni-based alloys, such as Ni-Fe, Ni-Mo, Ni-Co,
+and so on, by means of diffusion couples combined with
+nanoindentation showed that the two-thirds power depen-
+dence of hardness on the solute concentration predicted by
+the Labusch model is generally followed.'*”'® However,
+few studies of SSS have been reported up to now in the
+ternary Ni-based alloys.
+
+Employing the Labusch theory to predict SSS, it is
+necessary to obtain information on the atomic and elastic
+misfit parameters of the alloys, which can be effectively
+calculated by using density functional theory (DFT). In
+this work, the compositional dependences of lattice
+parameters and elastic properties of the binary Ni—Co,
+Ni-Cr and ternary Ni-—Co-Cr alloys have been investi-
+gated by using the exact muffin-tin orbitals (EMTO)
+method. The coherent potential approximation (CPA) has
+been used to describe the random distribution of the
+alloying atoms in the alloys. Based on the calculated
+results of lattice parameters and elastic properties, the
+SSS effect of these alloys was studied by using the
+Labusch theory. Particularly, the SSS model proposed by
+Gypen and Deruyttere'* for the multicomponent solid
+solutions has been discussed for the ternary Ni-—Co—Cr
+alloys.
+
+ll. COMPUTATIONAL METHOD
+
+First-principles calculations were performed by using
+the EMTO method based on DFT.'’'? The
+EMTO method is an improved screened Korringa—
+Kohn-Rostoker (KKR) method,”° where the one-electron
+potential is represented by large overlapping muffin-tin
+potential spheres. Generalized gradient approximation
+(GGA) parameterized by Perdew, Burke, and Ernzerhof
+(PBE) was used to treat the exchange-correlation density
+functional.”! In the self-consistent calculations, the one-
+electron equations were solved within the soft core
+scheme and_scalar-relativistic approximations. The
+Green’s function was calculated for 16 complex energy
+points distributed exponentially on a semicircular con-
+tour, including states within 1 Ry below the Fermi level.
+The basis sets included s, p, d, and f components. The
+Ni-3p°4s73d®, Co-3p°4s73d’, and Cr-3p°4s73d* were
+treated as valence states. The irreducible parts of the
+Brillouin zones were sampled by uniformly distributed
+k-points. The k-points of 27 x 27 x 27 were chosen for
+the fcc structure.
+
+The disordered binary Ni-(5—30)Co and Ni-(5—25)Cr
+alloys and ternary Ni-(10-30)Co-(10—25)Cr alloys
+(in at.%) are described with the CPA” as implemented in
+the EMTO method. CPA is an efficient and useful approach
+to dispose the compositional and magnetic disorder in
+
+random solid-solution alloys. It is noteworthy that
+local atomic relaxations are neglected within the CPA
+method. Previous studies have demonstrated that the
+local lattice distortion has negligible effect on the
+equilibrium volume and elastic properties of solid
+solutions.”* In the systems where the elements are
+similar in size, i.e., Fe—Cr,”* Fe—Ni-Cr alloys,” and
+the multicomponent high entropy alloys,”° the single-
+site CPA method has been successfully used to study
+the phase stability and elastic properties. In this work,
+these ternary Ni-—Co-—Cr alloys are considered to be
+ferromagnetic for their total energies of ferromagnetic
+(Em) states, which are smaller than those of
+paramagnetic (Ep) states. The magnetic critical
+temperature (Curie temperature, T7-) can be estimated
+from the total energy difference, according to the
+equation 3kgTc = 2 (Epm — Epm)/(1 — c),”’ where
+kp is the Boltzmann constant and c is the concentration
+of the nonmagnetic component. Since there is no
+nonmagnetic component in the alloys, (1 — c) is set
+to 1. The paramagnetic state is described by the
+disordered local moments approach.*® The estimated
+critical temperature ranges from 85 to 228 K for the
+ternary Ni—Co—Cr alloys. Therefore, the calculated
+results of the ternary ferromagnetic Ni—Co-Cr alloys
+are strictly valid at low temperature.
+
+The fcc structure has three independent elastic con-
+stants C,;, Cy2, and C44. These elastic constants were
+calculated by volume-conserving distortions. The ortho-
+rhombic distortion was used to determine the tetragonal
+shear modulus C’ = (Cy, — Cj2)/2:
+
+14+5, 0 0
+0 1-5 O ; (1)
+
+1
+
+0 0 Te
+
+The energy change is expressed as
+AE(8o) = 2VC'S, + O(83) (2)
+
+B=(Ci+C)/3_ , (3)
+
+where B is the bulk modulus calculated from the equation
+of state fitting the total energy against volume from the
+volume optimization. C,;, and Cj. were obtained from
+equations of C’ = (Cy; — C)2)/2 and B = (Ci, + Cj2)/3.
+The monoclinic distortion was used to determine Cy,:
+
+ 
+
+1 on O
+on 1 O ; (4)
+0 0 = =
+
+The energy change is given by
+
+Downlogded from https://www.cambridge.org/core. University of Winnipeg, on 21 \WnRiteat ReeX$:5264 Gect to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+AE(8m) = 2VC448,, + O(8,,) (5)
+
+where 6 is the strain and five strains 6 = 0.01-0.05
+were used for each distortion in the calculations. The
+polycrystalline shear modulus G is derived from the
+single-crystal elastic constants using the Voigt—Reuss—Hill
+average method,”
+
+Gy = (Gy +Gpr)/2 , (6)
+Gy = (Ci — Cin + 3Cg4)/5 (7)
+
+Gr= 5(Ci = C12) C44 /[4Ca4 + 3(Ciy = Ci2)| . (8)
+
+The Young’s modulus £ and the Poisson ratio v are
+connected to B and G by the relations of E = 9BG/(3B +
+G) and v = (3B — 2G)/(6B + 2G).
+
+lil. RESULTS AND DISCUSSION
+A. Lattice parameters and magnetic moments
+1. Binary Ni-Co and Ni-Cr alloys
+
+The ground state properties of the fcc Ni metal were
+first calculated, and the results are presented in Table I, in
+which other theoretical results and experimental data are
+also given for references. It can be seen from Table I that
+the lattice parameter of fcc Ni calculated by the EMTO
+method agrees well with the other theoretical results
+achieved by the projector augmented wave method
+(PAW)*? and all-electron full-potential linear augmented
+plane wave method (FLAPW),° ! and experimental results
+in the literature.*?
+
+The calculated lattice parameters as a function of the
+Co and Cr concentrations in the binary Ni-(5—30)Co and
+Ni-(5—25)Cr alloys are shown in Figs. 1(a) and 1(b),
+respectively. The theoretical results are in good agree-
+ment with experimental data, with the typical level of
+error (~2%) for DFT lattice constants.**°* The different
+errors for the calculated lattice parameters of the Ni—Co
+and Ni-Cr alloys result from the exchange-correlation
+density functionals, for there is no universal gradient-
+level approximation, yielding a consistent error for
+
+TABLE I. Theoretical and experimental lattice parameter a (A), elastic
+constants (GPa), elastic moduli (GPa), and Poisson’s ratio (v) of pure
+Ni.
+
+ 
+
+a Ci Ci2 Caa B G E Vv
+
+3.522 260.9 164.3 150.7 196.5 95.6 246.9 0.291 EMTO in this
+
+transition metals and alloys. Recently, based on an
+element-specific optimization of the parameters in the
+exchange-correlation functionals, a concept of quasi-
+nonuniform gradient-level approximation was introduced
+for DFT calculations, and the theoretical lattice parame-
+ters and bulk moduli are in better agreement with the
+experimental results.*°°° Both Co and Cr increase the
+lattice parameter linearly. The slope of the lattice param-
+eters Aa/Ax of the Ni—Co alloys is smaller than that of the
+Ni-Cr alloys by a factor of 3.7.
+
+The total and local magnetic moments as a function of
+the Co and Cr concentrations in the Ni-Co and Ni—Cr
+alloys are presented in Figs. 2(a) and 2(b), respectively.
+The magnetic moments of Co and Ni [u(Co) and p(Ni)]
+show a very weak dependence on the Co concentration,
+which is in line with the experimental results.*’ The total
+magnetic moment increases linearly with increasing the
+Co concentration. In the Ni—Cr alloys, Ni and Cr atoms
+are antiferromagnetically coupled and the magnetic
+moments [p(Ni) and p(Cr)] decrease with the Cr concen-
+tration due to magnetic frustration.** Both magnetic
+moments vanish at 12.5Cr at.%. A similar compositional
+dependence of the magnetic moment was observed in the
+binary Fe-Cr alloys.*”
+
+2. Ternary Ni-Co—Cr alloys
+
+For the ternary Ni-(10-30)Co—(10-25)Cr alloys, all
+properties were actually calculated with a compositional
+interval of 2%. The calculated results were then used for
+plotting the contour figures. The calculated lattice param-
+eters as a function of the Co and Cr concentrations in the
+ternary Ni-(10-—30)Co-(10-25)Cr alloys are shown in
+Fig. 3. It can be seen that at various concentrations of Co,
+the lattice parameter always increases approximately
+linearly with Cr addition, with a larger slope of Aa/Ax
+at lower Co concentration. However, Cr addition leads to
+a nonlinear dependence of the lattice parameter, that is, to
+say at low Cr concentration (~16 at.%), the lattice
+parameter almost monotonously increases with Co addi-
+tion, while at high Cr concentration (~22 at.%), it
+decreases with Co addition. The maximum lattice param-
+eter appears at the Ni-10Co—25Cr concentration. The
+equilibrium lattice parameters for Ni, Co, and Cr pure
+metals with the fcc structure are 3.52 A, 3.53 A, and
+3.63 A (equivalent to 2.96 A in bec Cr), respectively.
+Obviously, the calculated lattice parameters for the
+ternary alloys do not follow the linear rule of mixing
+(Vegard’s law). To understand this, it is recalled that the
+experimental slopes of the lattice parameters Aa/Ax for
+
+work Ni,_,Co,, Ni,;_,Cr,, and Cr;_,Co, systems are 0.2 x
+3.522 275.5 160.1 126.3 198.6 92.2 239.6 0.299 PAW” 10-3 A/at.%,°? 1.2 x 10°? A/at.%,°? and —2.1 x 10-7
+gqgg APF O 155.0 00 80 17D aval 0270 FLAP W Alat.%,*° respectively. The variations in the lattice
+261.0 151.0 132.0 187.7 92.9 239.2 0.288 4K .
+3.524 251.6 150.8 122.0 184.4 85.6 222.3 0.299 300K” parameters of the ternary Nij_,—yCo,Cr, alloys when
+the Cr concentration is fixed and Ni is replaced by
+Downloaded from https://www.cambridge.org/core. University of Winnipeg, on 21 Jun 201 fa tér24%SssuBiedtBo the Cambridge Core terms of use, available at 3
+
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+3.60
+
+3.56
+
+3.52
+
+a(A)
+
+3.48
+
+© Ref. 33
+
+0 5 10 15 20 25 £30
+
+(a) Co at.%
+
+—O-— EMTO in this wo
+
+ 
+
+ 
+
+0
+(b) Cr at.%
+
+FIG. 1. Dependence of lattice parameters on (a) Co content in Ni—Co alloys and (b) Cr content in Ni-Cr alloys.
+
+ 
+
+ 
+
+ 
+
+2.0
+a
+=.
+OG
+= 4.5
+o
+5
+£ 1.0 __&
+2
+> e—0——_e—_0—_@—_0—_-
+c 05
+= ~~ Total —¥— Ref. 37
+£ ~O-Ni —@~Ref. 37
+
+0.0 —>- Co - Ref. 37
+
+0 5 10 15 20 25 30
+
+(a) Co at.%
+
+24
+
+22
+3.5340
+soe 20 3.5332
+se 3.5325
+ai 18 3.5317
+< 3.5309
+Gs) 16 3.5302
+3.5294
+14 3.5287
+3.5279
+
+12
+
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+FIG. 3. Contour plot of compositional dependence of lattice param-
+eters of the ternary Ni-Co-Cr alloys.
+
+Co may be approximated by three respective binary
+systems via (1 — y)Ni,;_-Co, + y(Ni,_-Cr, + Cr,_,Co,),
+where the interaction coefficients of different pairs of
+atoms are assumed to be the weight factor 1 — y and y,
+respectively.*! Thus, the slopes of the lattice parameters
+Aa/Ax are estimated as 5(Ni;_, 9 1Co,Cto,1) = 1.0 x 10°?
+Alat.%, 5(Ni,_»—0.1gC0,Cto.13) = 0.02 x 10° Asat.%,
+
+ee
+Oo
+
+So
+a
+
+0.0
+
+magnetic moments/yB
+
+ 
+
+15 20 25 30
+(b) Cr at.%
+
+FIG. 2. Dependence of total and local magnetic moments on (a) Co content in Ni—Co alloys and (b) Cr content in Ni—Cr alloys.
+
+0 5 10
+
+5(Ni,_»-02Co,Cro,2) —0.02 x 10°73 A/at.%, and
+5(Ni,_x0.25C0,Ctp.25) = —0.075 x 10-7 Avat.%, which
+are in line with the calculated results presented in Fig. 3.
+This indicates that it is important to consider the Cr—Co
+chemical interactions on the lattice parameters of the ternary
+Ni—Co-Cr alloys when Cr concentration is high.
+
+The total and local magnetic moments as a function of
+the Co and Cr concentrations in the ternary Ni-(10-—30)
+Co-(10-25)Cr alloys are shown in Figs. 4(a)-4(d),
+respectively. The Ni moment (Ni) increases mildly with
+Co addition but decreases markedly with Cr addition.
+t(Co) depends weakly on the Co concentration, similar to
+that in the Ni—Co alloys, but decreases significantly with
+Cr addition. ~(Cr) decreases with Co addition but
+increases with Cr addition. As a result, the total magnetic
+moment in the ternary Ni-(10—30)Co—(10-25)Cr alloys
+increases markedly with Co addition while decreases
+with Cr addition.
+
+B. Elastic constants and moduli
+1. Binary Ni-Co and Ni-Cr alloys
+
+As shown in Table I, the elastic constants of fcc Ni
+from the present EMTO calculations are in reasonable
+agreement with those from other _ theoretical
+
+Downlo4ded from https://www.cambridge.org/core. University of Winnipeg, on 21 WWinRateet Reeks:526d Gect to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+Cr(at.%)
+
+24
+22
+0.622
+20 0.559
+0.496
+18 0.432
+0.369
+16 iveng
+0242
+14 0.179
+O16
+12
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at. %)
+
+24
+22
+1514
+1428
+20 143
+1.257
+18 1171
+16 =
+1.000
+0914
+14 oo
+12
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+(a)
+
+Cr(at.%)
+
+(c)
+
+FIG. 4. Contour plot of compositional dependence of total (a) (total),
+
+ternary Ni-—Co-Cr alloys.
+
+calculations*”*' and from experimental measurements,’
+
+except that the elastic constant C44 is somewhat over-
+estimated (The deviation still falls into the typical range
+of error for the DFT elastic constants). The polycrystal
+elastic moduli of fcc Ni from the present EMTO
+calculations also agree reasonably with those in the
+literature.°°**
+
+The calculated elastic constants as a function of the Co
+and Cr concentrations in the Ni-Co and Ni-Cr alloys are
+presented in Figs. 5(a)—5(f), respectively. All the elastic
+constants increase mildly with an increase in the Co
+and Cr concentrations in the Ni-Co and Ni-Cr
+alloys, respectively. The calculated elastic constants of
+Ni-10Co, Ni-25Co, and Ni-20Cr alloys are overesti-
+mated in comparison with the experimental values of
+Ni-10.1Co and Ni-26.35Co alloys by less than 15%**
+and of the Ni-19.6Cr alloy by about 20%.*° In general,
+there are two sources of error for the DFT elastic
+constants. The first part of the error comes from the
+neglect of thermal and zero-point vibration in the present
+calculations. The second error arises from the exchange-
+correlation density functionals**° discussed above. As
+shown in Figs. I(a) and 1(b), the EMTO calculations
+underestimate the lattice parameters of the Ni-Co and
+
+24
+22
+0.430
+20 0.380
+0.330
+18 0.280
+02%
+16 0.180
+O10
+14
+0.060
+12
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+24
+
+22 0.072
+
+2 :
+
+18 a
+0.530
+
+16 0621
+0.713
+
+14 a
+
+12
+
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+(d) Co(at.%)
+and local magnetic moments (b) (Ni), (c) u(Co), and (d) (Cr) of the
+
+Cr(at.%)
+
+Ni-Cr alloys, leading to overestimation of the elastic
+constants. Although there is deviation between the
+calculated elastic constants and experimental ones, this
+deviation does not affect the trend of compositional
+dependence of elastic properties for the Ni-Co and Ni—Cr
+alloys. The bulk, shear, and Young’s moduli (B, G, and
+E) as a function of the Co and Cr concentrations in the
+Ni-—Co and Ni-Cr alloys are presented in Figs. 6(a)—-6(f),
+respectively. For the Ni—Co alloys, they all slightly
+increase with the Co concentration. For the Ni—Cr alloys,
+the bulk modulus increases, and the shear and Young’s
+moduli decrease with the Cr concentration. The theoret-
+ical compositional dependence of the Young’s modulus
+agrees with the experimental results for both Ni-Co and
+Ni-Cr alloys.’
+
+2. Ternary Ni-Co-Cr alloys
+
+The calculated elastic constants of the ternary
+Ni-—(10-30)Co-(10—25)Cr alloys as a function of com-
+position are plotted in Figs. 7(a)—7(c). It is seen that
+C,,; increases with Cr addition at various Co concen-
+trations and with Co addition at high Cr concentration.
+C,, is weakly dependent on the Co addition at low Cr
+
+Downloaded from https://www.cambridge.org/core. University of Winnipeg, on 21 Jun 201 A#atér2 RSssuBiedtBo the Cambridge Core terms of use, available at 5
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+300
+
+———o— oO
+o7
+
+°
+Ni-26.35%Co
+
+ 
+
+_ 250 Ni-10.1%Co
+o
+a
+2,
+x
+200
+—O— EMTO in this work
+} Ref. 42
+150
+(a)
+200
+s 150 |
+Oo Ni-10.1%Co Ni-26.35%Co
+S
+Oo
+100
+—O-— EMTO in this work
+©} Ref. 42
+50
+(c)
+200
+e 150
+Oo © ©
+3 Ni-10.1%Co Ni-26.35%Co
+oO i
+100
+—O-— EMTO in this work
+} Ref. 42
+50
+5 10 15 20 25 30
+(e) Co at.%
+
+ 
+
+ 
+
+a tO
+
+©
+Ni-19.6Cr
+
+—O-— EMTO in this work
+—D-— Ref. 43
+
+(b)
+
+©
+Ni-19.6Cr
+
+—O-— EMTO in this work
+- Ref. 43
+
+ 
+
+(d)
+
+©
+Ni-19.6Cr
+
+—O-— EMTO in this work
+
+—D-— Ref. 43
+5 10 15 20 25 30
+(f) Cr at.%
+
+FIG. 5. Dependence of elastic constants (a, c, and e) on Co content in Ni—Co alloys and (b, d, and f) on Cr content in Ni—Cr alloys.
+
+concentration. The maximum C}, occurs at high Cr and
+Co concentrations [Fig. 7(a)]. Cj2 increases with Cr
+addition, especially at low Co concentration, while C,>
+decreases with Co addition [Fig. 7(b)]. C44 increases
+with both Cr and Co additions, and the maximum C44
+is located at high Cr and Co concentrations [Fig. 7(c)].
+The overall variations of C,;, C12, and C44 as a function of
+composition are relatively small. The elastic moduli and
+Poisson’s ratio of the ternary Ni-(10—30)Co—(10-25)Cr
+alloys as a function of composition are plotted in
+Figs. 8(a)-8(e). The bulk modulus increases with Cr
+
+addition but decreases with Co addition. The maximum
+B appears at the Ni-10Co-25Cr concentration [Fig. 8(a)].
+On the contrary, the shear modulus decreases with Cr
+addition but increases with Co addition. The maximum G
+occurs at the Ni-30Co-—10Cr concentration [Fig. 8(b)]. The
+Young’s modulus has a similar compositional dependence
+as that of the shear modulus [Fig. 8(c)]. The ratio of B and
+G is often used to evaluate the ductile/brittle behavior of
+the alloys. According to Pugh’s approximation, the mate-
+rial is ductile when its B/G is larger than 1.75; otherwise, it
+is brittle.“* For the studied compositional range, all B/G
+
+Downlogded from https://www.cambridge.org/core. University of Winnipeg, on 21 WWintRiteet Reeks:526d Gect to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+240
+
+210
+
+°
+
+O
+0
+9
+O
+Oo
+
+ 
+
+B(GPa)
+
+150
+
+250
+
+E(GPa)
+
+G(GPa)
+g @ 8
+
+200
+
+150
+
+5 10 15 20 25 30
+(e) Co at.%
+
+5 10 15 20 25 30
+(f) Cr at.%
+
+FIG. 6. Dependence of elastic moduli (a, c, and e) on Co content in Ni-Co alloys and (b, d, and f) on Cr content in Ni—Cr alloys.
+
+values for the ternary Ni-(10-30)Co—(10-25)Cr alloys are
+larger than 1.75, indicating that the alloys are ductile. They
+show a similar compositional dependence as the bulk
+modulus [Fig. 8(d)]. Poisson’s ratios, v, of the ternary Ni-—
+(10-30)Co-—(10—25)Cr alloys were also calculated, show-
+ing a similar compositional dependence as B/G [Fig. 8(e)].
+
+Cc. SSS
+
+1. Binary Ni-Co and Ni-—Cr alloys
+
+According to Labusch,!” the additional strength result-
+ing from SSS for a solute atom i can be expressed as
+
+At = B,C? ; (9)
+
+B, =3Ge'?Z , (10)
+
+where B; is the strengthening parameter, corresponding to
+the experimental hardening rate of k. Z is a constant inde-
+pendent of the solute atom. G is the shear modulus of the
+matrix. C; is the atomic fraction of the solute atoms. ¢ and
+rN’ are the Fleischer parameter and modulus interaction
+term, which are expressed by
+
+Downloaded from https://www.cambridge.org/core. University of Winnipeg, on 21 Jun 201 fa tér24%SssuBiedtBo the Cambridge Core terms of use, available at 7
+
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+ 
+
+26086
+2085
+2678
+2669
+265.9
+264.9
+2639
+2630
+262.0
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+24
+22 1659
+104.7
+_ 20 1636
+4 162.4
+<3 18 wiz
+& 100.0
+oO 16 1588
+1877
+14 1565
+
+12
+
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+(c) Co(at.%)
+
+ 
+
+10
+10 12 14 16 18 20 22 24 26 28 30
+(b) Co(at.%)
+
+FIG. 7. Contour plot of compositional dependence of elastic constants (a) C;;, (b) Cj2, and (c) C44 of the ternary Ni-Co-Cr alloys.
+
+e= (n+ 0°87)” (11)
+
+(12)
+
+Here, rn and 6 are the modulus and atomic misfit
+parameters, which are given by
+
+_1 (0G
+G\OC ,
+_1 (a0
+
+~~ a\ac) ”
+
+where o is the constant (3 < « < 16) for the interaction
+between solute atoms and screw dislocations (« is usually
+assumed to be 16 for fcc-structured alloys) and a is the
+lattice constant. Using the lattice parameters and shear
+moduli shown in Figs. 1 and 6, the average strengthening
+parameters were calculated to be 31.35 MPa/at.%~* for
+the Ni-Co and 85.73 MPa/at.%~” for the Ni-Cr alloys,
+respectively. It can be seen that both Co and Cr additions
+result in a distinct SSS for the Ni-Co and Ni-Cr alloys,
+respectively, and the SSS effect of Cr is stronger than that
+of Co by a factor of 2.7 because the atomic misfit
+parameter of the Ni—Cr alloys is larger than that of the
+
+1 = n/(1 + 0.5|n])
+
+(13)
+
+(14)
+
+Ni-Co alloys. This indicates that the SSS is governed by the
+atomic misfit parameter, and the contribution of the modulus
+misfit parameter is small. The average strengthening param-
+eter is close to the experimental result of 96.8 MPa/at.%~"
+for the Ni-Cr alloys,”!° while for the Ni-Co alloys, the
+average strengthening parameter is smaller than the
+experimental value of 54.9 MPa/at.%77.!°!° The reason
+could be ascribed to the contribution of stacking faults to
+SSS in the Ni—Co alloys. It was claimed that Co addition
+decreases dramatically the stacking fault energies in the
+Ni-Co alloys,’® leading to additional strengthening
+through the suppression of cross-slip mediated
+deformation.
+
+2. Ternary Ni-Co-Cr alloys
+
+According to Gypen and Deruyttere,’* the additional
+strength resulting from SSS for the multicomponent
+alloys can be expressed as
+
+2/3
+At = (> nc;
+
+Using the lattice parameters and shear moduli of the
+binary Ni—Co and Ni-—Cr alloys shown in Figs. | and 6,
+the compositional dependence of SSS in the ternary
+Ni-—(10—30)Co-(10-25)Cr alloys was calculated, as
+
+(15)
+
+Downlogded from https://www.cambridge.org/core. University of Winnipeg, on 21 JUinRitet Re&ks:52d Gect to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+ 
+
+2125
+2107
+2089
+207.4
+2053
+2035
+2017
+199.9
+196.1
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+(a) Co/(at.%)
+
+256.3
+2047
+253.1
+2515
+280.0
+2484
+246.8
+245.2
+2436
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+Cr(at.%)
+
+ 
+
+99.72
+96.90
+98,08
+07.25
+96.43
+95.61
+94,78
+93.96
+93,14
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+24
+22 2ar7
+2241
+_~ 20 2.208
+So 2.168
+5 18 2.132
+& 2.096
+— 16 2059
+O 2.023
+14 1.987
+
+12
+
+10
+
+10 12 14 16 18 20 22 24 26 28 30
+(d) Co(at.%)
+
+ 
+
+0.3085
+0.3055
+0 3025
+0.2995
+0.2965
+0.2935
+0.2905
+0.2875
+0 2845
+0
+
+10 12 14 16 18 20 22 24 26 28 30
+Co(at.%)
+
+(e)
+
+FIG. 8. Contour plot of compositional dependence of elastic moduli (a) B, (b) G, (c) E, (d) B/G, and (e) v of the ternary Ni-Co-Cr alloys.
+
+shown in Fig. 9(a). It is seen from Fig. 9(a) that
+SSS increases linearly with both Co and Cr concentra-
+tions, and the maximum SSS effect is found at the
+Ni—30Co-25Cr concentration.
+
+It is noteworthy that in Eq. (15), the calculated SSS
+effect for the ternary Ni-Co-Cr alloys arises only from
+the contributions of the binary Ni-Co and Ni—Cr systems,
+but not from the Co—Cr system. As a matter of fact,
+present calculations have shown that the lattice parame-
+ters are related to the interactions among the Ni—Co,
+
+solutions may not apply to the ternary Ni-Co-—Cr con-
+centrated alloys. To fully account the SSS effect in the
+ternary alloys, the lattice parameters and shear moduli of
+the ternary alloys shown in Figs. 3 and 8 are used to
+calculate the related parameters in Eqs. (11) and (12) for
+the ternary Ni-(10—30)Co—(10-25)Cr alloys, where Co
+and Cr are treated as the “effective solute” and Ni as the
+solvent as suggested in Ref. 45. The atomic and modulus
+misfit parameters in Eqs. (11) and (12) are expressed as
+
+ANi}_»-yCoyCry — ANi
+
+Ni-Cr and Co-—Cr systems for the ternary Ni—Co—Cr $= (16)
+concentrated alloys. Therefore, the SSS model proposed (1 — Cyi)ani
+by Gypen and Deruyttere'* for the multicomponent solid
+
+Downloaded from https://www.cambridge.org/core. University of Winnipeg, on 21 Jun 201 A#atér2 RSssuBiedtBo the Cambridge Core terms of use, available at 9
+
+https://www.cambridge.org/core/terms. https://doi.org/10.1557/jmr.2018.174
+Z-b. Yang et al.: Assessing elastic property and solid-solution strengthening of binary Ni-Co, Ni-Cr, and ternary Ni-Co—Cr alloys
+
+ 
+
+ 
+
+(a) ; = SP vo
+
+FIG. 9. Solid-solution strengthening (a) from the model in the literature!? and (b) from revised model in this work for the ternary Ni-Co—Cr
+alloys.
+
+(1 — Cyi)Gni
+
+The SSS effect for the ternary Ni-(10-30)Co—(10-25)Cr
+alloys is then calculated according to Eqs. (9) and (10).
+The compositional dependence of SSS of the ternary
+Ni-~(10—30)Co-—(10-25)Cr alloys is shown in Fig. 9(b), in
+which a larger SSS effect is observed compared to the
+results in Fig. 9(a). Furthermore, a different composi-
+tional dependence of SSS is revealed. At fixed Co
+concentrations, SSS always increases with Cr addition.
+While the effect of Co on SSS depends strongly on the
+actual Cr concentration, i.e., at low Cr concentration, SSS
+mildly increases with Co addition, which is in accordance
+with that from the model proposed by Gypen and
+Deruyttere,'* but at high Cr concentration, it slightly
+decreases with the increasing Co concentration due to the
+Cr—Co chemical interactions.
+
+Co and Cr are the main alloying elements partitioning
+preferentially in the y phase of the Ni-based super-
+alloys.*> The present work shows that the addition of
+Co and Cr produces a significant SSS in the matrix of the
+Ni-based superalloys. With the DFT results of composi-
+tional dependence of SSS, the alloy composition is able
+to be optimized to improve the mechanical properties of
+the Ni-based superalloys.
+
+(17)
+
+IV. SUMMARY
+
+The elastic properties and SSS of the binary Ni-(5-—30)
+Co and Ni-(5—25)Cr and ternary Ni-(10-30)Co—(10—25)Cr
+(at.%) solid-solution alloys have been investigated using
+the EMTO-CPA method. The calculated results are
+summarized as follows:
+
+  
+
+ 
+
+(1) Both Co and Cr increase the lattice parameters of
+the binary alloys linearly. The slope of the lattice
+parameter Aa/Ax of the Ni—Co alloys is smaller than
+that of the Ni—Cr alloys by a factor of 3.7. However,
+nonlinearity is found in the compositional dependence
+of the lattice parameter in the ternary Ni—Co—Cr
+alloys, i.e., Co increases and decreases the lattice
+parameter at low and high Cr concentrations, respec-
+tively, which emphasizes the effect of chemical inter-
+actions among alloying elements on the lattice
+parameter.
+
+(2) The total magnetic moment increases with in-
+creasing the Co concentration for the Ni—Co alloys while
+decreases markedly with increasing the Cr concentration
+and reaches zero at 12.5Cr at.% for the Ni—Cr alloys. In
+the ternary Ni-Co-Cr alloys, the total magnetic moments
+increase markedly with Co addition but decrease with Cr
+addition.
+
+(3) The bulk, shear, and Young’s moduli of the Ni-Co
+alloys increase with Co addition. The bulk modulus
+increases, while the shear and Young’s moduli decrease
+with Cr addition in the Ni—Cr alloys. The bulk modulus
+increases with Cr addition while decreases with Co
+addition in the ternary Ni-Co-Cr alloys. On the contrary,
+the shear and Young’s moduli decrease with Cr addition
+but increase with Co addition.
+
+(4) Both Co and Cr additions result in effective SSS
+for the Ni-Co and Ni-Cr alloys, and Cr addition has
+a larger effect. In the ternary alloys, SSS increases
+significantly with Cr addition and mildly with Co
+addition at low Cr concentration but decreases
+with Co addition at high Cr concentration in the ternary
+Ni—Co-Cr alloys. For the present Ni-Co-—Cr concen-
+trated alloys, the model proposed by Gypen and
+Deruyttere may not be enough.

@@ -1,0 +1,1316 @@
+We present an experimental approach for revealing the impact of lattice distortion on solid
+solution strengthening in a series of body-centered-cubic (bcc) Al-containing, refractory high
+entropy alloys (HEAs) from the Nb-Mo-Cr-Ti-Al system. By systematically varying the Nb and
+Cr content, a wide range of atomic size difference as a common measure for the lattice distortion
+was obtained. Single-phase, bec solid solutions were achieved by arc melting and homogeniza-
+tion as well as verified by means of scanning electron microscopy and X-ray diffraction. The
+atomic radii of the alloying elements for determination of atomic size difference were
+recalculated on the basis of the mean atomic radii in and the chemical compositions of the solid
+solutions. Microhardness (4H) at room temperature correlates well with the deduced atomic size
+difference. Nevertheless, the mechanisms of microscopic slip lead to pronounced temperature
+dependence of mechanical strength. In order to account for this particular feature, we present a
+combined approach, using wH, nanoindentation, and compression tests. The athermal
+proportion to the yield stress of the investigated equimolar alloys is revealed. These parameters
+support the universality of this aforementioned correlation. Hence, the pertinence of lattice
+
+I. INTRODUCTION
+
+SINCE the introduction of high entropy alloys
+(HEAs),""! the focus has especially been on_ their
+microstructural and mechanical properties.'! Solid solu-
+tion strengthening in such chemically complex alloys is
+of particular interest,'"! as these systems typically exceed
+the constitutional range spanned by classical theories for
+the description of solid solution strengthening in
+dilute**! and more concentrated! binary alloys.
+Accordingly, some efforts were made to develop models
+succeeding the current state of the description of solid
+solution strengthening.'”'°! The approach presented by
+
+ 
+
+H. CHEN, A. KAUFFMANN, S. LAUBE, Y. HUANG, K.
+LICHTENBERG, and M. HEILMAIER are with the Institute for
+Applied Materials (IAM-WK), Karlsruhe Institute of Technology
+(KIT), Engelbert-Arnold-Str. 4, 76131 Karlsruhe, Germany. Contact
+email: hans.chen@kit.edu I.-C. CHOI and R. SCHWAIGER are with
+the Institute for Applied Materials (AM-WBM), Karlsruhe Institute
+of Technology (KIT), Hermann-von-Helmholtz-Platz 1, 76344 Eggen-
+stein-Leopoldshafen, Germany. F. MULLER, B. GORR, and H.-J.
+CHRIST are with the Institut fiir Werkstofftechnik, Universitat
+Siegen, Paul-Bonatz-Str. 9-11, 57068 Siegen, Germany.
+
+Dedicated to Dr. Martin Palm on the occasion of his 60th birthday.
+
+Manuscript submitted June 29, 2017.
+
+Article published online November 13, 2017
+
+772—VOLUME 49A, MARCH 2018
+
+Toda-Caraballo and P.E.J. Rivera-Diaz-del-Castillo”! is
+based on the theory by Labusch,!®! while it uses a
+generalization of the gradual changes of the lattice
+parameter and, thus, the misfit with composition in
+binary solid solution towards multicomponent systems.
+In contrast, Varvenne ez al.''®! presented a mechanistic,
+parameter-free, and predictive theory for the yield
+strength of random alloys and face-centered-cubic (fcc)
+HEAs, respectively, which was validated against data
+available for the CoCrFeMnNi system mainly con-
+tributed by Wu e¢ al."'"! The fundamental assumption is
+that dislocations move through an effective medium
+having average lattice parameter, shear modulus, stack-
+ing fault energy, erc.!'®! Strengthening accordingly arises
+from the interaction of dislocations with random, local
+concentration fluctuations around the average compo-
+sition of the HEA.|'®! This especially accounts for the
+fact that in the case of HEAs, solute and solvent cannot
+be distinguished due to their equal concentration. In the
+conclusion of Reference 10, alloys with maximized
+strength can be obtained by maximizing the concentra-
+tion-weighted, mean-square misfit volume or the shear
+modulus. Assuming the validity of Vegard’s law and
+using reasonable values for individual atomic radu, the
+concentration-weighted, mean-square misfit volume,
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+which is used in this theory, can directly be transformed
+into the more common atomic size difference 6!'”!:
+
+5= you(i-4) [1]
+
+i
+
+where x; is the molar fraction of the alloying element, r;
+is the atomic radius of the respective alloying element,
+and 7 is the average atomic radius of the alloy. An
+extension of this procedure was introduced by Okamoto
+et al.! by taking the individual mean-square atomic
+displacements of the alloying elements into account.
+They propose a linear relationship of the yield strength
+and the averaged mean-square atomic displacement.
+
+Strictly, the proposed theory by Varvenne et al.!'®!
+does only apply to dislocation slip with low impact of
+Peierls stress as it is observed for fcc metals and alloys.
+Nevertheless, lattice distortion might significantly attri-
+bute to solid solution strengthening in body-cen-
+tered-cubic (bcc) HEAs as well, and the simplicity and
+elegance of the atomic size difference approach make it
+worthwhile testing for correlation of 6 with the plastic
+yield of bcc HEAs. In this case, the contribution to solid
+solution strengthening might not be driven by the
+interaction of the elastic distortion field of dislocations
+and the one of solute atoms but by the interaction of
+dislocation cores with random, local concentration
+fluctuations, as suggested by Rao et al.!'7! Deviations
+from significant correlation might lead to the identifica-
+tion of (1) interesting model alloys with nonequimolar
+composition or (7) additional contributions by short-
+range ordering!!! as well as variations of local disloca-
+tion core structures!'*! specific to certain alloys.
+
+Recently, we presented a suitable processing route for
+obtaining an almost single-phase, bec HEA NbMoCr-
+TiAI."*! The basic design goal was to combine elements
+with high melting points (Nb, Mo) and, thus, high
+intrinsic creep strength with protective oxide scale
+forming elements (Cr, Al) while simultaneously reducing
+density (Al, Ti) by a proper choice of elements. Arc
+melting and homogenization treatment at 1300 °C for
+20 hours lead to an almost single-phase microstructure
+that possesses significant plasticity above 600 °C. More-
+over, the formation of combined (111)-/(001)-fiber
+texture components with respect to the loading axis
+developed during compression testing at these temper-
+atures reveals dislocation slip with (111) Burgers vec-
+tors, as expected for bcc materials. The alloy exhibits a
+reasonable high-temperature strength. Furthermore, the
+capability of increasing oxidation resistance by adding
+Cr and Al has been verified for the present and related
+alloys.15-181
+
+In general, large differences in atomic size, which are
+expected for Nb-Mo-Cr-Ti-Al, as well as its ability to
+deform by dislocation slip makes it a favorable model
+system for studying the impact of the contribution of
+lattice distortion to solid solution strengthening in bcc
+HEAs. For this purpose, suitable changes in alloy
+composition and the according homogenization treat-
+ment for obtaining single-phase microstructure were
+established and are presented in this article. In order to
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+
+quantitatively describe the lattice distortion in the
+present alloys, lattice parameters and, thus, interatomic
+spacings were determined by means of X-ray diffraction
+(XRD). These data are used to recalculate the individual
+atomic radii of the alloying elements with the coordina-
+tion of a bec lattice. Finally, the according atomic size
+difference is correlated with mechanical properties
+exhibited by the alloy series. In order to account for
+the temperature-dependent strength of bec metals, a
+suitable combination of microhardness (wH) for screen-
+ing at room temperature (RT) as well as nanoindenta-
+tion up to 400°C and compression tests for
+temperatures beyond 400 °C were exemplarily con-
+ducted. The relevance of the wH results at RT of the
+respective alloys is stressed.
+
+Il. EXPERIMENTAL
+
+The alloys investigated in this work were manufac-
+tured from elemental bulk material. Nb, Mo, Cr, Ti, and
+Al with a purity of 99.9, 99.96, 99, 99.8, and 99.9 pct,
+respectively, were mixed in the desired concentrations
+and then melted under Ar atmosphere, using an AM/0.5
+arc melting furnace by Edmund Bihler GmbH (Ger-
+many). The furnace chamber was set to a pressure of
+5 x 10-7 mbar and, alternatively, evacuated and
+flooded with Ar three times before pumping to a high
+vacuum of less than 1 x 10~* mbar. The Ar pressure for
+arc melting was set to 600 mbar. A Zr getter was
+liquefied prior to each melting step to reduce residual
+oxygen content. The melted buttons were flipped and
+remelted at least five times and optionally cast into a
+water-cooled rod-shaped Cu mold with a diameter of
+12mm and length of 60 mm. Compositions of the
+equiatomic alloys in as-cast state were determined by
+inductively coupled plasma-optical emission spectrom-
+etry (ICP-OES). O and N contents were analyzed by
+means of carrier gas hot extraction analysis by a TC500
+device (Leco Instrumente GmbH). Depending on the
+alloy composition, homogenization was performed
+under Ar atmosphere in a Gero HTRH 70-600/18
+resistance tube furnace for 20 hours at 1200 °C,
+1300 °C, 1400 °C, and 1500 °C. For this purpose,
+buttons and rods were cut into platelets with a thickness
+of 5 mm. The heating and cooling rate was 4.2 K/min.
+Subsequent to face grinding, XRD analyses (step width
+for acquisition 0.01 deg, acquisition time of 384 s/step)
+were carried out on a D2 Phaser system by Bruker
+equipped with a Lynxeye line detector. The lattice
+parameter was determined by extrapolating towards
+0 = 90 deg using the weighting function
+1 (cot? 0+ cot@- cos), according to Nelson-Riley.""”!
+For microstructural investigations, the samples were
+prepared by a standard metallographic procedure. After
+grinding with a series of abrasive papers of decreasing
+grain size, the samples were polished, etched with NH3,
+H,Os;, and distilled water in a ratio of 1:1:1 at 50 °C for
+5 minutes, and finalized by a vibratory polishing step for
+8 hours, using a noncrystallizing oxide polishing sus-
+pension with pH 9.8 supplied by Struers. Scanning
+
+VOLUME 49A, MARCH 2018—773
+electron microscopy (SEM) and energy dispersive X-ray
+spectroscopy (EDX) analysis were performed on a Zeiss
+EVOS0 system equipped with a Thermo Scientific EDX
+system. For each equiatomic alloy, porosity was inves-
+tigated in terms of area fraction, which was determined
+from several binarized SEM micrographs. The investi-
+gated area was 1.2 mm”, respectively.
+
+Mechanical properties were characterized in terms
+of yield stress and hardness. Yield stress oy during
+compression tests was determined for 0.2 pct plastic
+strain at elevated temperatures in a range of 400 °C to
+1200 °C at an initial engineering strain rate of
+10-*s~'. The samples of (3 x 3 x 4.5)mm? were
+tested under vacuum in a Zwick Z100 electromechan-
+ical universal testing machine equipped with a vacuum
+furnace by Maytec. Strain was determined using strain
+gauges attached to the samples. Vickers hardness (wH)
+was investigated by a Qness QIOA+ microhardness
+tester with a load of 0.98 N. Mean values and
+standard deviations were obtained by analyzing 16
+hardness indentations on each sample. Furthermore, a
+nanoindenter G200XP by Keysight Technologies
+GmbH equipped with a laser heating stage by SUR-
+FACE systems + technology GmbH was used to
+measure the temperature-dependent nanohardness
+(nH) between RT and 400 °C at a constant indenta-
+tion strain rate of 5 x 10-7 s_'. Strain-rate sensitivity
+
+_ (dingy) _ (AmC@))  po2n (go. yi .
+m= (G2) = ( Fink (oy: yield stress, é:
+q é,T
+
+strain rate, 7: temperature, nH: nanohardness, and C:
+constraint factor, usually C 3°?!) was analyzed from
+RT to 300°C by strain-rate jump tests with strain
+rates of 5 x 10-7, 1.6 x 10°, and 5 x 10°-*s—1. Shear
+modulus G of selected alloys was calculated by
+G= Ls - p+ ve (p: porosity, p: density, and vy: velocity
+of transverse ultrasonic waves). The experimentally
+determined density p comprises an error that arises
+from the sample porosity p and is corrected by the
+factor = of the aforementioned equation. The density
+
+was determined by Archimedes’ principle; vy was
+analyzed by ultrasonic phase spectroscopy on cubic
+samples with an edge length of 5mm within the
+frequency range of 5 kHz to 10 MHz using two
+identical broadband ultrasonic wave transducers
+(Panametrics model V155) and a R3754A_ network
+analyzer by Advantest. Reference 23 provides further
+experimental details of ultrasonic phase spectroscopy.
+
+ 
+
+ 
+
+Il. RESULTS AND DISCUSSION
+
+A. Microstructure
+
+Prerequisite for the accurate assessment of solid
+solution strengthening is a homogenous microstructure
+of the alloys under investigation. In the following, this is
+exemplified with the three equimolar compositions that
+were manufactured for this work. All nonequiatomic
+compositions were treated in similar ways in order to
+ensure homogeneity of the solid solution. The starting
+point for the development was the aforementioned
+
+774—VOLUME 49A, MARCH 2018
+
+homogeneous, quinary, equimolar NbMoCrTiAl alloy,
+which can be manufactured by arc melting and subse-
+quent homogenization treatment.!'*! After heat treat-
+ment of the as-cast state at 1300 °C for 20 hours, an
+almost single-phase microstructure, as presented in
+Figure 1(b), can be obtained for this alloy. The XRD
+pattern in Figure 2(b) reveals the bcc crystal structure
+(W prototype, Strukturbericht A2).
+
+During development of this alloy, several phases
+competing with the bcc solid solution were identified.
+Most importantly, the formation of the hexagonal
+Cr ,Nb-Laves phase (MgZn> prototype, Strukturbericht
+C14) has to be suppressed to retain single-phase bcc. In
+NbMoCrTiAl, the Laves phase appears for homoge-
+nization heat treatments below 1300 °C as well as during
+compression testing of as-homogenized material at
+1200 °C. Moreover, (Mo, Nb)3Al (Cr3Si1 prototype,
+Strukturbericht A15) forms during annealing at all
+temperatures tested for homogenization up to now.*
+
+ 
+
+*This phase remained unidentified in our previous investigation!“
+
+ 
+
+Nevertheless, this phase appears only as a fringe of tiny
+dimension in the vicinity of some grain boundaries. For
+1300 °C and 20 hours, its volume fraction is below
+0.3 vol pct in total and, thus, can be considered to be not
+a relevant factor for the mechanical properties deter-
+mined in this work. Some trace contents of (Al, Cr)3Ti
+(Cu3Au prototype, Strukturbericht D0.) as well as B2
+superstructure can occasionally be found for a variety of
+processing conditions but are believed as well to be not
+relevant for mechanical property determination. All
+aforementioned phases were identified based on global
+XRD patterns as well as locally by means of EBSD
+patterns.
+
+Since most of the competing phases are expected for
+varying alloy compositions derived from NbMoCrTiAl,
+only specific changes of alloying elements were con-
+ducted in this research. For the suppression of Laves
+phase formation, either Nb or Cr content was succes-
+sively reduced toward the quaternary, equimolar alloys
+NbMoTiAI and MoCrTiAl. In the case of NbMoTIiAI, a
+significantly higher homogenization temperature was
+needed in order to achieve a homogeneous bcc solid
+solution, namely, 1500 °C for 20 hours. The according
+microstructure and the XRD pattern are presented in
+Figures l(a) and 2(a), respectively. In contrast, anneal-
+ing at only 1200 °C for 20 hours is necessary to obtain
+single-phase, bec MoCrTiAl, as shown in Figures 1I(c)
+and 2(c). The concentrations of Mo, Ti, and Al were
+kept constant. It was expected that increasing Mo, Ti,
+and Alin Nb-Mo-Cr-Ti-Al could favor the formation of
+(Mo, Nb)3Al and (Al, Cr)3Ti, while reducing the
+amount of these particular elements could lead to
+stabilization of Cr.Nb.
+
+Table I summarizes all investigated alloys, their
+compositions, and the necessary heat treatments to
+obtain almost single-phase microstructures with residual
+phases having a total volume fraction of less than
+0.5 vol pct. In certain cases, higher homogenization
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+ 
+
+Fig. 1—Microstructure of alloys with equiatomic composition in homogenized condition, obtained by SEM using BSE contrast imaging (same
+magnification for all images): (a4) NbMoTiAI annealed at 1500 °C, (b) NbMoCrTiAl annealed at 1300 °C, and (c) MoCrTiAl annealed at
+1200 °C, each for 20 h. Certain porosity (black features within the grains) is typical for cast material (<2 vol pct in all presented alloys) and was
+randomly distributed in both as-cast (not presented in this article) and as-homogenized states.
+
+temperatures were used as well in order to exclude
+effects by the grain size of the material and possible
+influences by the homogenization temperature (e.g.,
+different extent of any type of ordering) on the mechan-
+ical response. For NbMoCrTiAl, several batches were
+tested for assessment of the reproducibility.
+
+B. Atomic Radii of the Alloying Elements
+
+In principle, three degrees of complication of the
+description of the variation of the lattice in a HEA are
+possible. The easiest assumption is that the HEA has a
+defined lattice parameter without a variation on atomic
+length scale at all. This assumption is physically not
+meaningful and would lead to the conclusion that there
+is no hardening since the solute atoms do not have a
+distortion field. Further complication is possible by
+assuming an effective lattice parameter of the alloy as
+well as its variation caused by the individual size of the
+alloying elements; this variation might be used as a
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+
+measure for the lattice distortion. Even more complex is
+a description where each species of alloying elements has
+an average size and an according variation. In this case,
+the exact size of an atom is determined by the actual
+environment of the atom (not by its species alone as
+assumed in the previous case). Despite the latter case
+being the most realistic description and providing
+several quantities for the lattice distortion, the second
+assumption already allows for a possible description of
+solid solution strengthening. Furthermore, the second
+case is rather easy to be assessed when the atomic radii
+of the alloying elements within the solid solution are
+known. As pointed out by Varvenne ef ai.,''®! the
+assessment of atomic size difference based on the
+(tabulated) atomic radii of the pure elements might lead
+to arbitrary results when the pure elements crystallize in
+a different crystal structure as compared to the HEA
+solid solution. In such case, the binding state of the
+alloying element is different and, accordingly, a different
+contribution to the lattice distortion has to be expected.
+
+VOLUME 49A, MARCH 2018—775
+In the present work, we try to obtain reasonable atomic
+radii by analyzing all obtained bec alloys (coordination
+number CN = 8). In the case of the crystal structure
+being constant, the binding state remains rather con-
+stant. Furthermore, only the refractory elements Nb and
+Cr are changed in their concentrations, which should
+further reduce the possibility of varying amounts of
+directed binding. The situation might be different when
+Al or Ti content is changed over a wide composition
+range. For the analyses of the data, an overdetermined
+set of equations is formulated on the basis of (1) the
+chemical compositions x;; presented in Table I, where i
+is the respective alloying element and j the respective
+alloy; and (2) the mean atomic radius 7; in the alloys
+obtained from 7; = V3/4- ape (CN = 8), where the ane
+values are the lattice parameters presented in Table I,
+which were determined by XRD. Moreover, the atomic
+radii of the bec crystallizing elements are included in the
+calculation as well (CN = 8). The overdetermined set of
+equations, thus, reads
+
+1 0 0 0 0 Nb
+0 1 0 0 0 !'Nb Mo
+0 0 1 0 0 Mo Ct
+XNb,1 Mol %Cr,l XTi = *XAL1 Ct _— r|
+XNb,2. XMo,2 XCr2  *Ti2 = *A12 rj 72
+XNb,3. XMo,3. XCr3 XTi3 =X AL3 ral r3
+[2]
+
+and is solved with respect to rnp, ’Mo> l'crs “Ti, aNd ray; by
+a least-squares procedure. The overdetermined set of
+equations is, in principle, a multicomponent extension
+of Vegard’s law. Figure 3 shows the comparison of the
+atomic radii of the elements (CN = 12 for Al and Ti,
+CN = 8 for Mo, Cr, and Nb as well as for an
+extrapolation for Ti designated as Ti*), the mean radii
+
+av NbMoTIAl v bcc
+
+  
+ 
+
+ia
+
+NbMoCrTiAl
+
+ 
+  
+ 
+ 
+
+| / a.u.
+
+MoCrTiAl
+Vv
+
+  
+
+  
+
+Vv
+
+50 100
+20 /°
+
+Fig. 2—XRD patterns with logarithmic intensity scale of alloys with
+equiatomic composition in homogenized condition: (a) NbMoTiAl
+annealed at 1500 °C, (6) NbMoCrTiAl annealed at 1300 °C, and (c)
+MoCrTiAl annealed at 1200 °C, each for 20 h. Peaks arising from
+residual Cu-Kf radiation are indicated by open triangles.
+
+776—VOLUME 49A, MARCH 2018
+
+Composition in Atomic Percent of Solid Solutions in Annealed Condition Determined by Standard-Related EDX as well as Lattice Parameters of the Bcc Structure; O
+
+Table I.
+
+Contents were Exemplarily Analyzed for NbMoTiAl, NbMoCrTiAl, and MoCrTiAl: 780, 312, and 289 at. ppm, Respectively**
+
+Xi
+
+ 
+
+ 
+
+ 
+
+conn o@~o mm ios tt co mat \O DCO \O
+—~ 7 oOo aAmnNS tat ooo
+oco co S > CS occ ocoSe
+g Seceoceso Sooo Secs coco
+q SItltT Flt FTf+T F1F 1
+YS 00 CO WD on ae +4
+5 Sart Oo + tN a
+3B. Aas rt ar “I
+= | et ood anon an colon!
+=a eo Or Ont nt Oe BR ONS oO
+eeoodqogoococscoc oo
+esesseseerseeeeeeeeeo
+SoocooCcoooccccooass
+—
+SlHHHHHHHHHHHHHHH
+COMmONDEKErADRDOUONTE
+TIHEANNDAAODADSANANNYN
+ANDEAN SAA AAANaAaAG
+enaoocoqoococoocoosc oo
+Nmaoemme orm oon ona oOo OO
+eoooscossoosooooosls
+eeoscesesssesseessee [ze
+coooocooocoocoooooooo] -«
+oO
+EJ HHHHHHHHHHHHHHH] 2
+ANDOOTATDNHNNOtNHA | oO
+MONAT GAODDDOOGGIHNTT I] LS
+ANAAANANTAAAANAAAAAT §
+eocooocooocooooooco|s
+e
+s
+3
+ase Oe ONO or OR ANON a
+Soaqacoocoooescsa |3°
+BAe SBS aae Ss lik
+coooooosoooooolsaA
+WwW
+5 HHHHHHHHHHHHH |
+ODH™-ONK MH ODMOr | BZ
+WDDONDAADOATDHNTT 1S
+SOEaGANTWAANAAAAAYN |
+| l\SSSSSSSSSSdcCc 3s
+2
+o
+ANeDtaenantosnaeasal &
+SEaeoqoQoqoqgeceooooog!|s
+eeseeeeeeeee2eeeeePe]s
+o}/erecoescsooooooooscse x
+?
+S|HHHHHHHHHHHHHHHIS
+WDANOMNAAKENHNANWMAIMSTt |! GY
+FINANDOADSHMNATHNN ]/ &
+ANANANNNANTTWAAANAAYN IS
+Soeooconmncoocoococcoocosa |S
+Ww
+&
+a
+g
+esooosooooosso
+essssseeeeeeee °
+o}occscscsoscscsescsscs 8
+ZIHHHHHHHHHHHHH 2
+ANAT HTHTADNOMNNONM ;o
+MOND ANNAHORGTO ©
+ANANANAAAATI ITS s
+SsScoScScSoSoSoScSS SG | | ie
+2
+2
+s 3
+LL 5
+3 % % % x % Ox x x %
+3 SSE eoeeeeeeeeaeagsa 5
+Sicgoooqgcoocaococoqcos | =
+8 ANAAAAAAAAANAAAA S
+Bea Nan hee Be Ne Be Me > We Me Seat |S
+wl/VUVVOVVVVVVVVVY
+¢ o Oo 0 O09 0 0 0 O09 O09 0 0 O09 O09 0 O Z,
+=locoocooocooooooocooool:
+slieosoosocoososososooosososSssS .
+OLFAAMFAMNMAAMNMAAEMAM Jed
+Sg ee et re
+5
+iQ
+g
+5
+=
+3
+qd o
+g s
+2] ¢2 2 222 (|€
+g ES a ES E a
+aad a)
+Pl, Be SS 8h 8 g
+Elf ss se SO Sa [8
+sa a
+OJ/E OO VY So Se =
+S/F Zz Ze sce 35¥ Q
+Ss /9 O09 9, OOo GO a
+El|Z ZZ ZZ ZZ Ze 5
+° a
+Zz 3
+oO
+n
+=)
+*
+slo Non tw oO 00
+
+ 
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+1.5
+
+oO
+
+CC
+
+ 
+
+exper. & liter. data
+recalculated radii
+
+a
+
+yy
+av
+
+14 OW
+
+< WN Vine
+
+= VY 7 AD Wei
+
+EAA A CAA aaa a aa
+AAAA CAA adaaadaag
+Jw VB
+AAAA CE AaaAaadaaag
+JOO CU
+Www Baa
+
+MIAAAAAAAAAAAAA AG
+Fee ie ea
+
+Fig. 3—Comparison of experimental and recalculated atomic radii in the elements 7; as well as investigated alloys 7;. Literature data for Al, Ti
+(using CN = 12, respectively), Nb, Mo, and Cr (using CN = 8), represented by solid bars, are all taken from Ref. [25]. ““Ti*” designates an
+extrapolation of the atomic radius of bcc Ti corrected by thermal expansion down to RT (CN = 8) according to Ref. [24].
+
+in the alloys deduced from the bec lattice parameter
+(CN = 8), and the values obtained from solving the
+aforementioned overdetermined set of equations. Since
+Ti exhibits a bcc high-temperature modification, a
+second atomic radius for Ti based on the lattice
+parameter of the high-temperature bcc phase
+(CN = 8) and compensated by thermal expansion
+down to RT taken from Reference 24 is included as a
+reference. It is obvious that the atomic radii of all
+elements that are deduced from non-bcc crystal struc-
+tures, namely, Al and Ti, are quite different from the
+recalculated atomic radii, whereas the radii of the bec
+elements are well reflected by this approach. Good
+agreement of the recalculated atomic radii with the
+experimentally observed mean atomic radii in the alloys
+of the present contribution is found. It is pointed out
+that the error indication for the experimental mean
+atomic radii is conservatively chosen (taking the peak
+width into account) in all cases and might be signifi-
+cantly smaller in reality. Thus, the description of alloys
+within the Nb-Mo-Cr-Ti-Al system on the basis of
+tno = 1.4297 A, ro = 1.3627 A,, rey = 1.2488 A,
+ry, = 1.4474 A, and ra; = 1.3172 A is rather good
+and the linearity by Vegard’s law seems to be reason-
+able—at least for variations of the Cr and Nb concen-
+tration. Further details of the binding states in such
+alloys have to be investigated in the future, especially
+with respect to individual variation of the radii of the
+elements, which will not be considered for the further
+course of this article. Also, the actual misfit volume was
+not experimentally determined within this work but
+would describe the extent of lattice distortion in an even
+more accurate way.
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+
+C. Temperature-Dependent Mechanical Properties
+
+Depending on the homologous temperature, bcc
+metals and substitutional solid solutions exhibit an
+intrinsic temperature-dependent yield stress that can be
+divided into a low-temperature, a plateau, and a
+high-temperature regime, as exemplarily shown for
+Fe-3 wt pct Siin References 26 and 27. This is schemat-
+ically presented in Figure 4(a). At low temperatures,
+plastic deformation of bec metals and alloys is thought
+to be mediated by the thermally activated formation and
+movement of kink pairs. The movement of kink pairs
+itself can be controlled by (1) either line tension when
+the critical kink width is very small and of the order of
+the dimension of the dislocation cores or the distance
+between minima in the Peierls potential or (2) by the
+elastic interaction of the kinks when the kink width is
+necessarily high.?*! Consequently, strength increases
+considerably with (1) decreasing temperature and (2)
+increasing strain rate. Above a certain temperature,
+usually referred to as ‘critical temperature”?! or ‘knee
+temperature,””'*! a strength plateau is reached. In this
+temperature regime, strength becomes virtually strain-
+rate independent. The knee temperatures of the bcc
+principal elements of the present HEA system are about
+130 °C for Nb, 275 °C for Mo, and 300 °C for Cr,?!3
+For the investigated alloys, a similar temperature range
+for the knee temperature is expected. When exceeding
+about 0.4:-7;, (Tim: melting temperature), diffusional
+processes lead to rapid decrease of the yield stress.
+Mechanical strength becomes strain-rate dependent
+again. Thus, for the assessment of solid solution
+strengthening in bec alloys, the strain-rate independent
+
+VOLUME 49A, MARCH 2018—777
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(a)
+109; 25. 107s" HH nH Pio
+[ -O- NbMoCrriAl
+wth |B: - ®@ -O- MocrTial
+64 84 “Soc A -A- NbMoTiAl +8
+“Orne 4 Vv -v- Cr ©
+© mM ane ia aie be
+oa ® «| SASS Peon oO
+ao 674A a <Son0 6
+§ [gop Png gfe 8
+- = A A 5
+% rT 44 14 8
+4 co | :
+24 = ©
+yo QAM Sees, r2
+| claim Vo VV
+o+— 0S _ > — 0
+100 200 300 400
+T/°C
+(b)
+1500+ 15004 =10%s" 9,
+-M- NbMoCrrial
+-@©-  MoCrTiAl
+-A-  NbMoTIAl
+
+ 
+
+ 
+
+ 
+
+ 
+
+—T y T y T r T y 1
+400 600 800 1000 1200
+T/°C
+
+(c)
+
+Fig. 4—(a) Scheme of the temperature-dependent yield stress of bec
+metals and alloys. Experimental results for the temperature depen-
+dence of the equiatomic alloys MoCrTiAl, NbMoTiAl, and
+NbMoCrTiAl; (b) microhardness wH®™ was obtained at RT. Multi-
+ple data points represent wH®" obtained for varying homogenization
+parameters and on different batches (Table I). Nanohardness nH
+was determined between RT and 400 °C in order to obtain the pla-
+teau nanohardness nH?'***" = nH(400 °C). (c) Compression tests
+were performed at a consistent strain rate of 10-*s~' between
+400 °C and 1200 °C depending on the macroscopic ductility of the
+polycrystalline material in order to obtain the plateau yield stress
+oblateau equal to ooore (NbMoCrTiAl, NbMoTiAl) and ayo’
+(MoCrTiAl). The connecting lines are to guide the eyes. Error bars
+that do not exceed the symbol size are omitted.
+
+plateau strength, frequently referred to as athermal
+strength, ideally should be investigated.
+
+In order to account for temperature dependence of
+the mechanical properties, several mechanical tests were
+performed and are summarized in Figures 4(b) and (c),
+respectively. Compression tests performed from 400 °C
+
+778—VOLUME 49A, MARCH 2018
+
+ 
+
+Fig. 5—Secondary electron contrast image of a Vickers indent (lower
+right corner) in NbMoCrp.sTiAl at RT, revealing slip traces in vari-
+ous directions in the vicinity of the indent; slip traces are highlighted
+by black arrows.
+
+to 1200 °C on the equiatomic alloys in Figure 4(c) reveal
+the transition from plateau-like yield stress to creep-con-
+trolled strength. As shown in previous investigations,
+the predominant deformation mechanism in NbMoCr-
+TiAI is dislocation slip up to a deformation temperature
+of 1200 °C.""*! Hence, this quinary alloy and its deriva-
+tives are well suited to discuss the temperature-depen-
+dent yield stress, also in the creep regime. Onset of the
+drop of strength is observed between 600 °C (MoCr-
+TiAl) and 1000 °C (NbMoCrTiAl).
+
+Due to microstructural features, NoMoCrTiAl and its
+derivatives do not reveal significant plasticity on a
+macroscopic scale at temperatures lower than 600 °C
+(NbMoTiAl, NbMoCrTiAl) and 400 °C (MoCrTiAl).
+As shown in Figure 1 and discussed in Reference 14,
+abnormal grain growth appears during homogenization,
+which might lead to increasing compatibility stresses
+between these large grains and the surrounding
+microstructure during compression testing. This is a
+possible reason for a limited ductility of the presented
+alloys. In addition, pores within the compression sam-
+ples, developed during solidification after casting, fur-
+ther lead to an increase of internal stresses due to
+localization. Thus, crack formation is _ initiated,
+although, macroscopically, yield stress has not been
+reached. Nevertheless, wH and nanoindentation reveal
+plasticity (without cracking) on a local scale. Figure 5
+exemplarily shows slip traces of NbMoCro sTiAl in the
+vicinity of a wH indent at RT.
+
+By using nanoindentation, a temperature range
+between RT and 400 °C could be covered in order to
+reveal the plateau region of the yield stress in
+Figure 4(b). Further details about the temperature-de-
+pendent nH of pure Cr can be found elsewhere.”"! It has
+to be taken into account that indentation tests are
+typically affected by varying work-hardening behavior
+due to higher plastic strains when compared to uniaxial
+tests for yield stress determination. Typically, hardness
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+O pH®"/ GPa
+
+ 
+
+ 
+
+ 
+
+ 
+
+x
+~
+“©
+oO
+SCS We PP PS ae «s ae ae ae
+s ge or ge a Ie We? We?
+PHT GH LK c% WF oF
+(a)
+a
+3
+= O
+4 fz
+Oo x
+=
+Oo
+Le Fc vy & “8 “ “ ae ae ae ae ae
+3 2 Cfo f SS
+PP KOPF GH HS OF WF WS? WO?
+we s ww Ws™ WP? woo?
+7 8 7
+© QO ae [
+2 as
+= 5 oO +5
+L A
+os U7
+=
+O 3 “ +3
+yH® = 1.52 GPa + 101.56 GPa - 5
+R2, = 0.98
+
+ 
+
+ 
+
+Fig. 6—(a) Assessment of atomic size r and atomic size difference 6
+using recalculated radii (lower part of the figure) as well as of micro-
+hardness at RT wH®? and plateau yield stress gblateau (upper part of
+the figure). Multiple microstructural conditions (higher homogeniza-
+tion temperature, different batches) for various alloys are included
+here and do not reveal significant variation. (b) Correlation of 6/
+wH®T and according element/alloy composition. (c) wH®' evolution
+with respect to 6 reveals linear correlation with pH®' =
+1.52 GPa + 101.56 GPa-d and R2,, = 0.98. (d) Correlation of 6 and
+oPlateau ag well as nH?!" from F: igs. 4(b) and (c), respectively. For
+all diagrams, error bars that do not exceed the symbol size are omit-
+ted. Color coding is consistent for all diagrams.
+
+determined with a Berkovich indenter cerns pads toa
+yield stress at about 7 pet plastic strain.??! Hence,
+contribution of work hardening to strengthening that
+occurs from indentation eventually varies with alloy
+composition. Further alloy development with respect to
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+
++ 1000
+
+T
+o
+
+HOH
+7
+LL
+
+nH?" 7 GPa
+lateau / MPa
+
+O 8/%
+
++ 500 “oO”
+
+O
+<j
+
+ 
+
+ 
+
+ 
+
+T T T T T T T T T T T T
+so < oO ANS ae ww pds ae
+» DM KR KP KP «”
+
+© O S O
+we ge ge HRs S OX WP yO
+ws WW WK o® WP? wo?
+
+(d)
+Fig. 6—continued.
+
+ductility might provide chances to assess this in the
+plateau temperature range. In agreement with the
+observations from compression testing, the nH data
+indicate a plateau of the mechanical strength at tem-
+peratures higher than approximately 300 °C for the
+quaternary and quinary alloys. The temperature-depen-
+dent strain-rate sensitivity was exemplarily investigated
+for NbMoCrTiAl in order to verify that the plateau
+hardness is indeed achieved.
+
+Compared to the rate-sensitive deformation behavior
+of pure bec-structured elements in the low-temperature
+regime, such as Cr with a strain-rate sensitivity of about
+m®? = 0.087!7°! at RT, NbMoCrTiAl shows an
+already, comparably low m®? = 0.018 + 0.004 at RT.
+Nevertheless, as is in the case of pure Cr,?!?9! the
+strain-rate sensitivity of NbMoCrTiAl almost vanishes
+when approaching the knee temperature:
+m° °© = 0.007 + 0.003. Thus, clearly, the plateau
+strength oPlateau is reached in the temperature range
+between 300 °C and 600 °C in NbMoCrTiAl. This is in
+agreement with our observations by compression tests at
+elevated temperatures. In accordance, the chosen values
+for nH?!" and gPlateau are included as separate charts
+in Figures 4(b) and (c), respectively.
+
+The assessment of solid solution strengthening in the
+last part of the present article will be mainly based on wH
+measurements at RT yH*" due to their simplicity and
+reproducibility. wH®" does not significantly depend on
+alloy batch or varying homogenization parameters. Hence,
+it is independent of grain size and orientation and RT
+hardness is reproducible. As shown in Figure 4(b),
+strength and hardness at RT are already influenced by
+the thermally activated slip processes. Nevertheless, micro-
+hardness wH®' at RT, on the one hand, and nH?"**" as
+well as gPlateau on the other hand, exhibit a very reasonable
+correlation (compare Figures 4(b) and (c)).
+
+D. Assessment of Solid Solution Strengthening
+
+By using the atomic radii presented in Figure 3, the
+atomic size difference 6 was calculated. While the mean
+atomic radius, calculated from the lattice parameters
+presented in Table I, monotonically decreases with
+increasing Cr content from NbMoTIiAI to NbMoCrTiAl
+
+VOLUME 49A, MARCH 2018—779
+ 
+
+Table II. Relevant Materials Properties for the Evaluation of Composition-Depending Shear Modulus G
+
+J Nominal Composition Annealing Condition Porosity p (kg/m?) vy (m/s) G (GPa)
+
+1 NbMoTiAl 1500 °C, 20 h 0.0078 + 0.0018 6637 + 2 2940 + 15 57.8 + 2.2
+5 NbMoCrTiAl 1300 °C, 20 h 0.0116 + 0.0027 6594 + 5 3150 + 18 66.2 + 1.0
+6 Nbo.75MoCrTiAl 1300 °C, 20 h 0.0127 + 0.0110 6501 + 46 2990 + 2 58.9 + 2.5
+o Nbo.sMoCrTiAl 1300 °C, 20 h 0.0083 + 0.0025 6420 + 16 3130 + 1 63.4 + 3.4
+8 Nbo..25MoCrTiAl 1300 °C, 20 h 0.0080 + 0.0045 6245 + 40 2880 + 1 52.2 + 1.0
+9 MoCrTiAl 1200 °C, 20 h 0.014 + 0.0070 6165 + 57 2927 + 29 53.6 + 0.5
+
+and further decreases by decreasing the Nb content from
+NbMoCrTiAl to MoCrTiAl, the atomic size difference
+exhibits a different trend. Figure 6(a) shows that for
+alloys between NbMoTiAl and NbMoCrTiAl, a mono-
+tonic increase of 6 is observed, while it is almost constant
+for alloys between NbMoCrTiAl and MoCrTiAl. This is
+caused by the significant difference of the size of Cr
+compared to the average atomic size of the alloy, while Nb
+exhibits a size similar to mean atomic radii of the prepared
+alloys and, thus, provides negligible potential for addi-
+tional lattice distortion. Nevertheless, all presented alloys
+based on Nb-Mo-Cr-Ti-Al exhibit a 6 ranging from 3.25
+to 5.15 pet. Thus, a significant variation of lattice
+distortion for investigating solid solution strengthening
+is provided. For reference, Cr, Mo, and Nb without any
+lattice distortion are investigated, too.
+
+For the assessment of the effect of 6 on the mechanical
+properties, wH at RT pwH®’ and plateau yield stress
+oPlateau are plotted in a unified way in Figure 6(a).
+Varying homogenization treatments as well as varying
+alloy batches (different data points in Figure 6(a);
+Table I provides details) do not s ignificantly alter the
+LH of the alloys. For reference, wH™” values of Nb, Cr,
+and Mo are presented as well. Indeed, atomic size
+difference and wH seem to correlate. In the case of the
+alloy series ranging from NbMoCrTiAl to MoCrTiAl,
+where constant mechanical strength should be expected,
+an excess hardness of about 0.8 to 0.9 GPa above the
+average WH of NbMoCrTiAl to MoCrTiAl of 6.3 GPa
+is observed. Staying approximately constant from
+NbMoTiAl over NbMoCrTiAl towards MoCrTiAl,
+the gradual change of lattice parameter with composi-
+
+tion 7 in , serving as a classical measure for the extent of
+
+lattice distortion in binary alloys,'*! apparently does not
+reflect the present evolution of nH.
+
+Figure 6(b) presents the determined correlation of
+wHET = 1.52 GPa + 101.56 GPa'd with Riy = 0.98.
+
+** As pointed out in Section HI, wH®" is altened by a
+
+ER ai =l1- Cote is a modified coefficient of determination
+R taking the degrees of fréedom & and the number of data points for
+data fitting n into account. The coefficient of determination R? corre-
+sponds to the ratio of the covariance and the product of the standard
+deviations of the fitted data.
+
+possibly different hardness increase due to thermally
+activated slip among the alloy series. For this reason,
+Figure 6(c) exemplarily incorporates the plateau values
+for nanohardness nH?!*"*" as well as yield stress gute
+
+780—VOLUME 49A, MARCH 2018
+
+for the quaternary and quinary alloys. Even then, a
+reasonable correlation of 6 and mechanical strength is
+observed for the present HEA system.
+
+As already mentioned, the hardness of Nb,MoCrTiAl
+alloys with x = 0.25, 0.5, and 0.75 with almost constant
+atomic size difference apparently exceeds the average
+hardness of NbMoCrTiAl and MoCrTiAl. In addition
+to the severely distorted lattice as a major contribution
+to solid solution strengthening, additional factors might
+cause the exceeding wH of Nbo2sMoCrTiAl,
+Nbo.sMoCrTiAl, and especially Nbo.7sMoCrTiAl.
+
+A change in shear modulus, which correlates with the
+line energy of dislocations, could influence dislocation
+motion. The most obvious deviations from the correla-
+tion of wH®" and 6 are observed for the alloys with
+almost constant atomic size difference. Thus, the shear
+modulus G was determined for Nb,MoCrTiAl with
+
+= 0, 0.25, 0.5, 0.75, and 1 and NbMoTIAI also in
+order to cover the entire composition range of the
+investigated alloys (Table II). Shear moduli exhibit only
+minor changes from about 52 GPa to about 66 GPa and
+do not seem to provide a correlation with the observed
+RT microhardness wH®*. Hence, we assume that within
+the Nb-Mo-Cr-Ti-Al system with varying Cr and Nb
+concentration, the shear modulus does not play a major
+role for solid solution strengthening. Although no global
+superstructure was detected by XRD analyses, different
+types of ordering might additionally strengthen some of
+the alloys.
+
+IV. CONCLUSIONS
+
+Providing almost single-phase microstructure, dislo-
+cation mediated plasticity with (111) Burgers vectors,
+and varying atomic size differences between 3.25 and
+5.15 pet, NbMoCrTiAl and its derivatives are very well
+suited for investigating the impact of lattice distortion
+on the solid solution strengthening in concentrated bec
+alloys. In the present article, a correlation between the
+atomic size Wifference 6 and RT microhardness wH®’,
+namely, wHS* = 1.52 GPa + 101.56 GPa-6, was found
+for a series of alloys Nb-Mo-Cr-Ti-Al, including two of
+quaternary and one of quinary, equimolar composition.
+The following conclusions can be drawn.
+
+(1) Bcc solid solutions were stabilized by appropriate
+heat treatments in all investigated alloys, and
+competing phases were accordingly suppressed
+when gradually reducing the concentration of Nb
+and Cr.
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+(2) Individual atomic radii of the alloying elements were
+determined by evaluation of experimentally observed
+mean atomic radii of all investigated alloys.
+
+(3) Although pH®! reasonably correlates with the
+atomic size difference 6, the magnitude of pH®" is
+altered by the well-known feature of thermally
+activated dislocation slip in bcc metals and solid
+solutions. Thus, combined temperature-dependent
+mechanical characterization by both nanoindenta-
+tion and compression tests was used to exemplarily
+assess the athermal strength of the equimolar
+alloys. Both oP!" and nH?'**" further support
+the correlation with 6 found for wH®".
+
+(4) Variation of shear moduli remains small within
+the composition range of the investigated alloys
+and cannot account for the observed dependence
+of the hardness of the alloys.
+
+ACKNOWLEDGMENTS
+
+The financial support by the Deutsche Forschungsge-
+meinschaft (DFG), Grant No. HE 1872/31-1, is grate-
+fully acknowledged. One of the authors (AK) thanks the
+Carl Zeiss Foundation for financial support via a Post-
+doctoral Grant. IC acknowledges the financial support
+by the Alexander von Humboldt Foundation. The au-
+thors acknowledge the chemical analysis by ICP-OES at
+the Institute for Applied Materials TAM-AWP), Karl-
+sruhe Institute of Technology (KIT). We also thank D.
+Schliephake, U. Hauf, P. Eyer, F. Hinrichs, and M.
+Swetik for experimental support. We thank Professor
+W.A. Curtin (EPFL, Lausanne, Switzerland) for fruitful
+discussions and suggestions. This work was partly car-
+ried out with the support of the Karlsruhe Nano Micro
+Facility (KNMF, www.knmf.kit.edu), a Helmholtz Re-
+search Infrastructure at Karlsruhe Institute of Technol-
+ogy (KIT, www.kit.edu).
+
+REFERENCES
+
+1. J.-W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin, T.-T.
+Shun, C.-H. Tsau, and S.-Y. Chang: Adv. Eng. Mater., 2004,
+vol. 6, pp. 299-303.
+
+METALLURGICAL AND MATERIALS TRANSACTIONS A
+
+SIDA
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+I.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23,
+
+24,
+
+25,
+
+26.
+27.
+
+28.
+29,
+
+30
+
+. D.B. Miracle and O.N. Senkov: Acta Mater., 2017, vol. 122,
+pp. 448-511.
+
+. C. Varvenne, G.P.M. Leyson, M. Ghazisaeidi, and W.A. Curtin:
+
+Acta Mater., 2017, vol. 124, pp. 660-83.
+
+R.L. Fleischer: Acta Metall., 1961, vol. 9, pp. 996-1000.
+
+R.L. Fleischer: Acta Metall., 1963, vol. 11, pp. 203-09.
+
+R. Labusch: Phys. Status Solidi (b), 1970, vol. 41, pp. 659-69.
+
+I. Toda-Caraballo: Scripta Mater., 2017, vol. 127, pp. 113-17.
+
+. I. Toda-Caraballo and P.E.J. Rivera-Diaz-del-Castillo: Acta Ma-
+
+ter., 2015, vol. 85, pp. 14-23.
+
+N.L. Okamoto, K. Yuge, K. Tanaka, H. Inui, and E.P. George:
+
+AIP Aady., 2016, vol. 6, p. 125008.
+
+C. Varvenne, A. Luque, and W.A. Curtin: Acta Mater., 2016,
+
+vol. 118, pp. 164-76.
+
+Z. Wu, H. Bei, G.M. Pharr, and E.P. George: Acta Mater., 2014,
+
+vol. 81, pp. 428-41.
+
+S.I. Rao, C. Varvenne, C. Woodward, T.A. Parthasarathy, D.
+
+Miracle, O.N. Senkov, and W.A. Curtin: Acta Mater., 2017,
+
+vol. 125, pp. 311-20.
+
+A. Fernandez-Caballero, J.S. Wrobel, P.M. Mummery and D.
+
+Nguyen-Manh: arXiv preprint http://arXiv:1705.01844.
+
+H. Chen, A. Kauffmann, B. Gorr, D. Schliephake, C. Seemiiller,
+
+J.N. Wagner, H.-J. Christ, and M. Heilmaier: J. Alloys Compd.,
+
+2016, vol. 661, pp. 206-15.
+
+B. Gorr, F. Mueller, H.-J. Christ, T. Mueller, H. Chen, A.
+
+Kauffmann, and M. Heilmaier: J. Alloys Compd., 2016, vol. 688,
+
+pp. 468-77.
+
+B. Gorr, F. Miller, M. Azim, H.-J. Christ, T. Miller, H. Chen, A.
+
+Kauffmann, and M. Heilmaier: Oxid. Met., 2017, vol. 88, pp. 1-11.
+
+B. Gorr, M. Azim, H.-J. Christ, T. Mueller, D. Schliephake, and
+
+M. Heilmaier: J. Alloys Compd., 2015, vol. 624, pp. 270-78.
+
+B. Gorr, M. Azim, H.-J. Christ, H. Chen, D.V. Szabo, A.
+
+Kauffmann, and M. Heilmaier: Metall. Mater. Trans. A, 2016,
+
+vol. 47A, pp. 961-70.
+
+J.B. Nelson and D.P. Riley: Proc. Phys. Soc., 1945, vol. 57,
+
+pp. 160-77.
+
+M.J. Mayo and W.D. Nix: Acta Metall.,
+
+pp. 2183-92.
+
+I.-C. Choi, C. Brandl, and R. Schwaiger: Acta Mater., 2017,
+
+vol. 140, pp. 107-15.
+
+K.L. Johnson: Contact Mechanics, Cambridge University Press,
+
+Cambridge, 1987.
+
+K. Lichtenberg,
+
+Weidenmann: J. Compos.
+
+1177/0021998317699867.
+
+O.N. Senkov, J.M. Scott, S.V. Senkova, D.B. Miracle, and C.F.
+
+Woodward: J. Alloys Compd., 2011, vol. 509, pp. 6043-48.
+
+G. Chiarotti: in Structure, G. Chiarotti, ed., Springer, Berlin, 1993,
+
+vol. 24a, pp. 21-26.
+
+N. Zarubova: Scripta Metall., 1977, vol. 11, pp. 441-44.
+
+N. Zarubova and B. Sestak: Phys. Status Solidi (a), 1975, vol. 30,
+
+pp. 365-74.
+
+A. Seeger: Z. Metallkd., 2002, vol. 93, pp. 760-77.
+
+V. Maier, A. Hohenwarter, R. Pippan, and D. Kiener: Scripta
+
+Mater., 2015, vol. 106, pp. 42-45.
+
+. B. Sestak and A. Seeger: Z. Metallkd., 1978, vol. 69, pp. 195-202.
+
+1988, vol. 36,
+
+R. Ro6ssler and K.A.
+2017, https://doi.org/10.
+
+E. Orsolani-Uhlig,
+Mater.,
+
+VOLUME 49A, MARCH 2018—781
+

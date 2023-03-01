@@ -1,0 +1,344 @@
+The aim of this work was to apply mechanical alloying technique for synthesis of high entropy multicom-
+ponent equimolar WMoNbZrV alloy and to investigate the phase composition after milling and after heat
+treatment, as well as to characterize the observed changes of crystallite size, lattice strain and lattice
+parameter of solid solution formed. It was found that nanocrystalline bcc solid solution was characterized
+by crystallite size of 10 nm, lattice strain of 0.58% and lattice parameter of 3.1687 A. Heating the sample
+up to 700 °C resulted in decrease of lattice strain down to 0.20%, while the crystallite size remained not
+changed, testifying good thermal stability of nanocrystalline bcc solid solution obtained.
+
+© 2018 Elsevier B.V. All rights reserved.
+
+ 
+
+1. Introduction
+
+According to traditional alloy formation concept, majority of
+alloys are composed of one main metallic element. In the structure
+of these alloys solid solutions, or amorphous phase can be formed.
+Other alloying elements result in modification of microstructure
+and properties of the alloys. High entropy alloys (HEA) are a new
+class of alloys different from conventional ones based on one or
+two elements. HEAs contain at least five principal elements with
+concentrations between 5 and 35 at% of each one, usually in equia-
+tomic ratio. High configurational entropy of HEAs leads to the for-
+mation of simple fcc and/or bcc solid solutions rather than complex
+intermetallic phases [1-3]. HEAs are manufactured by various
+techniques, like conventional casting, rapid solidification, chemical
+and physical vapour deposition or mechanical alloying (MA). The
+last technique is especially useful for high melting point alloys dif-
+ficult for processing by casting techniques. MA has been widely
+recognized as an important non-equilibrium solid state processing
+route for the synthesis of variety of alloys showing different phase
+compositions and microstructures [4]. Selected high melting point
+HEAs are widely studied due to their designation for high-
+temperature and fusion-facing applications [5,6].
+
+According to our literature review, the alloy studied in this
+work has not been reported before. Similar composition has been
+investigated by Senkov et al. [7-8]. For WMoNbVTa alloy prepared
+by arc melting typical dendritic microstructure has been observed.
+
+* Corresponding author.
+E-mail address: dariusz.oleszak@pw.edu.p! (D. Oleszak).
+
+https://doi.org/10.1016/j.matlet.2018.08.060
+0167-577X/© 2018 Elsevier B.V. All rights reserved.
+
+The present study is taken up to synthesise WMoNbZrV high
+melting equimolar high entropy alloy using mechanical alloying,
+as well as to investigate the phase evolution upon milling and after
+heat treatment. An additional purpose of this work was to verify
+whether the changes of crystallite size, lattice strain and lattice
+parameter of single phase solid solution formed upon mechanical
+alloying of multicomponent alloy are similar to the ones reported
+for conventional mechanically alloyed binary alloys [4].
+
+2. Experimental details
+
+Commercial pure elemental powders of W, Mo, Nb, Zr and V
+(purity at least 99.5%, particle size below 50 ym, Alfa Aesar) were
+used as the starting materials. An equimolar high entropy alloy
+with composition WMoNDbZrV was synthesized (20 at% of each ele-
+ment). The milling processes were performed in a Fritsch P5 plan-
+etary ball mill equipped with hardened steel vials and balls of
+10 mm diameter. Maximum milling time was 100h and the pro-
+cess was performed under protective atmosphere of argon. No pro-
+cess control agent was added to the powders. The ball-to-powder
+weight ratio was 10:1. In order to confirm the alloy formation dur-
+ing milling, small amount of powder was taken out after selected
+processing times for structural characterization. The milled sam-
+ples were studied by X-ray diffraction (XRD), using Rigaku Mini-
+Flex Il diffractometer with Cu Ko radiation (4 = 1.5418 A), for
+phase formation monitoring and for calculation of the crystallite
+size and lattice strain in milled powders. For this purpose
+Williamson-Hall approach was adopted [9]. The lattice parameters
+determination of bcc phase was done by applying Nelson-Riley
+D. Oleszak et al./ Materials Letters 232 (2018) 160-162
+
+extrapolation method [10]. To evaluate the thermal structural sta-
+bility, the product after final milling time (100 h) was continuously
+heated in the calorimeter (Perkin Elmer DSC 7, heating rate
+40 K min~', argon flow) from room temperature up to 700 °C and
+next subjected to XRD measurements. Chemical composition of
+the powders has been verified by X-ray fluorescence spectroscopy
+(XRF) using DELTA analyzer, Olympus.
+
+3. Results and discussion
+
+The sequence of diffraction patterns obtained for the powder
+mixture subjected to mechanical alloying for selected times is pre-
+sented in Fig. 1. At the initial state the diffraction lines correspond-
+ing to all the starting elements are visible. It can be noticed that
+with the increase of milling time reduction in the intensity of
+
+(211) (220
+50 h + DSC
+
+100 h
+
+WMOoNbZrV (200)
+
+ 
+
+50 h
+
+ 
+
+IN
+
+ 
+
+ 
+
+ 
+
+Intensity [a.u.]
+
+ 
+
+ 
+
+ 
+
+2 theta [deg]
+
+Fig. 1. XRD patterns recorded for WMoNbZrV powders subjected to milling for
+increasing processing time and after heating in the DSC up to 700 °C.
+
+161
+
+diffraction lines and gradual disappearance of some of them can
+be seen at the diffraction patterns. The diffraction lines of Zr and
+V disappear after 2 and 5h of processing, respectively. Next, Nb
+diffraction lines vanish after 20h of milling. This suggests that in
+the milled powders synthesis of the alloy takes place.
+
+Milling of the alloy for the time longer than 20 h does not cause
+major changes in the diffraction pattern and the final product is a
+single-phase solid solution with the bcc lattice structure. However,
+further broadening of the diffraction lines related to crystallite size
+decrease and/or lattice strain increase is registered. The XRD pat-
+tern for the sample subjected to milling and next heated in the
+DSC up to 700 °C is also presented in Fig. 1. The presented pattern
+is very similar to the one recorded for the sample milled only.
+
+The changes of crystallite size and lattice strain for bcc solid
+solution as a function of milling time are plotted in Fig. 2. The crys-
+tallite size decreases gradually reaching about 11 nm +2 nm for
+the final processing stage. Whereas, lattice strain shows a maxi-
+mum of 0.58% + 0.05% for intermediate milling time and decreases
+with longer processing. Both curves (D and e vs milling time) exhi-
+bit a behavior typical for metallic powders subjected to mechanical
+milling [4]. Additionally, the values of crystallite size and lattice
+strain of bcc solid solution after heating the sample in the DSC
+are also marked in Fig. 2. The powder after 50 h of MA was heated
+in a calorimeter in the temperature range from 50 to 700 °C at con-
+stant heating rate of 40 K min“! in order to check the thermal sta-
+bility of the structure of the obtained alloy. The results of XRD
+studies indicate that after heating practically there are no qualita-
+tive changes in the pattern and the bcc structure is preserved, tes-
+tifying good thermal stability of the synthesized bcc phase.
+However, the broadening of registered diffraction lines is smaller
+in comparison with the powder milled only, suggesting the
+increase of crystallite size and/or lattice strain decrease.
+
+The Williamson-Hall plots for the samples after 50 h milling and
+milling followed by DSC measurement are plotted in Fig. 2 (inset). It
+was found that after heating the crystallite size of bcc solid solution
+remains nearly the same (about 10 nm) and, simultaneously, lattice
+strain decreases from 0.35 to 0.20%, comparing to milled powders
+only (change of the slope of linear fit in Fig. 2, inset).
+
+0,8
+
+ 
+
+0,030
+
+0,025 -
+
+0,020
+
+0,015
+
+0,010
+
+WMoNbZrV
+
+°.
+
+50 h MA
+0,7
+6 .
+
+a
+50 h MA + DSC 700°C
+
+0,6
+
+ 
+
+ 
+
+ 
+
+0,005 0,5
+0,000 -}——— 7 Fe oO
+_ 00 04 02 03 04 05 06 07 08 O09 1,0 —
+= sin 6 0,4 x
+a o 03
+: after DSC o
++ up to 700°C
+Oo 0,2
+after DSC
+up to 700°C i 0,1
+0,0
+0 10 20 30 40 50 60 70 80 90 100 110
+t [h]
+
+Fig. 2. Crystallite size D and lattice strain e as a function of milling time and heat treatment; inset: Williamson-Hall plots for the samples subjected to MA for 50 h and MA
+followed by continuous heating in the DSC up to 700 °C.
+162 D. Oleszak et al./ Materials Letters 232 (2018) 160-162
+
+ 
+
+3,174
+3,172
+
+3,171
+
+3,170
+3,169 |
+
+3,168
+3,167
+
+ml
+3,166
+
+3,165 1
+
+aA]
+
+= after DSC
+up to 700°C
+
+3,164
+3,163
+
+ 
+
+ 
+
+3,162
+0 10 20 30 40 50 60 70 80 90 100 110
+
+t [h]
+
+Fig. 3. Changes of bcc phase lattice parameter as a function of milling time and heat
+treatment.
+
+The powders after final milling time were subjected to chemical
+composition analysis. Some amount of Fe (2.2 at%) was found as a
+contamination coming from the milling media (balls and vial).
+
+The changes of bcc phase lattice parameter as a function of pro-
+cessing time are plotted in Fig. 3. At the early milling times, when
+mainly Zr and V atoms dissolve in the W and Mo matrix, small
+decrease of lattice parameter is observed. Such behavior can result
+from the fact, that Zr and V reveal the smallest values of atomic
+radii, 1.75 and 1.71 A, respectively, comparing to 1.93 A for W,
+1.90 A for Mo and 1.98 A for Nb [11]. However, for longer milling
+time the slight increase of its value can be noticed, related to fur-
+ther distortion of the lattice. The final value of bcc solid solution
+lattice parameter after 100 h MA (3.1687 A + 0.0005 A) is located
+between the smallest one for V (3.0274 A) and the biggest one
+for Nb (3.3033 A).
+
+The value of bcc solid solution lattice parameter after calorimet-
+ric measurement (3.1645 A) was clearly smaller than the one cal-
+culated for powders milled only (Fig. 3). These changes of lattice
+parameter during the heating can indicate that the structure
+become more relaxed. Simultaneously, single phase bcc structure
+and nanosize of crystallites are preserved, confirming good thermal
+stability of this alloy resulting from the slow diffusion due to high
+entropy of the system.
+
+A question arises why the diffraction lines corresponding to bcc
+solid solution formed upon milling are located in the vicinity of W/
+Mo lines. The possible explanation can result from the fact, that W
+
+and Mo reveal the highest melting point among the elements form-
+ing this alloy and these elements also exhibit very high hardness.
+Another reason can be related to the values of enthalpy of mixing.
+Enthalpies of alloys formation for W and Mo with other elements
+are negative (e.g. —13 kJ/mol for W-Nb, —14kJ/mol for W-Zr,
+—9 kJ/mol for Mo-Nb), while for W-Mo this value is zero [12]. It
+can facilitate earlier and easier dissolution of Nb, Zr and V in W
+and Mo, as was observed in this work.
+
+4. Conclusions
+
+High melting point high entropy multicomponent WMoNbZrV
+alloy has been successfully synthesized using mechanical alloying
+process. The final powder revealed nanocrystalline single phase
+bcc structure characterized by minimum crystallite size of about
+10 nm, maximum lattice strain of 0.58% and lattice parameter
+3.1687 A.
+
+Continuous heating the powders after 50h of MA in the
+calorimeter up to 700°C resulted in lattice strain decrease from
+0.35 to 0.20%, while the crystallite size of bcc phase remained
+unchanged (10 nm). The performed heat treatment also resulted
+in a slight decreasing of bcc phase lattice parameter. These results
+confirmed the high thermal stability of the alloy resulting from the
+slow diffusion of elements due to high entropy of the system.
+
+Acknowledgement
+
+Financial support of National Science Centre under the project
+no UMO-2012/05/B/ST5/00747 is acknowledged.
+
+References
+
+[1] Y. Zhang, T.T. Zuo, Z. Tang, M.C. Gao, K.A. Dahmen, P.L. Liaw, Z.P. Lu, Prog.
+Mater. Sci. 61 (2014) 1-93.
+[2] M.C. Gao, J.W. Yeh, P.K. Liaw, Y. Zhang (Eds.), High-Entropy Alloys,
+Fundamentals and Applications, Springer International Publishing, 2016.
+[3] B.S. Murty, J.W. Yeh, S. Ranganathan, High-Entropy Alloys, Butterworth-
+Heinemann, 2014.
+[4] C. Suryanarayana, Prog. Mater. Sci. 46 (2001) 1-184.
+[5] O.A. Waseem, J.H. Lee, H.M. Lee, H.J. Ryu, Mater. Chem. Phys. 210 (2018) 87-94.
+[6] O.A. Waseem, H,J. Ryu, Sci. Rep. 7 (2017) 1926.
+[7] O.N. Senkov, G.B. Wilks, D.B. Miracle, C.P. Chuang, P.K. Liaw, Intermetallics 18
+(2010) 1758-1765.
+[8] O.N. Senkov, G.B. Wilks, J.M. Scott, D.B. Miracle, Intermetallics 19 (2011) 698-
+705.
+[9] G.K. Williamson, W.H. Hall, Acta Mater. 1 (1953) 22-31.
+[10] B.D. Cullity, S.R. Stock, Elements of X-Ray Diffraction, third ed., Prentice Hall,
+Upper Saddle River, 2001.
+[11] E. Clementi, D.L. Raimond, W.P. Reinhardt, J. Chem. Phys. 47 (1967) 1300-
+1307.
+[12] F.R. de Boer, R. Boom, W.C.M. Mattens, A.R. Miedema, A.K. Niessen, Cohesion in
+Metals, Elsevier Science Publisher B. V, 1988.
+

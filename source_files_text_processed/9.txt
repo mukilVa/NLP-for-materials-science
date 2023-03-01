@@ -1,0 +1,405 @@
+In order to study chemical complexity-induced lattice distortion in high-entropy alloys, the static
+Debye-Waller (D-W) factor of NiCoFeMnCr solid solution alloy is measured with low temperature
+neutron diffraction, ambient X-ray diffraction, and total scattering methods. The static atomic dis-
+placement parameter of the multi-element componentalloy at 0 K is 0.035-0.041 A, which is obvious
+larger than that of element Ni(~ 0A). The atomic pair distance between individual atoms in the alloy
+
+ARTICLE HISTORY
+Received 5 April 2018
+
+KEYWORDS
+
+Solid solution alloys; neutron
+diffraction; EXAFS; local
+structure
+
+investigated with extended X-ray absorption fine structure (EXAFS) measurements indicates that Mn
+has a slightly larger bond distance ( ~ 0.4%) with neighbor atoms than that of others.
+
+ 
+
+50 50
+“Pemperature (K) 2
+
+IMPACT STATEMENT
+
+The chemical complexity induced local structural disorder in the high entropy alloy is distinguished
+from the thermal contribution by the combination of neutron and X-ray techniques.
+
+The discovery of multi-element concentrated solid solu-
+tion alloys or high-entropy alloys stimulate the ideals of
+design new metal alloys and even ceramics with complex
+chemical compositions [1-5]. As a new class of mate-
+rials, the compositionally complex alloys have attracted
+intense research interests over the past decade, leading
+to the discovery of some HEAs with excellent prop-
+erties, such as high strength [6,7], good wear, corro-
+sion and irradiation resistance [8-10]. Though HEAs do
+not always have high configurational entropy, the high
+entropy effect is still the signature concept of HEAs,
+and many of the advanced mechanical properties orig-
+inate from the ‘cocktail’ effect [3]. Due to the lack of
+chemical periodicity and different atomic sizes, struc-
+tural distortion is one of the ‘core effects’ in HEAs, which
+affects the mechanical and physical properties including
+enhanced hardness [4,11], reduced electrical and thermal
+
+conductivity [12]. However, severe lattice distortion may
+also destabilize the single solid solution phase. Recent
+TEM experiments have revealed that both NiCoFeM-
+nCr and NiCoFeCr precipitate after long-time anneal-
+ing at intermediate temperatures [13-15]. The study
+of lattice distortion is very important in understand-
+ing the advanced mechanical and physical properties of
+HEAs. Previous investigations suggest that the degree of
+structural distortion of HEAs varies depending on the
+different lattice symmetries and chemical compositions
+[16-19]. An obvious lattice distortion was observed in
+the bcc solid solution alloy [16], however, the chemical
+complexity-induced static displacement of atoms in fcc
+HEAs may not be as large as hypothesized [20].
+
+Asa typical example, the five-element HEA NiCoFeM-
+nCr has been extensively studied, and it exhibits damage
+tolerance with tensile strength above 1 GPa and fracture
+
+CONTACT Fuxiang Zhang © zhangf@ornl.gov © Division of Materials Science and Technology, Oak Ridge National Laboratory, Oak Ridge, TN 37831, USA
+
+© 2018 Oak Ridge National Laboratory. Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use,
+
+distribution, and reproduction in any medium, provided the original work is properly cited.
+toughness values exceeding 200 MPaem™!/?, and both
+strength and ductile improve at cryogenic temperatures
+[21]. The mechanical strengthening in HEAs is believed
+to be attributed to dislocation activities [6,22]. By analyz-
+ing the width of Bragg diffraction peaks from the neutron
+total scattering profiles [20], NiCoFeMnCr solid solution
+alloy dose not yield significant difference in lattice dis-
+tortion from that of binary NiCr solid solution alloys
+with Cr concentration of 20%, 25% and 33%, respec-
+tively. Our quantitative analysis [23] of hard X-ray atomic
+pair distribution function (PDF) has found that the lat-
+tice distortion in NiCoFeMnCr is less than 0.24%. This
+slight lattice distortion is attributed to the chemical com-
+plexity which may play a critical role to the mechanical
+properties. Total scattering methods at ambient temper-
+ature can only give an average estimation of the lattice
+distortion but cannot distinguish the contribution from
+thermal vibration and static lattice distortion, and the
+information of individual atomic pairs is also missing.
+
+Local disorders in HEAs result from static lattice dis-
+tortion and short-range chemical ordering. Short-range-
+order is not rare in traditional alloys and it greatly affects
+the physical properties [24], and it is also found in HEAs
+[25,26]. Recent experimental study [27] has revealed
+complicated magnetic behaviors for NiCoFeMnCr solid
+solution alloy, which transfers from paramagnetic to a
+spin glass state at 93K and then to a ferromagnetic
+state at 38K while maintaining its fcc structure down
+to 3K. The transition is likely associated with a ferro-
+magnetic ordering of moments carried by Fe, Co, and/or
+Mn atoms. In this study, through the combination of
+different experimental techniques, including room tem-
+perature hard X-ray total scattering, low temperature
+time-of-flight neutron diffraction (ND) and extended
+X-ray absorption fine structure (EXAFS), the intrinsic
+lattice distortion from the chemical complexity and the
+local bonding environment of individual elements in
+NiCoFeMnCr solid solution alloy are investigated.
+
+Solid solution alloy ingot was prepared by arc-melting
+of high purity element mixtures for more than five times,
+and finally casted into a copper mold. The polycrys-
+talline alloy sample was made by cold-rolling of the ingot,
+which was annealed at high temperature (1200°C) for
+one day. The cold-rolled specimens were then annealed
+at 800°C for 1h. X-ray diffraction measurement con-
+firmed that NiCoFeMnCr sample is a single solid solution
+phase with a fcc structure. Scanning electron microscope
+observation revealed that the grain size of the polycrys-
+talline sample is less than 10 um. The sample was cut
+into stripes with thickness around 150 um, mechani-
+cally polished and the damaged surface layer was then
+removed by electrochemical corrosion. The texture and
+total X-ray scattering measurement was conducted with a
+
+MATER. RES. LETT. 451
+
+61.332 keV hard X-ray source at CHESS. The instrument
+parameters were calibrated with a standard CeO powder
+from NIST. In order to reduce the effect of texture on
+the intensity of Bragg peaks, the alloy stripe was rotated
+during the measurement with w from —60° to 60° and
+the final XRD profile was converted from the stacking
+Debye images with Fit 2d software [28]. The ND mea-
+surement was conducted at POWGEN station, Spallation
+Neutron Source at Oak Ridge National Laboratory with
+time-of-flight neutron source from room temperature to
+50 K. The quantitative structural analysis of the X-ray and
+ND profiles was performed by using Rietveld refinement
+method with the Fullprof software [29]. EXAFS spec-
+trum was collected at beam 13-ID-E, Advanced Photon
+Source at Argonne National Laboratory. The EXAFS at
+the K-edge of each element was measured in fluorescence
+mode. The beam size is 100 x 100 um? and nearly per-
+pendicular to the sample surface. X-ray fluorescence was
+collected in grazing exit mode with angle of 2-3 degrees.
+The analysis of Fourier Transforms (FTs) of EXAFS and
+fitting were conducted using Demeter software [30].
+X-ray diffraction measurement has indicated that the
+cold-rolled NiCoFeMnCr single phase solid solution
+alloy is slightly textured along <200> direction. With
+w scan from —60° to 60°, no obvious texture is observed
+and the XRD profile is well refined with a random solid
+solution structure model. Figure 1(a) shows the Rietveld
+refinement results and the lattice constant is 3.5993(1) A.
+There is no obvious mismatch for the position of Bragg
+peaks, which suggests that the lattice distortion from the
+fcc structure is not visible from the XRD measurement.
+NiCoFeMnCr has a simple fcc structure like Ni, careful
+analysis of the diffraction patterns can obtain more struc-
+tural information. Not taking into account the lattice
+strain, Rietveld refinement yields the isotropic thermal
+factor Biso = 0.37(3) A. Since a severe lattice distortion
+in a solid solution alloy generates large diffuse scattering,
+the peak changes due to atomic displacements can also be
+measured with the total scattering measurements. Anal-
+ysis of atomic pair distribution function (PDF) found
+~ 0.24% lattice distortion [23], which is smaller than the
+expected value due to atomic size mismatch. If neglect-
+ing the difference of the individual atoms, the refined
+isotropic Debye factor Uiso = 0.005 A?, which is very
+close to the XRD result (0.0047 A? from Bisq = 872 Uigo).
+The Debye factor includes the contribution of thermal
+vibration and static lattice distortion that cannot be dis-
+tinguished from a room temperature XRD measurement.
+Neutrons interact directly with the nuclei of atoms,
+and ND is more sensitive to the vibration of atoms in
+solids. NiCoFeMnCr solid solution alloy was measured
+with time-of-flight ND from room temperature to 50 K.
+Figure 1(b) shows the Rietveld refinement of the ND
+452 (w) F.ZHANGETAL.
+
+© Obs.
+
+Cal.
+
+— Diff.
+| Bragg
+
+NiCoFeMnCr
+X-ray 1. = 0.2022 A
+a= 3.5993 (1)A
+R,,= 9.12%
+
+Intensity
+
+(A),
+
+Lattice constant
+: tn
+%
+
+Ww
+nn
+eo
+ESS
+
+0 50
+
+100 150 200
+Temperature (K)
+
+ 
+
+250 3000
+
+NiCoFeMnCr
+TOF Neutron
+
+nan
+S
+=
+
+Ww
+Ss
+=
+
+Intensity (counts)
+
+ 
+
+ 
+
+50 «100 150 200 250 300
+Temperature (K)
+
+Figure 2. Temperature dependence of a) lattice parameter and b) isotropic thermal factors of NiCoFeMnCr solid solution alloy. The cross
+
+symbols are the Bis. factors of Ni as a comparison.
+
+profile at 50 K. The lattice parameter changes from 3.5942
+(1) A at room temperature to 3.5851 (1) A at 50K.
+Previous low temperature XRD measurements [27] have
+revealed that the lattice parameter of foc NiCoFeMnCr
+alloy reaches the lowest value at 50 K and has no obvious
+change at lower temperatures though it has a magnetic
+phase transition at 39 K. At room temperature, the refine-
+ment of ND profile yields a thermal factor Biso = 0.393
+(9) A? (or Uiso = 0.005A7). The very good agreement of
+the Debye factors obtained from XRD, X-ray PDF and
+ND suggested that the Rietveld analysis for our sam-
+ple is reliable. The temperature dependence of the lat-
+tice parameter and Debye factor from ND measurements
+are illustrated in Figure 2. The Debye factor changes
+to 0.151 (6) A? (Uiso = 0.020 A?) at 50K. By linear
+extrapolating the thermal factor to 0K, Bisy = 0.09 A?
+and Ui, = 0.001 A? are obtained. The thermal vibra-
+tion is close to zero to most materials as shown in
+Figure 2(b) for Ni [31]. Assuming the thermal vibra-
+tion for NiCoFeMnCr at 0 K is zero, the Debye factor of
+0.001 A? at OK is the intrinsic vibration which can only
+be contributed by the size mismatch of different elements,
+
+and the corresponding atomic displacement is ~ 0.035 A.
+The lattice parameter and Debye factors of NiCoFeMnCr
+measured with XRD, PDF and ND are listed in Table 1.
+In fact, the lattice constant of NiCoFeMnCr has nearly no
+changes below 50 K, and the Debye factor at 50 K is the
+upper limit of the intrinsic lattice distortion, which cor-
+responds to an atomic displacement value of ~ 0.41 A.
+From XRD and ND measurements, the average atomic
+displacement in NiCoFeMnCr HEA at zero K due to size
+mismatch is thus between 0.035 and 0.041 A.
+
+In order to identify the local structure of individual
+atoms in HEAs, EXAFS measurements were conducted
+at the k-edge of each element for NiCoFeMnCr HEA.
+The FT of EXAFS was derived with Athena program and
+the fitting of FIs was performed using Artemis software.
+By keeping the same k-range (3-11A~!), the k?-weighted
+FTs of NiCoFeMnCr solid solution alloy at the K-edge
+of each element is shown in Figure 3(a). The similar
+characters of the FTs suggest a very close bonding envi-
+ronment of different atoms in the solid solution alloy.
+However, the first peak of each element is not exactly in
+the same r space, especially to Mn atom, which shifts to
+MATER. RES. LETT. 453
+
+Table 1. Lattice parameter a and isotropic thermal factors (or Debye factors) of NiCoFeMnCr single phase solid solution alloy measured
+
+with different methods (Biso = 8707Uiso, Visco = <o?>).
+
+ 
+
+ 
+
+Method XRD X-ray PDF ND EXAFS
+
+a(A) 3.5993(1) 3.5825(4) 3.5942 (1) 3.58(1)
+
+Debye factor (A2) Biso = 0.37(3) Uiso = 0.0050 (9) Biso = 0.393(9) (300 K) o2 = 0.007(1)
+(Biso = 0.39) Biso = 0.151(6) (50 K)
+
+ao
+SS
+=>
+a4
+4
+oS
+
+“4
+
+k
+
+1
+nN
+
+ 
+
+2 3 4.5
+Radial distance (A)
+
+Figure 3. k*-weighted FTs of EXAFS function of NiCoFeMnCr solid
+solution alloy at the k-edge of individual elements; (b) The fit of Ni
+k-edge FT EXAFS function with the random fcc structure model.
+k-range: 3.0-11A—', r = 1.5-5 Ais fitted.
+
+a little larger r-value. In order to fit the FTs and obtain
+the local bonding information, a randomly distributed
+cluster model (fcc) with 55 atoms in a diameter of less
+than 5.2 A is built. Single and multi-scattering paths from
+atoms in the first 4 shells around the core atom are taken
+into account. There will be too many parameters to fit
+because of 5 different elements in the alloy. Since all the
+five elements in the solid solution alloy have similar size,
+similar bonding environment and similar X-ray scatter-
+ing cross section, it is difficult to distinguish them with
+X-ray. In order to make the refinement possible, we use
+a simple model, which smears the difference of each ele-
+ment in the same shell. The core atom is assumed to have
+the same bond distances with neighboring atoms of dif-
+ferent species in the same shells and the corresponding
+D-W factors are also assumed to be the same. Besides
+the magnitude, Ep and bond length correction parame-
+ters, four D-W factors are refined for the atomic pairs
+between the core atoms and the atoms in the first 4
+nearest neighbors. The k-range is 3-11A7! for all the FTs
+
+Table 2. The distance of the nearest atomic pairs in NiCoFeMnCr
+and the D-W factors derived from the fitting of FTs of EXAFS.
+
+ 
+
+ 
+
+Core atom R (A) o?: (A2)
+Ni 2.53 (1) 0.007 (2)
+Co 2.53 (1) 0.007 (1)
+Fe 2.53 (1) 0.007 (1)
+Mn 2.54 (1) 0.006 (1)
+Cr 2.53 (1) 0.007 (1)
+
+ 
+
+and peaks in the region of 1.5-5 A radial distance are fit-
+ted. Figure 3(b) shows the fitting results of Ni K-edge FTs,
+where the fitting is pretty good in radial distance of less
+than 5 A. The nearest neighbor atomic pair distances and
+the corresponding Debye-Waller factors from the fitting
+are listed in Table 2. The nearest atomic pair distance is
+2.53 (1) A for Ni, Co, Fe and Cr as the core atom. Mn
+atoms have a little larger distance with its nearest neigh-
+bors (2.54 (1) A), which is consistent with the FTs shown
+in Figure 3(a). The average Debye-Waller factor for all
+the pairs is around 0.007 A*. From ND measurements,
+the isotropic thermal factors of NiCoFeMnCr at 300K
+is Biso = 0.393 (9) A’, and the corresponding D-W fac-
+tor is 0? = 0.005 A”. The D-W factor obtained from
+EXAFS analysis is slightly larger than that obtained
+from the diffraction measurements. This is reasonable
+because EXAFS only counts the scattering contribu-
+tion from limited neighbor atoms (first 4 shells in our
+analysis), while diffraction measures the scattering from
+long distance periodic atoms. A short-range chemical
+disorder may exist in HEAs. Since NiCoFeMnCr con-
+tains five elements with similar X-ray scattering abili-
+ties, it is difficult to characterize the short-range order
+in this solid solution alloy with X-ray and neutron
+techniques.
+
+In summary, the structure and Debye factors of
+NiCoFeMnCr solid solution alloy is quantitatively char-
+acterized by X-ray diffraction, X-ray total scattering,
+time-of-flight ND and EXAFS methods. Chemical com-
+plexity induced lattice distortion is identified by the
+intrinsic vibration at 0 K by extrapolating of the Debye
+factors from the low temperature ND measurements,
+and the static atomic displacement is 0.035-0.041 A. The
+EXAFS analysis reveals that Mn atoms in the HEA have
+a little larger (~ 0.4%) bond distance with neighboring
+atoms than those of other elements. The intrinsic lattice
+distortion in NiCoFeMnCr HEA may play a critical role
+for the advanced mechanical properties.

@@ -1,0 +1,627 @@
+The variation of the lattice constant with alloying elements is an essential issue in alloy design. In the traditional
+single-based alloys, there is a tremendous database for predicting the lattice constant. However, the traditional
+database is not suitable to the emerging multi-principal components alloys referred as high entropy alloys.
+Here, a framework is proposed to describe the variation of lattice constants in high entropy alloys. Based on
+the quantitative measurement of the lattice constants of fourteen alloys, we constructed the lattice constant da-
+tabase for concentrated CoCrFeNi alloys. The discrepancy between binary alloys and high entropy alloys revealed
+the atomic chemical interactions.
+
+© 2018 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+
+ 
+
+As one of the most important physical parameters in crystalline ma-
+terials, the lattice constant has been involved everywhere in the mate-
+rial science and engineering [1]. Simply, the thermal expansion can be
+exactly revealed from the temperature-dependent lattice constants
+[2]. Another case is the lattice distortion, playing a crucial role in mate-
+rial science [3]. Even in superconductivity, the lattice distortion is
+thought to be one of the most important factors in determining the tran-
+sition temperature [4]. Furthermore, the lattice misfit of phase bound-
+aries determines both the functional and mechanical behaviors of
+multiphase materials [5,6]. Therefore, the regulation of the lattice con-
+stant is very important in the material science and engineering.
+
+It is a foundation work to understand and determine the variation of
+lattice constants from different aspects [1]. The investigations presented
+all main factors of size, valance, and electrochemical differences, as well
+as the relative sizes of ions and atoms in determining the lattice spacing
+of binary solutions. The Vegard's law is commonly used to describe the
+atomic size effect; while its invalidation has been confirmed with the
+main effect of valence-electron difference [7,8]. Extensive experiments
+have been done to determine the variation of lattice spacing in binary
+and some dilute ternary alloy systems.
+
+Recently, the initiation of high entropy alloys (HEAs) stimulates nu-
+merous studies on the multi-principal component alloys [9]. The varia-
+tion of the lattice constant in HEAs is very important in alloy design,
+
+* Corresponding author.
+E-mail address: zhjwang@nwpu.edu.cn (Z. Wang).
+
+https://doi.org/10.1016/j.scriptamat.2018.12.022
+1359-6462/© 2018 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.
+
+revealing the unique functional and mechanical behaviors. However, it
+is improper to simply extend the variation of lattice constants in binary
+alloys to HEAs. In HEAs, there is no single-element base, where the in-
+teractions of different elements in the lattice will make the variation
+of the lattice constants much more complicated. Up to now, there are
+only limited high resolution data of HEAs [10]. Most of XRD data in
+the numerical literatures needs careful calibrations for high precision.
+On the one hand, the different processes of rolling, quenching, solid so-
+lution treatments may cause significant errors. On the other hand, the
+low-accuracy XRD data cannot quantitatively reveal the lattice constant.
+A self-consistent high precision measurement is desired to reveal the
+variation of lattice constants. Usually, (311) peaks in FCC from an ex-
+treme low scanning rate could ensure the reproducibility of
+0.00001 nm on lattice constant [1].
+
+Besides the high precision measurement, the model for variation of
+lattice constant also needs to be evaluated. Traditionally, the lattice
+spacing of binary alloys can be described by
+
+da
+Gd=M +6, (1)
+
+where dp is the lattice spacing of the pure metal of a solvent, c is the con-
+centration of solute. In Vegard's law, da/dc = a; — do, where a, is the lat-
+tice spacing of the pure solute. Usually, da/dc is a constant in a finite
+range of small c even with the valence effect. As the development of me-
+tallic materials, the problem how to describe the lattice spacing in mul-
+ticomponent system has emerged. For simplicity, it can be described in
+Z. Wang et al. / Scripta Materialia 162 (2019) 468-471 469
+
+dilute alloys with different elements as
+n—1
+da
+a=d+) —~G, (2)
+
+where ¢; is the concentration of ith solute, da/dc; is the lattice change co-
+efficient for the corresponding solute. In a dilute solution, da/dc; is sim-
+ilar to that in the binary alloys. However, in the concentrated alloys of
+HEAs, the interactions between the solutes will make the da/dc; deviates
+from that in the binary alloys. In HEAs, a new model is required to de-
+scribe the variation of the lattice constants with alloying compositions.
+A phenomenological model has also been proposed to describe the lat-
+tice spacing variation in alloys [11],
+
+s=S°S > ccjsj, (3)
+
+i=l j=l
+
+where c; and c; are the atomic fractions of the components of i and j, sj; is
+the spacing between the two adjacent atoms of components of i and j. It
+is obvious that the model has more coefficients than Eq. (2), so06 they
+can describe the experimental curves within a wide range of composi-
+tions. In binary alloys, Eq. (3) has two unknown parameters of s;2 and
+S21. In multicomponent alloys with n elements, there will be n(n — 1)
+parameters in Eq. (3). Even though, this model still does not consider
+the interaction between the different solutes; for instance, 5; is inde-
+pendent of other species.
+
+In order to describe the atomic interactions in HEAs, one choice is to
+add more terms in Eq. (2), such as
+
+n—1 n—1n—1
+a=dj+ So aic, a SS) Otic, (4)
+i=l i=l jai
+
+where aij is used to describe the interaction of elements of i and j. This
+method is basically an extension of the single-based alloys, and still
+has too many parameters for multicomponent alloys. In HEAs, the
+basic concept is a solid solution of multicomponent elements, nor a sin-
+gle element again. Accordingly, we propose a choosing of multicompo-
+nent for reference and it can reveal the interactions between the
+different alloying elements. Based on this, the lattice parameter of
+HEAs can be described as
+
+n—-1 d
+a= a +S aay cio) (3)
+
+where dp is the lattice parameter of the reference HEA, (c; — Cg) is the
+derivation from the initial composition. Sicne the HEAs are located in
+the central region of their phase diagram, the differential da/d(c; — co)
+can be assumed as a constant in a finite range. The physical meaning
+of the model is how the lattice spacing changes as the one of the ith el-
+ement substitute nth elements. Although Eqs. (2) and (5) have the sim-
+ilar form, the different references generate the different physical
+meanings. Moreover, the interactions between different elements
+could be revealed in Eq. (5) due to that the other elements will affect
+the variation of lattice spacing during the change of each element. Ac-
+cordingly, in the local range of concentrated alloy composition, the da/
+d(c; — Co) will be different from that in binary alloys. Additional advan-
+tage of Eq. (5) is the fewer unknown coefficients (n — 1) compared with
+Eqs. (3) and (4).
+
+In order to confirm the validity and efficiency of the proposed model,
+quantitative experiments are designed to find the useful coefficients for
+future applications. The equiatomic CoCrFeNi alloy is one of the most
+popular systems among HEAs. Fourteen alloys with different variations
+of each element are designed to investigate the change of lattice spacing
+in CoCrFeNi system. The alloys preparation and the detected composi-
+tions are listed in Ref. [12]. The as-cast samples were cold-rolled to
+
+60% and recrystallized at 1200 °C for 5 min, and then water quenched
+to room temperature for lattice parameter measurements. The crystal
+structures were identified by X-ray diffractometer (XRD, Shimadzu,
+MAXima XRD-7000), using Cu Ka radiation with a scanning rate of 5°/
+min.
+
+Fig. 1 shows the XRD results. All the alloys are confirmed as FCC sin-
+gle solid solutions. The obvious shift of (311) peaks reveals the variation
+of lattice spacing in different alloys. The lattice parameters of the alloys
+can be accurately determined by using (311) peaks. For a higher
+
+Intensity (a.u.)
+
+ 
+
+Intensity (a.u.)
+
+ 
+
+20(deg)
+
+   
+ 
+ 
+  
+
+1650
+e 311 peak
+
+1500 peak fitting
+
+1350
+1200
+
+1050
+
+Intensity (a.u.)
+
+   
+
+ 
+
+0.99893
+Value Standard Error
+xe 91.45302 1.98531E-4
+
+Adj. R-Square
+
+    
+ 
+
+ 
+
+      
+ 
+
+ 
+
+ 
+
+90.6 90.9 91.2 91.5 91.8 92.1
+20(deg)
+Fig. 1. The XRD results for lattice constant detection. (a) The overall XRD curves of fourteen
+
+CoCrFeNi based alloys. (b) The enlarged (311) peaks shows the shift of the peaks. (c) The
+high precision (311) peak and peak fitting results.
+470 Z. Wang et al. / Scripta Materialia 162 (2019) 468-471
+
+precision measurement, we further scan the sample from 90° to 92.5°
+with a scan rate of 0.09°/min. The increasing step of the angle is
+0.001° while the precision of the protractor on the X-ray diffractometer
+is 0.0001°. In the determination of the (311) peaks, the fitting of the
+peak shows that the error of 20 is 620 < 0.0005, as shown in Fig. 1(c).
+Combining the errors from the fitting and the increasing step of the
+angle in the measurement, the error 60 is smaller than 0.001. The lattice
+constant is calculated by
+
+AVTI 1
+a= 2 ~~ sing’ (6)
+
+where A is 0.104056 nm for the X-radiation wavelengths of Cu Kay, 6 is
+around 45.56° for the Bragg angle of (311) peaks. Then the error estima-
+tion of the lattice constant for (311) peaks is
+
+da = a — 80—ad + 60<0.00002nm, (7)
+
+which is consistent with the high precision lattice spacing measurement
+[1]. The calculated lattice constants are shown in Fig. 2 (listed in
+Table 1). The high precision measurement can distinguish the variation
+of lattice constants caused by a small change of the alloying composi-
+tion. The error of the lattice constant from the measurement is very
+small.
+
+In the quaternary alloys, Eq. (5) gives
+
+d = dg + Aco (Cco—Cco0) + cr (Cor —Ccro) + Ore (Cre —Creo); (8)
+
+where a; = da/d(c; — Co). By choosing the equiatomic alloy as the refer-
+ence, the data in Table 1 give the coefficients in Eq. (8) by regression
+analysis with the linear least square method, where the real alloy com-
+positions detected from EDS in SEM are used. The results show ac = —
+0.18304 x 10-4 nm/at.%, ac, = 1.06905 x 107-4 nm/at.%, Oe = 0.54192
+x 10-4 nm/at.% with the correlation coefficient of 0.9411. The lattice pa-
+rameters predicted by Eq. (8) from regression coefficients are also
+shown in Fig. 2. The predictions are strongly correlated with the exper-
+imental measurements. The maximum difference is only 0.0003 nm.
+The ab-initial method is further used to calculate the variation of lat-
+tice constants with the change of alloying compositions. The first-
+principles calculations were performed using the Vienna ab initio Simu-
+lation (VASP) Package. Projector augmented wave (PAW) potential [13]
+was used to describe the electron-ion interactions, and the generalized
+gradient approximation (GGA) [14] was applied to describe the elec-
+tronic exchange and correlation. For each composition, the supercells
+with 3 x 3 x 5 fcc unit cells were applied, all of the atoms are randomly
+distributed across the lattice sites. The energy cutoff for the plane-wave
+
+0.3582 .
+_ —U-— Experiment data
+0.3580
+
+/ —®@— Predicted by Eq.8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.3578
+0.3576
+0.3574
+0.3572
+0.3570
+0.3568
+0.3566
+
+ 
+
+7 ]
+
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Q@
+\ A 4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lattic constant
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 2 4 6 8 10 12 14 16
+Alloy number
+
+Fig. 2. The comparison of prediction from regression analyses and the experimental
+results.
+
+Table 1
+The lattice constants of a series of CoCrFeNi alloys, the subscript in nominal composition
+represents the atomic ratio of elements.
+
+ 
+
+Alloy Alloy nominal 20 Lattice constant Error (nm)
+number composition deg (nm)
+(311)
+
+1 CoCrFeNi 91.168 0.35767 3.05828E—6
+2 CoCrFe2Ni 91.050 0.35803 3.06768E—6
+3 Co2CrFeNi 91.453 0.35680 3.03571E—6
+4 CoCrFeNi, 91.359 0.35708 3.04313E—6
+5 Co47Cr13Fe17Niz3 91.219 0.35751 3.05423E—6
+6 Co 13Cr3Fe17Nii7 91.215 0.35752 3.05454E—6
+7 Co47Cr13Fe13Nii7 91.322 0.35720 3.04606E—6
+8 Co4Cr3Fe,Ni, 91.289 0.35730 3.04867E—6
+9 Co3Cr2Fe3Niz 91.253 0.35741 3.05153E—6
+10 Co2Cr2Fe3Nis 91.194 0.35759 3.05621E—6
+11 Co 13CroFegNig 91.374 0.35704 3.04195E—6
+12 Co3Cr2Fe2Nis 91.404 0.35695 3.03958E—6
+13 CogCroFeoNii3 91.265 0.35737 3.05058E—6
+14 CogCroFe13Nig 91.075 0.35795 3.06569E—6
+
+ 
+
+basis set was set to be 500 eV, and the reciprocal space was sampled by
+using the Monkhorst-Pack grids [15]. All calculations were performed
+with spin-polarization. Equilibrium cell volumes and all internal atomic
+positions of the supercells were fully relaxed until convergence with the
+total energy tolerance of 10~° eV. The ab initio calculated results are
+shown in Fig. 3. The calculated lattice parameter is fixed at 0 K, and
+smaller than the measured data at ambient temperature. However,
+the change of lattice constant with compositions has the same trend.
+We further use Eq. (8) to predict the variation of lattice constants with
+regression coefficients from experiment data. The predictions are very
+close to the ab initial calculation results. It should be noted that the co-
+efficients in Eq. (8) may be varied with temperatures due to the differ-
+ent thermal expansion coefficients. Here we just use the coefficients at
+ambient temperature to predict the variation of lattice constants at
+0 K for comparison with the ab initial calculation results.
+
+The variation of lattice constants in the experiments and ab initial
+calculations indicates that the Co has a minor effect on the lattice spac-
+ing in the concentrated CoCrFeNi alloys by substituting Ni. The Cr and Fe
+will significantly increase the lattice spacing by substituting Ni and the
+Cr is the best one to increase the lattice parameter. Previously, the lattice
+distortion in HEAs is only discussed by considering the atomic size ef-
+fects [16,17]. Apparently, the Co has the largest radius in the four ele-
+ments based on previous reported data [18]. However, the Co has the
+smallest impact on the lattice constant of the concentrated alloys, and
+even decreases the lattice constant. The derivation from the hard sphere
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.3580
+0.3575 $
+wee
+_ 0.3570 _ =
+= -
+§ 0.3565 — O— Experiment data
+S 0.3560 —O— ab initio calculation
+Q 0.3555 2 —O-— Predicted by Eq.8
+B O
+3 «0.3550 Q
+4 om o
+0.3545 O
+0.3540 oo
+O
+0.3535
+0 2 4 6
+Alloy number
+
+Fig. 3. The change of lattice constant with compositions from ab initio calculation. The
+experimental results and predictions from regression coefficients are presented for
+comparison.
+Z. Wang et al. / Scripta Materialia 162 (2019) 468-471 471
+
+packing may come from the chemical interaction of different elements
+[7].
+
+In HEAs, with interactions between different elements, the variation
+of lattice constants in HEAs will be different from that in binary alloys.
+Fig. 4 shows the difference of the coefficients from binary alloys and
+HEAs. In the Ni-Co, Ni-Cr and Ni-Fe binary alloys, the da/dc are 0.17
+x 10~4, 1.07 x 10~4 and 1.29 x 10~* nm/at.%, respectively [1,6,10]. In
+HEAS, Qico = —0.18304 x 104, Ac, = 1.06905 x 10~4, Ore = 0.54192
+x 10~* nm/at.%. These differences are from element interactions in
+the concentrated alloys. The lattice parameter of CoCrFeNi is larger
+than that of pure Ni, but smaller than the calculation from the binary ef-
+fect of Eq. (2). It means that there are extra interactions between these
+four elements in the concentrated alloys, as compared with the Ni-
+based binary alloys. By adding Cr as substitution of Ni in the HEAs,
+some of the Ni—Co, Ni—Fe bonds are substituted by Cr—Co, Cr—Fe
+bonds. In binary alloys, the increase of Cr—Ni bond contributes to the
+lattice dilation while in HEAs there are contributions from Cr—Co,
+Cr—Fe bonds. Therefore, the similar Cr effect in the CoCrFeNi and Ni-
+based binary alloys indicates that
+
+(CresFe) = (CresCo) & (CreNi) (9)
+
+A <«B means the atomic bond of A and B elements. As for the Fe and
+Co elements, the mainly difference in HEAs and Ni-based binary alloys is
+from
+
+(FeoCr)>(FeeNi), (CooCr)>(CoeNi) (10)
+
+Therefore, the increases of Co and Fe in the CoCrFeNi will cause a
+smaller effect on the expansion of lattice constants than that of Co and
+Fe in Ni-based binary alloys. The effects of Co—Co, Fe—Fe and Cr—Cr
+bonds in HEAs on the lattice constant are hidden in the coefficient of
+da/d(c — co), and reveal that the atomic bonds of (Cr « Fe), (Cr = Co)
+and (Cr « Ni) are stronger than those of (Co « Ni) and (Fe « Ni).
+These results indicate that the Cr related short chemical range order
+may exist in the CoCrFeNi alloys at lower temperature. The Cr related
+short chemical range order has been predicted in CoCrNi by simulations
+[19].
+
+Moreover, the quantitative information of lattice parameter is a very
+important factor in alloy design. Firstly, the variation of lattice parame-
+ters in solid solutions corresponds to the solid solution hardening deter-
+mined by the lattice distortion. The results presented here show the Cr
+has the strongest lattice distortion effect, consistent with previous ex-
+periment results [20]. Secondly, the precipitation hardening HEAs are
+prosperous very recently, where the lattice misfit is a very important
+factor in strengthening and coarsening [21]. It is one of the core issues
+to adjust the lattice misfit in the design of advanced high performance
+
+1.4| MM In HEAs
+1.2 | SRR In binary alloys
+
+da/de (10 nm/ at%)
+
+ 
+
+“0.2 Co Cr Fe
+
+Fig. 4. The comparison of dilation coefficients of Co, Cr, Fe in the Ni-based binary alloys and
+CoCrFeNi alloys.
+
+precipitation-hardening HEAs [22]. The prediction of lattice parameters
+in the solid solution matrix obtained here is helpful in designing high
+performance HEAs.
+
+In conclusion, we proposed a model to describe the variation of lat-
+tice constants with constitution of alloying elements in HEAs. Quantita-
+tive measurement of the lattice constant in fourteen CoCrFeNi based
+alloys confirms the model of lattice variation. The change of lattice con-
+stants in the CoCrFeNi alloys deviates from the hard sphere packing
+model and the lattice change in binary alloys. The comparison shows a
+chemical effect on the lattice distortion and indicates the existence of
+a strong Cr-related short range chemical order. The model and the
+quantitative data of lattice spacing presented here is useful in the alloy
+design of HEAs.
+
+Acknowledgements
+
+The work was supported by National Natural Science Foundation of
+China under the Grant No. 51471133 and 51771149, and Hong Kong
+Grant Research Fund (GRF) Project under the contract of CityU
+11205515 with City University of Hong Kong. C. Y. Yu acknowledges
+the financial support from the Natural Science Foundation of SZU (No.
+827-000180).
+
+References
+
+[1] W.B. Pearson, A Handbook of Lattice Spacings and Structures of Metals and Alloys—
+2, Pergamon, 1967.
+[2] Y. Okada, Y. Tokumaru, J. Appl. Phys. 56 (2) (1984) 314-320.
+[3] R. Fleischer, Acta Metall. 11 (3) (1963) 203-209.
+[4] J.-P. Locquet, J. Perret, J. Fompeyrine, E. Machler, J.W. Seo, G. Van Tendeloo, Nature
+394 (6692) (1998) 453.
+[5] S. Jiang, H. Wang, Y. Wu, X. Liu, H. Chen, M. Yao, B. Gault, D. Ponge, D. Raabe, A.
+Hirata, Nature 544 (7651) (2017) 460.
+[6] Y. Mishima, S. Ochiai, T. Suzuki, Acta Metall. 33 (6) (1985) 1161-1169.
+[7] G. Raynor, Trans. Faraday Soc. 45 (1949) 698-708.
+[8] V. Lubarda, Mech. Mater. 35 (1-2) (2003) 53-68.
+[9] M.C. Gao, J.-W. Yeh, P.K. Liaw, Y. Zhang, High-entropy Alloys, Springer, 2016.
+[10] K. Jin, S. Mu, K. An, W.D. Porter, G.D. Samolyuk, G.M. Stocks, H. Bei, Mater. Des. 117
+(2017) 185-192.
+[11] H. Moreen, R. Taggart, D. Polonis, Metall. Trans. A. 2 (1) (1971) 265-268.
+[12] F. He, Z. Wang, Q. Wu, S. Niu, J. Li, J. Wang, C. Liu, Scr. Mater. 131 (2017) 42-46.
+[13] G. Kresse, D. Joubert, Phys. Rev. B 59 (3) (1999) 1758.
+[14] J.P. Perdew, K. Burke, M. Ernzerhof, Phys. Rev. Lett. 77 (18) (1996) 3865.
+[15] HJ. Monkhorst, J.D. Pack, Phys. Rev. B 13 (12) (1976) 5188.
+[16] Z. Wang, Y. Huang, Y. Yang, J. Wang, C. Liu, Scr. Mater. 94 (2015) 28-31.
+[17] Z. Wang, W. Qiu, Y. Yang, C. Liu, Intermetallics 64 (2015) 63-69.
+[18] O. Senkov, D. Miracle, Mater. Res. Bull. 36 (12) (2001) 2183-2198.
+[19] J. Ding, Q. Yu, M. Asta, R.O. Ritchie. arXiv preprint. arXiv:1806.00718 (2018).
+[20] Z. Wu, H. Bei, F. Otto, G.M. Pharr, E.P. George, Intermetallics 46 (2014) 131-140.
+[21] R. Reed, T. Tao, N. Warnken, Acta Mater. 57 (19) (2009) 5898-5913.
+[22] W. Liu, T. Yang, C. Liu, Mater. Chem. Phys. 210 (2018) 2-11.
+

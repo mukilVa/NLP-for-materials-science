@@ -1,0 +1,1046 @@
+High-entropy alloys are random alloys with five or more components, often near equi-composition, that often exhibit excellent
+mechanical properties. Guiding the design of new materials across the wide composition space requires an ability to compute
+necessary underlying material parameters via ab initio methods. Here, density functional theory is used to compute the elemental
+misfit volumes, alloy lattice constant, elastic constants, and stable stacking fault energy in the fcc noble metal RhlrPdPtNiCu. These
+properties are then used in a recent theory for the temperature and strain-rate dependent yield strength. The parameter-free
+prediction of 583 MPa is in excellent agreement with the measured value of 527 MPa. This quantitative connection between alloy
+composition and yield strength, without any experimental input, motivates this general density functional theory-based
+methodological path for exploring new potential high-strength high-entropy alloys, in this and other alloy classes, with the
+
+chemical accuracy of first-principles methods.
+
+npj Computational Materials (2019)5:14; https://doi.org/10.1038/s41524-019-0151-x
+
+INTRODUCTION
+
+High-entropy alloys (HEAs), also called multiple principal element
+alloys, nominally consist of five or more elements at near-equal
+compositions in a single crystalline phase.' Many HEAs possess
+high yield strengths, ultimate strengths, and/or ductility, making
+them a broad new class of candidates for structural applications.” *
+As a result, new materials are emerging rapidly. In the noble metal
+family, Sohn et al reported a single-fcc-phase RhirPdPtNiCu
+system with compressive yield strength o,=527 MPa, ultimate
+strength of 1839 MPa, and strain to failure of 32.4%, the latter two
+properties rivaling the strongest and toughest steels.° However,
+HEAs must not only match currently available structural alloys but
+exceed them in one or more properties. Since there is no physical
+restriction to near-equi-composition random alloys, the available
+composition space for multi-property optimization is vast. Search-
+ing through that space can be greatly facilitated by theory and
+modeling for both property prediction and phase stability.
+Accurate predictions require both accurate theories and the
+chemically accurate inputs to those models, and the latter leads
+to the application of first-principles methods.
+
+Strength and ductility depend on the motion and interaction of
+dislocations through the random alloy. First-principles modeling
+of dislocations in pure elemental metals alone is challenging.
+Studying the required properties/behaviors of dislocations in
+complex HEAs is even more formidable. Thus, theories are needed
+to predict the desired properties based on computationally
+accessible material inputs. The first property of interest is the
+initial yield strength. This is the stress at which pre-existing
+dislocations can first start to move through the crystalline lattice
+and generate the on-going plastic strain at the macroscopic
+imposed strain-rate and temperature. A general theory has been
+developed to predict the temperature and strain-rate dependent
+yield strength in random fcc alloys.”® The theory envisions the
+
+HEA as an “effective-medium matrix”, and each elemental atom in
+the alloy acts as a solute in the effective matrix. With an additional
+assumption that the solute/dislocation interaction energies are
+governed by elasticity, the model then requires only the average
+material properties of the alloy matrix and the properties of the
+elemental solutes in that average matrix.
+
+Here, we use first-principles density functional theory (DFT) to
+compute all the necessary alloy properties that enter the theory,
+for the 6-component RhIirPdPtNiCu alloy studied recently. We
+present a new and general method to compute the required
+solute misfit volumes in the multicomponent random alloys,
+which then enables parameter-free and experiment-free predic-
+tion of the yield strength. Good agreement with experiment is
+achieved, establishing the overall methodology as a framework for
+computationally guided design of new fcc HEAs.
+
+RESULTS
+Theory of yield strength in multicomponent random alloys
+We consider a general fcc alloy containing Neiem types of alloying
+
+elements at concentrations {c,} (with or Cn = 1), with all
+alloying elements distributed randomly on the fcc lattice sites.
+There is thus a probability c, that any given lattice site will be
+occupied by a type-n atom. The strengthening of the random alloy
+arises through solute/dislocation interactions. The interaction of
+the dislocation with the random fluctuations in the local solute
+concentrations induces the dislocation to become wavy over
+some characteristic wavelength 4¢. and amplitude w, that
+minimize the total energy of the system. The wavy dislocation is
+then locally trapped in low-energy regions. Dislocation motion,
+and plastic strain, thus occurs by stress-assisted thermal activation
+across the adjacent high-energy regions along the dislocation
+glide plane and into the next low-energy regions. The theory
+
+ 
+
+‘Laboratory for Multiscale Mechanics Modeling (LAMMM) and National Centre for Computational Design and Discovery of Novel Materials (NCCR MARVEL), Ecole Polytechnique
+
+Fédérale de Lausanne, 1015 Lausanne, Switzerland
+Correspondence: Binglun Yin (binglun.yin@epfl.ch)
+
+Received: 17 August 2018 Accepted: 10 January 2019
+Published online: 05 February 2019
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+
+np} nature partner
+
+journals
+Np)
+
+.
+
+B. Yin and W.A. Curtin
+
+computes the fundamental zero-stress energy barrier AE, and
+zero-temperature flow stress Tyo from which the yield stress at
+finite temperature T and finite strain-rate € are obtained. The
+theory is well described in the recent literature? and has been
+validated against molecular dynamics simulations in model alloys
+using semi-empirical interatomic potentials.”
+
+To make the theory computationally accessible, it has been
+simplified through the use of elasticity theory.’ In this limit, the
+solute/dislocation interaction energy of a type-n solute in the alloy
+is modeled as —p(x, y)AV,, where p(x, y) is the elastic pressure field
+at solute position (x, y) due to a dislocation centered at the origin
+and AV, is the average misfit volume of the type-n solute in the
+alloy. With this simplification, the theory becomes analytic for fcc
+alloys. Specifically, the zero-stress activation barrier AEF, and the
+zero-temperature shear yield stress Tyo (stress at which the energy
+barrier is zero) are
+
+T3520
+AE, = 2.5785 a b? P36,
+
+ee
+Tyo = 0.04865 Pe P363,
+
+where 6 is the dislocation Burgers vector, and
+
+6 = [2S~ c,AV2/(968) (2)
+
+is the well-known 6-parameter that describes the collective effect
+of the misfit volumes of all the elements in the alloy. In addition,
+
+P= abyyo/11107,
+Mirosiaa = (Cir — Cra + Cag) /3
+
+are the dislocation line tension and shear modulus for fcc slip on
+the {111} plane in the (110) direction expressed in terms of the
+standard cubic elastic constants, respectively. The dimensionless
+line tension parameter a= 1/8 is accurate for several fcc metals.
+The last quantity in Eq. (1) is an elastic coefficient P= P(C;j)
+associated with the anisotropic dislocation pressure field. For fcc
+metals, P can be written in terms of appropriate averaged isotropic
+
+(3)
+
+elastic constants y°’° and v*”° as
+1 + prre
+P(Cy1, Ci2, Cag) = ae (4)
+
+Previous applications of the model used experimentally measured
+isotropic elastic constants of the alloy, u®°t and v&%Pt.7'° A
+forthcoming full anisotropic analysis will demonstrate that the use
+
+of the Voigt-averaged elastic constants
+UY = (Cy — Ga + 3Caa)/5,
+
+_ 9,
+v SBS ee (5)
+2(3B + yu")
+B= (Gi + 2G2)/3,
+
+where B is the bulk modulus agrees with the full anisotropic model
+to within ~3% over a wide range of elastic anisotropy. We will thus
+use the Voigt-averaged values.
+
+The resulting strength versus temperature T and strain-rate € is
+
+2
+
+; kgT | €9\3
+ty(T, é) = Tyo(T) ; _ (ear?) | ; (6)
+where é) =10*s | is a reference strain-rate determined by the
+dislocation density and other factors. The properties entering
+Tyo(T) and AE,(T) should in principle be computed at the
+temperature of interest, especially the elastic constants. We
+discuss this further in Section “Yield strength prediction.”
+Experiments are typically performed in uniaxial tension on random
+untextured polycrystalline specimens. The measured uniaxial yield
+
+npj Computational Materials (2019) 14
+
+stress is related to the shear yield stress as o, = Mt, where M=
+3.06 is the Taylor factor for random fcc polycrystals.
+
+Dislocations in fcc metals dissociate into two partial dislocations
+separated by a stacking fault. The two partials are separated by a
+distance d and each partial dislocation also spreads across a few
+atoms with the spreading characterized by a Gaussian function
+with standard deviation o. This complex dislocation structure
+should thus influence the strengthening, since the solutes interact
+with the actual dislocation structure. Full analysis of the elastic
+theory as a function of d reveals that the strength is nearly
+independent of d for d = 6.5b. The spreading parameter o has been
+examined in several atomistic simulations using interatomic
+potentials and the typical values are 1.5 <0/b < 2.0. The analytic
+model above (Eq. (1)) with the numerical coefficients given
+corresponds to a sufficiently large partial separation d>6.5b and
+o/b=1.5. The use of these values has yielded very good
+predictions in comparison with experiments.”””'°
+
+From the above summary, we see that the required inputs to
+the analytic theory are the fcc lattice constant (ao with
+b = ao/\/2), the elastic constants (C11, C12, C44), and the solute
+misfit volumes (AV,,) at the alloy composition {c,}. The partial
+separation must also be d> 6.5b, which can be well-estimated in
+anisotropic elasticity as d= K/y,.- where y..¢ is the stable stacking
+fault energy of the alloy and K is an anisotropic elastic parameter
+computed exactly in terms of dislocation character, elastic
+constants, and Burgers vector.''"'° All of the above quantities
+can be computed by first-principles using the methods described
+in Section “DFT methodology”, leading to yield strength predic-
+tions given in Section “Yield strength prediction.”
+
+Misfit volumes
+
+We consider, in general, an alloy containing Nejem types of alloying
+elements at concentrations {c,}. The average misfit volume of a
+type-n atom in the random alloy can be conceptually defined as
+
+AV, = )~ cm(avn, (7)
+
+m
+
+where (AV””) is the volume change caused by replacing one
+type-m atom with type-n atom and with the brackets indicating
+averaging over many different such replacements where the atom
+of interest has different surrounding atomic environments.'°
+Performing this actual procedure is computationally costly and
+unnecessary, but the definition remains useful. Operationally, we
+consider a macroscopic sample with N‘* atoms and total volume
+ver at the alloy composition. We then add AN, type-n atoms by
+replacing AN,, = —AN,Cr/(1 — Cp) type-m atoms for all m#n at
+randomly chosen type-m atom sites in the sample. The volume of
+the new random alloy is V*t = Vict + 7, (—ANm)(AV"/""). The
+average atomic volume V= V°/N**' can then be expressed as
+
+V = Vo + AVnXs,
+AN, (8)
+
+* ~~ Ntt(1 — cp)
+
+After adding the additional type-n atoms, the changes of the
+elemental compositions are (1 —c,)x, for the type-n atom and
+—CmX; for all the other element types m#n. The new alloy can
+thus be considered as a pseudo-binary alloy with a formula
+[type—n atom], [matrix{c, }],_,,, where the matrix is the original
+alloy and the “solutes” are the extra type-n atoms introduced into
+the effective matrix. Similarly, AN, type-n atoms can be removed
+(AN, < 0) with other atom types added as AN,, = —AN,C,)/(1 — Cy)
+for all men, The total volume is then
+vit = Viet + 7, ANm(AV™!/"), with (AV?) =—(AV"™). This
+procedure leads again to Eq. (8), but with x, being negative.
+Therefore, measuring the sample volume at different values of
+|x;| <1 for all solute types enables the determination of the
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+Table 1. Compositions and supercell formulas used here to compute
+misfit volumes
+
+X, (at.%)
+
+Formula Not
+
+ 
+
+5.6 A¢(ABCDEF),7 108
+42 A¢(ABCDEF)23 144
+0.0 Ao(ABCDEF),3 108
+0.0 Ao(ABCDEF) >, 144
+8 A_,(ABCDEF)>> 128
+
+desired misfit volumes AV,, for all solutes in the alloy at the
+composition of interest.
+
+To compute the average atomic volumes V(x,) of the various
+pseudo-binary random alloys, and the lattice constant and elastic
+constants at the central composition, there are various methods,
+such as cluster expansion (CE) method,'” small set of ordered
+structures (SSOS) method,'® similar local atomic environment
+(SLAE) method,'? etc. To date, the two most widely used methods
+are the special quasi-random structures (SQS)*° and the coherent
+potential approximation (CPA).”' The supercell method combined
+with the concept of SQS has the very important advantage that
+explicit local lattice distortions within the SQS supercell are
+possible. On the other hand, the CPA method can mimic the
+perfect chemical disorder within one primitive cell. In this work,
+we need to compute the atomic volumes, lattice constants, and
+elastic constants precisely, where the local lattice distortion should
+be explicitly considered. Previous literature has shown that the
+local lattice relaxation has a significant effect on the alloy
+properties, eg., formation energy.*? We also wish to assess
+accuracy of the computed quantities, which can be accomplished
+using multiple realizations and sizes of the SQS cells. The SQS
+method is strongly preferred for these reasons, and is used here.
+
+Application of the above strategy to the equi-composition 6-
+component (ABCDEF) alloy such as RhirPdPtNiCu alloy is achieved
+as follows. We start with a supercell (ABCDEF),, (total number of
+atoms Niort = 6No). We then add 5N, atoms of type A and remove
+other atom types equally, leading to the pseudo-binary composi-
+tion Aen, (ABCDEF) yy, with x, = 6N,/Neot. Similarly, removing 5N,
+atoms of type A and adding the other elements equally leads to
+the pseudo-binary composition A_¢y,(ABCDEF),,.y, and x,=
+—6N,/Niot. This is repeated for each individual atom type (B, C, ...)
+in the alloy. In fact, there is no actual need to use the same
+supercell when adding/removing atoms; this is just the clearest
+way to understand the process. Then, the pseudo-binary formula
+becomes of particularly high value. In practice, only the quantities
+6N, and No—N, (or —6N,, No+N,) need to be integers. For
+example, in Table 1, the x, = —3.1 at.% case is achieved using N,
+= 2/3 and No = 64/3, corresponding to —6N, = —4, No +N, = 22
+with N= 128. The pseudo-binary concept thus leads to
+considerable flexibility in the choice of supercell size for each
+individual composition.
+
+The choice of the supercell composition formulas is flexible but
+a few guidelines are helpful. First, N,., should be neither too large
+nor too small. A large value is computationally costly while a small
+value might be insufficient for achieving an SQS of high quality.
+According to the literature, good representations of chemical
+disorder can usually be achieved using approximately several tens
+of atoms.** Second, |x,| should be neither too large nor too small.
+If too large, the volume change might exceed the domain of linear
+changes around the central composition. If too small, the
+uncertainty due to the configurational randomness will greatly
+increase the uncertainty in the deduced misfit volumes. The
+supercells and formula units used here are shown in Table 1, and
+satisfy 100 < Nro¢ < 150 and 0.03 < |x,| < 0.06.
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+
+ 
+
+B. Yin and W.A. Curtin
+
+For each composition, the SQSs are generated independently
+using the atat code.** For the 6-element alloys here, SQS
+generation at the necessary supercell sizes of 100 ~ 150 atoms is
+computationally intensive.'® Fortunately, the resulting structures
+can be used multiple times by switching the atom types. In
+addition, these SQSs can immediately provide candidate SQSs for
+other alloys having fewer components with compositions in
+multiples of 1/6, such as A zBCDE, A,4B>, etc. For a given 6-
+component SQS, there are many different possible SQS structures
+for alloys with fewer components. The best SQS from among the
+possibilities is easily determined by evaluating the SQS quality,
+e.g., the SQS error using available error estimates.** The present
+SQSs can therefore be easily used for studying new alloys without
+any further time-consuming searches for new SQSs. For this
+reason, we provide the exact SQSs used here (https://doi.org/
+10.24435/materialscloud:2018.0019/v1).
+
+With the SQS construction as described above, the equilibrium
+atomic volumes are computed by minimizing the total energy
+versus volume with full relaxation of all ions and supercell shape.
+We perform calculations for multiple samples at the same and/or
+various x, to improve the overall accuracy of the final misfit
+volumes. From the entire set of DFT-computed equilibrium atomic
+volumes, we then perform a linear regression with one constraint
+Yon CnAV, = 0 to obtain the misfit volumes AV,, for all solutes and
+the atomic volume Vo at the desired composition {c,}. Figure 1
+shows the computed atomic volumes versus compositions x, for
+all alloys studied here around the RhirPdPtNiCu composition. We
+obtain the lattice constant and misfit volumes shown in Table 2.
+Importantly, from the totality of the data computed, we can
+compute the 95% confidence intervals for the lattice constant
+(+0.00017 A) and misfit volumes (+0.093 A*), respectively. The
+misfit quantity 6 in the theory for yield strength is then computed
+as 6 = 3.873%, as shown in Fig. 1 and summarized in Table 2, with
+95% confidence interval within +0.2%.
+
+Elastic constants
+
+The elastic constants of the alloy are computed starting from the
+equilibrium states of the two SQS structures of the random
+RhIrPdPtNiCu alloy containing 108 and 144 atoms, respectively.
+These systems have small initial (Pulay) stresses o? (j= 1...6) using
+the Reuss contracted notation. We use the well-established stress
+method.”° Six linearly independent strain tensors are applied
+(non-zero components = 0.002) and the corresponding stress
+tensors are computed in DFT. The elastic constants are then
+computed from o; — o? = Cje;. In one least-squares fitting, we
+calculate all 21 Cj components of Cjjog and Cj144 (in GPa). The
+elastic constants expressed in the standard 6x6 Voigt matrix
+notation for the two different SQS cells are
+
+286 176 176 -4 -2 -3 284 172 171 -1 -3 -2
+
+296 182 -4 1 -3 288 176 -1 O -1
+297 -5 OO -2 286 0 -2 -1
+111-2 -2]? 111-1 #0
+
+sym 113, -2 sym 110 —2
+
+113 112
+
+The fcc-symmetry is broken in these small cells of random
+alloys. To obtain the fcc constants C;, we take the averages of all
+the fcc-symmetry-equivalent components over both structures.
+The remaining Cj components are set to zero (the averages being
+negligible). The resulting values are C,, = 289 GPa, C,2 = 176 GPa,
+and Cy, = 112 GPa. Since each elastic constant is an average over
+six values, we can compute the 95% confidence interval, which
+results in ~+2% of the mean value. The bulk modulus B= (C,, +
+2C,2)/3 = 214 GPa obtained from the averaging is very close to the
+values of B computed from the energy versus volume for the two
+structures (215 and 214 GPa, respectively).
+
+npj Computational Materials (2019) 14
+
+Np)
+np}
+
+B. Yin and W.A. Curtin
+
+ 
+
+ 
+
+ 
+
+14
+Vo= 13.840 A’
+13.95 £ a= 3.811 A 44Pt
+A | Z ¥ Pd
+—~ 13.9F | 7 wT
+. PA -_
+S 1385p Z—— O94 Rh
+o> l
+<< 13.8; e .
+< | .
+13.75 : ~~ cu
+13.7 | R2= 0.997 | As.
+do , nAVn= 0.000 A® b= 3.873% Ni
+13.65 1 1 1 1 1 1 1 L L 1
+6 -5 -4 -32 2 -1 0 12 3 4 5 6
+xs (at.%)
+
+Fig. 1 Atomic volumes of random alloys at compositions surround-
+ing the equi-composition RhirPdPtNiCu alloy for various changes in
+composition. Solid lines show the linear regression that leads to the
+computed misfit volumes shown in Table 2, with the R? value
+indicated
+
+Table 2. Lattice constant, misfit volumes, and 6-parameter from direct
+DFT calculations of the RhirPdPtNiCu HEA
+
+Density functional theory (DFT) Vegard's law
+
+ 
+
+dp (A)
+
+AVan (A*)
+AV, (A*)
+AVwi (A*)
+AVpq (A”)
+AVpr (A*)
+AVcu (A’)
+6 (%)
+
+3.811
+0.253
+0.767
+—2.581
+1.412
+1.835
+—1.686
+3.873
+
+3.800
+0.259
+0.799
+—2.841
+1.605
+1.893
+—1.715
+4.193
+
+Also show for comparison are results from the application of Vegard's law
+using the elemental DFT lattice constants
+
+ 
+
+This alloy is moderately anisotropic, with Zener anisotropy index
+A = 2Cga/(C11 — Ci2) = 1.98. The Voigt-averaged elastic constants
+that enter the strength theory are py” = 90 GPa and v’ = 0.316. For
+this value of A, the full anisotropic value of P in Eq. (1) is only
+~0.5% smaller than the isotropic approximation using these Voigt
+averages. The shear modulus used in the line tension is computed
+aS Hy10/111 = 79 GPa.
+
+Note that the measured shear modulus of the polycrystalline
+material is expected to be closer to the Voigt-Reuss-Hill average
+uY*" — 85 GPa.”° This value does not enter the strength theory and
+indicates the typical error that might be expected when using an
+experimentally measured shear modulus. All of the various elastic
+constants (anisotropic and associated isotropic average) for
+RhiIrPdPtNiCu are shown in Table 3.
+
+Stable stacking fault energy and partial separation
+
+The stable stacking fault energy y..5 is computed using the ANNNI
+model. In this model, y.<¢ is related to the difference between hcp
+
+and fcc cohesive energies of the alloy as y..¢ = 2(E° — EE) /AKS,
+
+where ES? and E*< are the atomic energy for the fully relaxed hcp
+and fcc structures, respectively. Af* is the fcc atomic area on the
+stacking fault plane.
+
+npj Computational Materials (2019) 14
+
+ 
+
+Table 3. Density functional theory (DFT)-computed material
+
+quantities at T= 0K entering the solute strengthening model, and the
+resulting predicted yield strength at the experimental conditions of
+T=300K, é=10 45!
+
+dp (A)
+
+6 (%)
+
+C11 (GPa) Cy2 (GPa) C44 (GPa)
+
+u’ (GPa) v” 90
+H110/111 (GPa) 75
+
+oy (MPa) 583 (527)
+
+The experimentally reported yield strength is shown in parenthesis
+
+Direct computation of ys<s¢ in random alloys is deemed likely to
+have large fluctuations since it is a planar defect energy computed
+from two bulk energies of 3-dimensional random structures.””
+Furthermore, application of the analytic strengthening theory
+requires only that y.s¢ be sufficient to ensure sufficiently large
+partial dislocation separation d.
+
+Benchmark DFT computations of y.., for the individual
+elemental metals using the direct tilted-cell method*® and ANNNI
+model show differences (which can be positive or negative) within
++20 mJ/m?. The differences arise, in part, from the two fcc/hcp
+interfacial energies that are not considered in the ANNNI model.”?
+We can thus anticipate that application of the ANNNI model to the
+6-component alloy will have a similar level of uncertainty.
+
+The formation energy of the fcc HEA phase is obtained from the
+previous DFT calcuations. For all fcc samples, we have the
+equilibrium energies. Performing a linear regression to the DFT
+energy data, analogous to what was done for the equilibrium
+atomic volumes in Fig. 1, gives the formation energy of fcc
+RhirPdPtNiCu as EX¢ = 34 meV/atom, relative to the compositional
+average of the pure metal atomic energies in the fcc phase. The
+positive formation energy indicates that the single-phase
+RhirPdPtNiCu HEA is either entropically stabilized or metastable.
+This result is in contrast to a negative formation energy roughly
+estimated from an empirical literature model.° To calculate ERP
+we use the process employed for fcc at the composition of
+interest. We create the hcp SQSs for the HEA (https://doi.org/
+10.24435/materialscloud:2018.0019/v1), and perform DFT calcula-
+tions to obtain the ground state energy on the compositions
+surrounding the central composition to improve the accuracy, and
+then perform linear regression to the DFT energy data for hcp
+structures. The resulting formation energy of RhirPdPtNiCu in hcp
+phase is ES? = 61 meV/atom relative to the same compositional
+average of the pure metal atomic energies in the fcc phase. With
+Af¢ = (./3/4)as, the ANNNI model yields a stable stacking fault
+energy yssf = 138 mJ/m? for RhirPdPtNiCu. The uncertainty in Vsst is
+determined from the 95% confidence intervals of Ef° and £5°,
+which are +1 and +2 meV, respectively. Therefore, the uncertainty
+in the DFT result itself for y.¢¢ is about +15 mJ/m?. Combined with
+the intrinsic error/uncertainty of the ANNNI model, a conservative
+estimate of the uncertainty in the stable stacking fault energy is ~
++35 mJ/m?.
+
+Finally, using the computed anisotropic elastic constants and
+lattice constant, the elastic parameter is K=0.180 eV/A and the
+estimated partial separation is then d= K/y..¢ = 7.86. Considering
+the uncertainty in y,<., the corresponding partial separation ranges
+from 6.2b to 10.46. This estimation is an upper bound of the
+uncertainty since the value +20 mJ/m? is probably higher than
+the true value in the HEA. The analysis thus generally satisfies the
+requirement d= 6.56 for applying the analytic solute strengthen-
+ing model above.
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+Yield strength prediction
+
+With all of the necessary material properties computed via DFT as
+described in the previous section, the yield strength of the alloy
+can be predicted. The experiments were performed at T= 300K
+and strain-rate €= 10 *s_'. As shown in Table 3, the predicted
+strength using only the DFT-computed inputs is o, = 583 MPa. The
+uncertainty in this prediction due to the uncertainties in DFT-
+computed materials parameters is small. Using the 95% con-
+fidence intervals of the lattice constant, misfit volumes, and elastic
+constants, the 95% confidence interval for the strength prediction
+is ~£10% of the above mean value. This uncertainty is due to the
+configurational randomness in the computations, at the SQSs
+qualities that we achieve.
+
+The average prediction of 583 MPa is in very good agreement
+with the single experimental value of 527 MPa. While there is only
+one experimental data point, the yield strength of well-
+characterized alloys usually has small scatter. As analyzed in
+previous work using approximate methods, '° this as-cast alloy has
+two different phases but these phases have very similar lattice
+constants and estimated strengths. The above experimental value
+is thus likely close to the “true value” of a single-phase
+homogenous alloy.
+
+There are a few other aspects that could affect the strength
+prediction here. First, the DFT-calculated elastic constants must
+have some (unknown) error, as demonstrated by the deviations
+between DFT and experiment for the elemental metals. Here, we
+might expect that the Perdew-Burke-Ernzerhof (PBE) DFT predic-
+tions of the elastic moduli Cj of the HEA are slightly lower than the
+(unknown) true experimental values due to the underestimate of
+the moduli of elemental Pd and Pt, as discussed in Section “DFT
+methodology.”
+
+Second, the experiments are at room temperature and so the
+room-temperature elastic constants should be used in the
+predictions. Room-temperature calculations are possible but
+computationally onerous, and so here we make reasonable
+estimates based on the elemental values. In experiments, the
+elastic constants C; of the pure metals all decrease, but by less
+than 10% from T=0K to T=300K. Therefore, the yield strength
+predictions made using the T=OK elastic constants are likely
+<10% too high. Thus, use of the (unknown) T= 300K elastic
+constants would bring the predictions closer to the experimental
+value. For purposes of efficient identification of trends for alloy
+design, we advocate the use of the easily computed T = 0 K elastic
+constants, with temperature effects at room temperature esti-
+mated from a concentration-weighted average of the elemental
+elastic constants.
+
+Third, the lattice constant dg and the 6-parameter are also
+temperature-dependent. Applying Vegard’s law (defined below)
+using the temperature-dependent lattice constants of the pure
+metals to estimate both the alloy volume and solute misfit
+volumes at finite temperature, we find that the overall 6-
+parameter decreases by <2% with increasing temperature. The
+thermal expansion effects can thus be safely neglected.
+
+Although there are uncertainties in the DFT-computed proper-
+ties and the temperature dependencies, there are no adjustable/
+fitted parameters in the model. Overall, we thus consider the
+predictions to be robust and the agreement indicative of the
+applicability of the theory.
+
+DISCUSSION
+
+The present methodology can be expanded to scan over a wide
+range of the composition space so as to predict optimized
+composition(s) with the highest yield strength(s). Suppose we
+have a database of the atomic volumes over a set of equi-spaced
+compositions spanning the entire configurational space. Then one
+could fit the entire set to some overall function of the
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+
+B. Yin and W.A. Curtin
+
+compositions, i.e., V({c,}). The misfit volume of type-n atom at
+composition {c,} could be computed by taking the derivative
+respect to x, in the direction of {(1 — c,) for n, —c» for m# n}, i.e.,
+
+AV, _ V({Cn + (1 _ Gy Ket ~~ CmXs}) 7 V({Cn}) , (9)
+
+Xs
+
+ 
+
+with x, > 0. Here, the challenging task is the computation of the
+data set. In order to have a quantitative estimate of the size of the
+database, we assume that the well-spaced compositions consist of
+elemental concentrations spanning from 0 to 100% by the step of
+10%. For senary alloys studied here, the database needs 3003
+different compositions for SQS sizes of ~100 atoms; this is not
+computationally feasible at present. However, for quaternary and
+ternary alloys, such a database requires 286 and 66 compositions,
+respectively, and so could be achieved computationally. In any
+case, the computation of the data set remains demanding but the
+methodology for the misfit volumes remains useful and will
+become more feasible as computational power increases.
+
+Given the combinatoric challenge of performing DFT over the
+huge composition space of a many-component alloy, it is very
+useful to consider other more-approximate but more-efficient
+approaches. One such approach is by assuming Vegard’s law and
+assuming a simple rule-of-mixtures for elastic constants.'° Then
+only the lattice constants and elastic constants of the elemental
+metals are needed in the crystal structure of the HEA. These
+quantities are computationally trivial to obtain if all the elements
+are metastable in the HEA crystal structure. Vegard’s law uses the
+
+atomic volumes yin) of the individual elements and predicts the
+atomic volume of the alloy as VY°% = 5, c,V\”. The misfit
+
+volumes follow as AVy°9"4 — yi”) — y¥e9""4_ The rule-of-mixtures
+
+(ROM) estimate for the elastic constants is simply Cf°“ =
+
+Sn ck” and yields a rule-of-mixtures Voigt average for the
+required p and v. With DFT results computed explicitly here for fcc
+RhIrPdPtNiCu, we can assess the accuracy of such a simple model
+since all the elements are stable in the fcc structure.
+
+Using the DFT-computed atomic volumes for the constituents
+of the RhirPdPtNiCu, Vegard’s law yields 6 = 4.193%. This is ~8%
+larger than the direct DFT result of 6 =3.873% on the actual
+random alloy, as compared in Table 2. Similarly, using the DFT
+values for the elastic constants of the elements, the alloy ROM
+values are CROM — 326 GPa, CROM = 177 GPa and COM = 131 GPa.
+Two of these values are ~15% larger than the DFT-computed alloy
+values (Table 3). The resulting Voigt estimate u” is then ~20%
+larger (108 GPa vs. 90 GPa). With the approximate estimates for
+both 6 and py” being larger than the true DFT-computed properties
+for the alloy, the predicted strength using the approximate model
+is 775 MPa, which is rather larger than the full prediction.
+
+The approximate approach above is thus of limited value for
+quantitative prediction in this family of alloys. However, the
+approximate approach may be too high mainly due to the moduli
+estimates, and the moduli estimates may be systematically high
+for other composition in the configurational space. This can be
+further validated with the calculations at other {c,}.
+
+The approximate approach may be useful only for rapid relative
+assessment of the relative strengths of alloy compositions. But
+even such a relative assessment can then point to a limited set of
+promising new alloy compositions that could be studied
+quantitatively using the computationally intensive but chemically
+accurate DFT calculations proposed in this work.
+
+In summary, we have presented a general approach to DFT-
+level computations of the properties necessary to make strength
+predictions in HEAs and other random alloys using a recent
+analytic theory. The theory requires solute misfit volumes, alloy
+lattice constant, elastic constants, and stable stacking fault energy,
+all of which are accessible within current DFT capabilities. The DFT
+computational methodology for misfit volumes in
+
+npj Computational Materials (2019) 14
+
+Np)
+Np)
+
+.
+
+B. Yin and W.A. Curtin
+
+multicomponent random alloys is new and general. Executing the
+methodology on the fcc RhirPdPtNiCu HEA, we obtain parameter-
+free predictions of the yield strength with no experimental inputs
+and find very good agreement with the experimental strength. We
+are also able to assess uncertainties in the approach and to assess
+concepts for highly efficient scanning of the huge composition
+space of HEAs. This work thus connects alloy composition to yield
+strength, establishing a general first-principles methodology for
+the computationally guided design of high-strength alloys.
+
+METHODS
+DFT methodology
+
+All first-principles calculations are performed using DFT as implemented in
+the vasp code”? within the generalized gradient approximation (GGA) and
+using the PBE XC functional.*' The core electrons are replaced by the
+projector augmented wave (PAW) pseudopotentials.** The valence-
+electron eigenstates are expanded using a spin-polarized plane wave
+basis set with a cutoff energy 550 eV. A first-order Methfessel-Paxton
+method”? with smearing parameter 0.2 eV is used. In reciprocal space, a I-
+centered Monkhorst-Pack** k-mesh is used with line density consistent
+across all geometries. The interval between the neighboring k-points along
+each reciprocal lattice vector b, is 0.02 A" (in vasp, a;-b; = 6;). This k-mesh
+density leads to, for example, 14x 14 x 14 for Ni and Cu in the fcc cubic
+unit cell, and 13x 13x13 for the other four elements. lonic forces are
+relaxed to less than 1meV/A, corresponding to a stress tolerance of
+~0.01 GPa in vasp. Benchmark calculations of the lattice constant, elastic
+constants, and stable stacking fault energy for the pure metal elements are
+in very good agreement with previous DFT literature.*°-°”
+
+In the benchmark results for the elements, the PBE functional predicts
+the bulk moduli for Rh, Ir, Ni, and Cu within +5% of experiment values but
+underestimates the bulk moduli of Pd and Pt by ~13% (169GPa vs.
+195 GPa for Pd, 249 GPa vs. 288 GPa for Pt; see ref. >> (Table $25.3) and
+ref, 38), Results using the PBEsol functional?’ improve the results for Pd and
+Pt relative to experiments but increase the differences between DFT and
+experiments for the other four elements in the alloy. These trends are
+already known in the literature. For this study, we use PBE so as to capture
+the better agreement with experiment for four of the six alloying elements
+studied here.
+
+DATA AVAILABILITY
+
+The data that support the findings of this study are available from the corresponding
+authors upon reasonable request. The SQSs used in this work are provided in (https://
+doi.org/10.24435/materialscloud:2018.0019/v1).
+
+ACKNOWLEDGEMENTS
+
+This research was supported by the NCCR MARVEL, funded by the Swiss National
+Science Foundation. We also acknowledge support of high-performance computing
+provided by Scientific IT and Application Support (SCITAS) at EPFL.
+
+AUTHOR CONTRIBUTIONS
+
+The initial project idea was from W.A.C., B.Y. and W.A.C. devised the methodology for
+the DFT computation of misfit volumes in multicomponent random alloys. B.Y.
+performed all the calculations. B.Y. and W.A.C. analyzed the results and wrote the
+manuscript.
+
+ADDITIONAL INFORMATION
+
+Competing interests: The authors declare no competing interests.
+
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims
+in published maps and institutional affiliations.
+
+REFERENCES
+
+1. Miracle, D. B. & Senkov, O. N. A critical review of high entropy alloys and related
+concepts. Acta Mater. 122, 448-511 (2017).
+
+2. Gludovatz, B. et al. A fracture-resistant high-entropy alloy for cryogenic applica-
+tions. Science 345, 1153-1158 (2014).
+
+npj Computational Materials (2019) 14
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+. Miao, J. et al. The evolution of the deformation substructure in a Ni-Co-Cr
+
+equiatomic solid solution alloy. Acta Mater. 132, 35-48 (2017).
+
+. Li, Z. & Raabe, D. Strong and ductile non-equiatomic high-entropy alloys: Design,
+
+processing, microstructure, and mechanical properties. JOM 69, 2099-2106
+(2017).
+
+. Sohn, S. et al. Noble metal high entropy alloys. Scr. Mater. 126, 29-32 (2017).
+. Kimura, Y., Inoue, T., Yin, F. & Tsuzaki, K. Inverse temperature dependence of
+
+toughness in an ultrafine grain-structure steel. Science 320, 1057-1060 (2008).
+
+. Varvenne, C., Luque, A. & Curtin, W. A. Theory of strengthening in fcc high
+
+entropy alloys. Acta Mater. 118, 164-176 (2016).
+
+. Varvenne, C., Leyson, G. P. M., Ghazisaeidi, M. & Curtin, W. A. Solute strengthening
+
+in random alloys. Acta Mater. 124, 660-683 (2017).
+
+. Varvenne, C. & Curtin, W. A. Strengthening of high entropy alloys by dilute
+
+solute additions: CoCrFeNiAlx and CoCrFeNiMnAlx alloys. Scr. Mater. 138, 92-95
+(2017).
+
+Varvenne, C. & Curtin, W. A. Predicting yield strengths of noble metal high
+entropy alloys. Scr. Mater. 142, 92-95 (2018).
+
+Wu, Z., Yin, B. & Curtin, W. A. Energetics of dislocation transformations in hcp
+metals. Acta Mater. 119, 203-217 (2016).
+
+Anderson, P. M., Hirth, J. P. & Lothe, J. Theory of dislocations (Cambridge University
+Press, https://www.cambridge.org/ch/academic/subjects/engineering/materials-
+science/theory-dislocations-3rdedition?format=HB&isbn=978052 1864367,
+2017).
+
+Ting, T. C. T. Anisotropic elasticity: Theory and applications (Oxford University Press,
+https://global.oup.com/academic/product/anisotropic-elasticity-9780 195074475?
+q=Anisotropic%20Elasticity:%20Theory%20and%
+20Applications&lang=en&cc=ch, 1996).
+
+Stroh, A. N. Dislocations and cracks in anisotropic elasticity. Philos. Mag. 3,
+625-646 (1958).
+
+Bacon, D., Barnett, D. & Scattergood, R. Anisotropic continuum theory of lattice
+defects. Prog. Mater. Sci. 23, 51-262 (1980).
+
+Varvenne, C., Luque, A., Nohring, W. G. & Curtin, W. A. Average-atom interatomic
+potential for random alloys. Phys. Rev. B 93, 104201 (2016).
+
+Sanchez, J. M., Ducastelle, F. & Gratias, D. Generalized cluster description of
+multicomponent systems. Phys. A Stat. Mech. its Appl. 128, 334-350 (1984).
+Jiang, C. & Uberuaga, B. P. Efficient Ab initio modeling of random multi-
+component alloys. Phys. Rev. Lett. 116, 105501 (2016).
+
+Song, H. et al. Local lattice distortion in high-entropy alloys. Phys. Rev. Mater. 1,
+023404 (2017).
+
+Zunger, A., Wei, S. -H., Ferreira, L. G. & Bernard, J. E. Special quasirandom struc-
+tures. Phys. Rev. Lett. 65, 353-356 (1990).
+
+Vitos, L., Abrikosov, |. A. & Johansson, B. Anisotropic lattice distortions in random
+alloys from first-principles theory. Phys. Rev. Lett. 87, 156401 (2001).
+
+Ikeda, Y., Grabowski, B. & Kormann, F. Ab initio phase stabilities and mechanical
+properties of multicomponent alloys: A comprehensive review for high
+entropy alloys and compositionally complex alloys. Mater. Charact. 147, 464-511
+(2019).
+
+Van De Walle, A. et al. Efficient stochastic generation of special quasirandom
+structures. Calphad Comput. Coupling Phase Diagr. Thermochem. 42, 13-18
+(2013).
+
+Von Pezold, J., Dick, A., Friak, M. & Neugebauer, J. Generation and performance of
+special quasirandom structures for studying the elastic properties of random
+alloys: Application to AI-Ti. Phys. Rev. B 81, 094203 (2010).
+
+Le Page, Y. & Saxe, P. Symmetry-general least-squares extraction of elastic data
+for strained materials from ab initio calculations of stress. Phys. Rev. B 65, 104104
+(2002).
+
+Hill, R. The elastic behaviour of a crystalline aggregate. Proc. Phys. Soc. Sect. A 65,
+349-354 (1952).
+
+Zhao, S., Stocks, G. M. & Zhang, Y. Stacking fault energies of face-centered cubic
+concentrated solid solution alloys. Acta Mater. 134, 334-345 (2017).
+
+Yin, B., Wu, Z. & Curtin, W. A. Comprehensive first-principles study of stable
+stacking faults in hcp metals. Acta Mater. 123, 223-234 (2017).
+
+Li, R. et al. Stacking fault energy of face-centered cubic metals: Thermodynamic
+and ab initio approaches. J. Phys. Condens. Matter 28, 395001 (2016).
+
+Kresse, G. & Furthmiller, J. Efficient iterative schemes for ab initio total-
+energy calculations using a plane-wave basis set. Phys. Rev. B 54, 11169-11186
+(1996).
+
+Perdew, J. P., Burke, K. & Ernzerhof, M. Generalized gradient approximation made
+simple. Phys. Rev. Lett. 77, 3865-3868 (1996).
+
+Kresse, G. & Joubert, D. From ultrasoft pseudopotentials to the projector
+augmented-wave method. Phys. Rev. B 59, 1758-1775 (1999).
+
+Methfessel, M. & Paxton, A. T. High-precision sampling for Brillouin-zone inte-
+gration in metals. Phys. Rev. B 40, 3616-3621 (1989).
+
+Monkhorst, H. J. & Pack, J. D. Special points for Brillouin-zone integrations. Phys.
+Rev. B 13, 5188-5192 (1976).
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+Lejaeghere, K. et al. Reproducibility in density functional theory calculations of
+solids. Science 351, aad3000 (2016).
+
+Shang, S. L. et al. First-principles calculations of pure elements: Equations of state
+and elastic stiffness constants. Comput. Mater. Sci. 48, 813-826 (2010).
+
+Wu, X. Z., Wang, R., Wang, S. F. & Wei, Q. Y. Ab initio calculations of generalized-
+stacking-fault energy surfaces and surface energies for FCC metals. Appl. Surf. Sci.
+256, 6345-6349 (2010).
+
+Simmons, G. & Wang, H. Single Crystal Elastic Constants and Calculated Aggregate
+Properties: A Handbook (The MIT. Press, https://mitpress.mit.edu/books/single-
+crystal-elastic-constants-and-calculated-aggregate-properties-secondedition,
+1971).
+
+Perdew, J. P. et al. Restoring the density-gradient expansion for exchange in
+solids and surfaces. Phys. Rev. Lett. 100, 136406 (2008).
+
+B. Yin and W.A. Curtin Np}
+
+Open Access This article is licensed under a Creative Commons
+
+BY Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article's Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this license, visit http://creativecommons.
+org/licenses/by/4.0/.
+
+© The Author(s) 2019
+
+Published in partnership with the Shanghai Institute of Ceramics of the Chinese Academy of Sciences npj Computational Materials (2019) 14
+

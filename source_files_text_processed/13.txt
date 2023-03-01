@@ -1,0 +1,800 @@
+Alloying is an effective method to strengthen high entropy alloys (HEAs). Unfortunately, most of the
+investigations focus on the perspective of experiments and few are available from the perspective of
+atomic and electrical scale such as electronic structure, energy band structure and charge density. In
+present work, first-principle calculation based on density functional theory was employed to calculate
+the ground state total energy, lattice parameters, elastic constants and polycrystal modulus of NbMoTaW
+and NbMoTaWYV refractory high entropy alloys (RHEAs). The effects of V addition on the phase structure,
+elastic properties and electronic structure of NbMoTaW-based RHEAs were studied, respectively. V
+addition is helpful to improve the mechanical properties of NbMoTaW alloy according to the calculated
+value of shear modulus to bulk modulus, Cauchy pressure and Vickers hardness. Based on calculated
+energy band, electronic state density, charge density and charge density difference, V addition is found to
+shorten the pseudo-energy gap and enhance interaction force between Mo and W atoms. This tends to
+improve the mechanical properties of the alloy. The calculated results were in good agreement with the
+experimental data, demonstrating that the methods were effective in predicting the performance of
+
+RHEAs.
+
+© 2020 Elsevier B.V. All rights reserved.
+
+ 
+
+1. Introduction
+
+High entropy alloys (HEAs) [1], as well as named as multi-
+principal component alloy, is a new type of superalloy, which are
+composed of five or more elements with equal or near equal atomic
+ratio. Unlike the predicted results by traditional alloy theory and
+Gibbs phase law, HEAs do not form multiphase compounds which
+weaken the properties of materials for existing many elements. On
+the contrary, because the high entropy effect hinders the formation
+of brittle phases such as intermetallic compounds, HEAs show
+excellent “collective characteristics” [2]. Compared with the tradi-
+tional alloys, HEAs have single-phase BCC, FCC or HCP structure,
+attracting extensive attentions for their high strength, high hard-
+ness, high wear resistance, excellent high temperature oxidation
+resistance, corrosion resistance, superior thermal stability and
+other comprehensive properties [3—7]. In particular, refractory high
+
+* Corresponding author.
+E-mail address: tongyonggang_csust@163.com (Y.G. Tong).
+
+https://doi.org/10.1016/j.jallcom.2020.153963
+0925-8388/© 2020 Elsevier B.V. All rights reserved.
+
+entropy alloys (RHEAs), constituted of refractory elements such as
+Nb, Ta, Mo, W, are considered to be new superalloys for high
+temperature applications because of their superior mechanical
+strength at elevated temperatures compared with Ni-based alloys
+and Ni3Al-based intermetallic and other superalloys [8,9]. They
+have broad potential applications as a structural material in avia-
+tion, aerospace, metallurgy, nuclear energy and other fields of high
+temperature resistance due to their high melting points (above
+2000 °C), high strength and excellent high temperature resistance
+[10].
+
+The newly Moz5Nb25Ta25W25 RHEA, which is completely
+composed of refractory metal elements, has been reported for the
+first time by Senkov in 2010 [11]. The compressive strength of
+Mozs5Nb25Taz5W25 RHEA is 1211 MPa at room temperature and
+405 MPa at 1600 °C, respectively. Importantly, it still has a stable
+single-phase BCC structure at 1400 °C. The surprised results
+demonstrate that it is a new type of high temperature structural
+material for its excellent high temperature resistance and high
+temperature strength. To meet the increasing demand for high
+performance structural materials in high temperature applications,
+2 Y.L. Hu et al. / Journal of Alloys and Compounds 827 (2020) 153963
+
+it is of great significance to further improve the mechanical prop-
+erties of Moz5Nb25Taz5W25 RHEA. Alloying is an effective and
+common method to improve the mechanical properties of alloys.
+For example, Wang et al. found that Al addition resulted in the
+formation of BCC structure and hardened Al,CoCrFeNi high entropy
+alloys [12]. Salishchev et al. found V addition could improve
+significantly CoCrFeNi-based high entropy alloy’s hardness from
+160 Hv to 524 Hv and the compressive yield strength from
+6902 = 190 MPa—1435 MPa [13]. Especially, V addition was
+demonstrated to be effectively improve the mechanical properties
+of NbMoTaW RHEA such as improving the compressive yield
+strength from o92 = 1058 MPa—1246 MPa based on the experi-
+ments [11]. Xin et al. prepared single-phase nanocrystalline (NC)
+refractory VNbMoTaW HEAs and found its hardness reaches
+11.4 GPa at 1150 °C [14]. Unfortunately, as far as we know, most of
+the research about NbDMoTaW RHEA are focusing on experiments.
+There are few theoretical calculations to reveal the alloying me-
+chanical strengthening of NoMoTaW RHEA. No publish information
+is available on performances enhancement from the perspective of
+atomic and electrical scale such as electronic structure, band
+structure and charge density.
+
+First-principles, as an effective and economic calculational tool,
+is widely employed to predict material properties from atomic
+scale. In this work, the crystal model of NbMoTaW and NbMoTaWV
+RHEA were built based on virtual crystal approximate method
+(VCA) [15—18] and special quasi-random supercell method (SQS)
+[19]. The ground total energy, phase structure, mechanical prop-
+erties as well as electronic structure including the band structure,
+electronic density of states, charge density and charge density
+difference were systematically calculated to reveal the effects of V
+alloying on the properties of NoMoTaW-based RHEA. In addition,
+the similarities and differences of these methods including VCA and
+SQS in the computational accuracy and performance prediction for
+disordered high entropy alloys were compared.
+
+ 
+
+2. Methods
+2.1. Theoretical methods and calculation models
+
+Fig. 1 is the unoptimized VCA model and SQS supercell model of
+NbMoTaW and NbMoTaWV RHEA, respectively. In this work, a se-
+ries of supercell model containing 4, 10, 20 and 10 atoms were built,
+and they were expanded to 1 x 1 x 2and1 x 1 x 5onthe basis of a
+single cell. All the calculations were performed using CASTEP
+module, which depended on the first-principle plane-wave pseu-
+dopotential method based on density functional theory (DFT). The
+crystal models were respectively established by VCA and SQS
+methods. The electronic exchange-correlation terms were
+described using Generalized Gradient Approximation (GGA) and
+Perdew Burke Ernzerhof (PBE) function. Norm conserving pseu-
+dopotential for all the elements in reciprocal space were applied.
+The valence electrons of all the elements are Nb 4d‘45s!, Mo 4d°s!,
+Ta 5d?6s*, W 5d‘6s?, and V 3d?4s~. The cutoff energy (Ecut) of plane
+and special k-points sampling integration over the Brillouin zone
+were adopted using Monkhorst-Pack method according to the
+system defaults corresponding to fine-quality. Namely, E,yt was set
+to be 450 eV. K-point meshes of different models were set to be
+8 x 8 x 4 for BCC NbMoTaW, 8 x 8 x 2 for BCC NbMoTaWV,
+6 x 6 x 1 for FCC NbMoTaWV, 10 x 10 x 1 for HCP NbMoTaWV and
+8 x 8 x 8 for BCC NbMoTaWV built by VCA method, respectively.
+Partially, the k-point mesh was set to be 8 x 8 x 3 during the elastic
+constant calculation of the SQS supercell model. The structure
+optimization of above models adopted Broyden Flecher Goldfarb
+Shanno (BFGS) scheme. The maximal geometry optimization iter-
+ations step is 100. Pulay density mixing method was used in self-
+consistent calculation (SCF). The self-consistent convergence con-
+ditions were as follows: the total energy was 1 x 10~° eV/atom, the
+force less than 0.03 eV/A, the tolerance displacement less than
+0.001 A, and the stress less than 0.05 GPa. The single-point energy,
+
+©Ceoe0o0d°0o
+=
+
+Fig. 1. Unoptimized SQS supercell model and VCA model. (a) BCC NbMoTaW of 1 x 1 x 2; (b) BCC NbMoTaWV of 1 x 1 x 5; (c) FCC NbMoTaWV of 1 x 1 x 5; (d) HCP NbMoTaWV of
+
+1 x 1 x 5; (e) BCC NbMoTaWV built by VCA.
+Y.L. Hu et al. / Journal of Alloys and Compounds 827 (2020) 153963 3
+
+elastic and electronic properties of all the models were finally
+calculated after cell optimization.
+
+In order to verify the accuracy of the above parameters, the
+lattice parameters of single-phase BCC NbMoTaW RHEA was
+calculated to be 3.193 A, which was well agreed with the calculated
+value (3.271 A) by Li [20] and the experimental value (3.213 A) by
+Senkov [21]. It is demonstrated that the above parameters during
+calculations are reasonable.
+
+3. Experimental
+
+NbMoTaW and NbMoTaWV RHEA were prepared by vacuum arc
+melting after equimolar mixing corresponding elements with a pu-
+rity of 99.9 wt%. Before melting, the furnace was vacuumed to
+3 x 10-7 Pa and then, high purity argon gas was injected into the
+furnace. The alloy ingots were repeatedly melted 5 times to ensure
+the uniformity of their composition and structure. The specimens
+were cut from the ingots using wire electrical discharge machining.
+The structures of the samples were characterized by X-ray diffraction
+(XRD, Rigaku D/Max 2550VB-) using Cu Ke radiation at a scanning
+rate of 5°/min and scanning from 26 = 20°—90°. Microhardness of
+the alloys was measured by Vickers hardness tester. Getting an
+average value among three different points under 100 g for 15s.
+
+4. Results and discussion
+4.1, Phase structure
+
+Normally, the empirical criterions are used to predict the phase
+structure of RHEA. According to the literatures [22], when the
+average valence electron concentration (VEC) is larger than 8, FCC
+phase is stable. If VEC<6.87, BCC phase is stable. BCC and FCC phase
+coexist between 6.87 and 8. Besides, atomic size difference (6<6.6%)
+is considered as a single-phase BCC solid solution. The values of VEC
+and 6 for NbMoTaWV RHEA calculated using the empirical crite-
+rions are 5.463 (<6.87) and 3.20% (<6.6%), respectively, indicating
+that the NbMoTaWV RHEA is a single-phase BCC structure.
+
+Table 1 shows the formation enthalpy (Eform) and cohesive en-
+ergy (Econ) calculated based on the optimized SQS model of
+NbMoTaWV RHEA. Table 2 shows the total energy (Esoliq) of a single
+cell for every component in NbMoTaWV RHEA and total energy
+(Eatom) of individual atom in a corresponding single cell, respec-
+tively. Formation enthalpy plays a crucial role to characterize the
+ability of forming metal compounds. Generally speaking, the more
+negative formation enthalpy is liable to form metal compounds.
+The cohesive energy is used to determine the stability of the crystal.
+The lower the cohesive energy, the more stable the crystals [23].
+The Eform and Econ of NbMoTaWV RHEA were respectively calcu-
+lated based on formula (1) and (2):
+
+1 Ta Ww
+CE sod — CE Sona
+
+ 
+
+solid solid
+
+_ ‘Nb Mo
+Horm = ab rex d xe (Etot tLe BE
+
+1
+
+Nb M T Ww
+a+b+c+d+e (Exot — dE atom — bE Gtom ~~ CE atain — dE atom
+
+Ecoh =
+
+In the formula (1) and (2), Etot is the total energy of optimized
+NbMoTaWV RHEA SQS model. a, b, c, d and e represent the
+atomic numbers of Nb, Mo, Ta, W and V in the corresponding
+crystal cell, respectively. EN¥.,, EMO, E744, EWi4, Evuig are the
+total energy of a single crystal cell for every component in
+
+NbMoTaWV RHEA and EN? EMO Ele Ew nm Evtom are the
+total energy of individual atom in a corresponding single crystal
+cell, respectively. From the data in Table 1, we can see that both
+Eform and Ecoh of BCC NbMoTaWV RHEA are negative. There is a
+slight difference of Egg, among BCC, FCC, and HCP. BCC structure
+with more negative Efoym and E,o,will be formed in the first time.
+The calculated data indicates that NbDMoTaWV RHEA is single-
+phase BCC structure.
+
+In order to further analyze the phase structure of NbMoTaWV
+RHEA, the theoretical XRD spectrum of the NbMoTaW and
+NbMoTaWV RHEA from 20 = 20°—90° were calculated using
+Powder Diffraction in Material Studio’s Reflex module. Fig. 2 shows
+the theoretical and experimental XRD spectrums of both RHEA in
+this work. It is obviously observed that the strong peak positions
+in calculated XRD spectrum using VCA and SQS methods are well
+consistent with the experimental results, which indicates that
+NbMoTaW and NbMoTaWV RHEA formed a single-phase BCC solid
+solution. Besides, neutron diffraction patterns of both RHEA were
+measured and also exhibited a single-phase BCC solid solution
+[11], which were well agreed with our experimental and calculated
+results. Interestingly, the tendency of strong peak moving to the
+high angle demonstrated that the lattice parameters of NbMo-
+TaWV RHEA reduced after the addition of V atom with relatively
+small atomic size.
+
+The calculated lattice parameters of NbMoTaW and NbMo-
+TaWV RHEA in the present work are shown in Table 3. It can be
+seen that the decreasing tendency of calculated lattice parameter
+is similar to the analytical results of XRD spectrum. It is easy to
+be seen that V addition reduces the lattice parameters of the
+alloy. The phenomenon should be attributed to existg atomic size
+difference.
+
+In summary, NbMoTaW and NbMoTaWV RHEA are single-phase
+BCC solid solution based on the analysis of empirical criterions,
+formation enthalpy, cohesive energy and XRD spectrum. Therefore,
+BCC NbMoTaWV RHEA suppercell model was adopted to calculate
+the elastic properties and electronic structure.
+
+4.2. Elastic properties
+
+Table 4 shows nine elastic constants of optimized NbMoTaW and
+NbMoTaWV RHEA. Generally, the crystals with body centered cubic
+structure have three independent elastic constants. There are nine
+independent elastic constants in the suppercell model we adopted.
+Therefore, we took the average value of the elastic constants ob-
+tained by SQS model in order to reduce the influence of SQS model’s
+low symmetry and large size [24,25]. The results of calculated
+average value of the elastic constants shown in Table 5, which were
+described as formula (3):
+
+v
+CE tid) (1)
+
+i 2B bam) (2)
+
+Ci
+
+— Cy + C22 + C33. C5 Cig + C23 + C43. C
+Sg Cin = Ca
+
+— C44 t+ C55 + C66
+=> (3)
+4 Y.L. Hu et al. / Journal of Alloys and Compounds 827 (2020) 153963
+
+Table 1
+
+The formation enthalpy (Eform), cohesive energy (E.o,) and the total energy (E,o¢) of NDMoTaWV RHEA for the optimized SQS model.
+
+alloy Crystal structure number of atoms in a crystal cell Etot (eV) Horm (eV/atom) Econ (eV/atom)
+NbMoTaWwVv BCC 10 —1756.8780 —0.092 —7.346
+FCC 20 —3503.7878 0.406 —6.847
+HCP 10 —1750.3230 0.563 —6.690
+Table 2 Table 4
+
+The total energy (Esolia) of a single crystal cell for every component in NbMoTaWV
+RHEA and total energy (Eatom) of individual atom in a corresponding single crystal
+cell.
+
+components Nb Mo Ta W Vv
+
+Esotia (eV)
+Eatom (eV)
+
+—285.0977 -—440.8225 -—279.6026 -—425.0647 -—325.3658
+—133.8006 -—214.2942 -—131.5383 -—203.8927 -—158.1854
+
+experimental
+
+Intensity
+
+experimental
+
+ 
+
+10 20 30 40 50 60 70 80 90
+26 /°
+
+100 110 120
+
+Fig. 2. The calculated and experimental XRD spectrum of NbMoTaW and NbMoTaWV
+RHEA.
+
+According to Born Rule [16], formula (4) is identified as the
+decisive condition of mechanical stability:
+
+Cy1 > 0, Cyg>0, (C1 —Ci2) > 0, Cqy + 2C42 >0 (4)
+
+On the basis of the calculated data, we draw a conclusion that
+NbMoTaW and NbMoTaWV RHEA were of mechanical stability.
+
+Table 5 shows the mean elastic constants (C1, C12, C44), Cauchy
+pressure (Cj2—C,4), bulk modulus (B), shear modulus (G), Young’s
+modulus (E), and poisson’s ratio (v) of NbDMoTaW and NbMoTaWV
+RHEA. The polycrystal elastic modulus obtained using the Viogt-
+Reuss-Hill (VRH) method [26]. From the data in Tables 4 and 5,
+the elastic constants and polycrystalline elastic modulus of those
+RHEAs were calculated using the VCA and SQS methods. The
+calculated values of elastic constants and polycrystalline elastic
+
+Table 3
+Lattice parameters of optimized NbMoTaW and NbMoTaWV RHEA.
+
+this work (SQS method)
+
+alloys lattice parameters this work (VCA method)
+
+NbMoTaW a 3.195 3.193
+b 3.195 3.193
+c 3.195 6.432
+
+NbMoTaWV a 3.167 3.165
+b 3.167 3.165
+c 3.167 15.830
+
+Nine independent elastic constants in the suppercell model of optimized NbMoTaw
+and NbMoTaWV RHEA.
+alloys Cn C12 C13 Coa2 C'n3 C'33 C44 Css Cee data sources
+
+NbMoTaW 401 166 154 400 154 375 76 76 85 !
+330 194 181 320 194 349 96 78 93
+NbMoTaWV 386 141 145 386 144 365 65 64 65 7?
+
+12calculated rkesults from VCA and SQS method in the present work;*theoretical
+value [27].
+
+modulus decrease after V addition into NDMoTaW RHEA. In addi-
+tion, it is easy to build models with fast calculating speed using the
+VCA method, while the SQS model is complex and time-consuming.
+
+The influence of V addition on the brittle-ductility of Nb MoTaWw
+HEA is usually judged by the ratio of shear modulus to bulk
+modulus (G/B). If G/B < 0.57, it shows ductility, and the smaller the
+G/B is, the better the ductility is. Otherwise, it exhibits brittle
+behavior [26]. The calculated G/B values of NoMoTaW and NbMo-
+TaWV RHEA are listed in Table 5. It can be seen that the G/B value of
+NbMoTaW (VCA: 0.413 and SQS: 0.390) and NbMoTaWV (VCA:
+0.398 and SQS: 0.369) are basically same, indicating that both the
+alloys have similar ductility. The above information is well agreed
+with the nearly same compressing strain of NbNMoTaWV (1.9%) and
+NbMoTaW RHEAs (1.7%) tested by Senkov [11]. Normally, Cauchy
+pressure (Cj2—Cy4) is often used to evaluate the bonding charac-
+teristics of the alloy. If the (Cj2—C,4,) is positive, the metal bond will
+be formed, otherwise, the covalent bond will be formed. Cauchy
+pressure of the two alloys are shown in Table 5. All the values of
+(Cy2—C44) are positive, indicating that the atoms in the alloys are
+bonded by metal bonds.
+
+Hardness can reflect the comprehensive mechanical properties
+of materials. Thus, hardness of the NbMoTaWV and NbMoTaW
+RHEAs were calculated to investigate the effect of V addition on the
+mechanical properties of NoMoTaW RHEA. Generally, microhard-
+ness (Hv) of alloys can be predicted through calculated bulk
+modulus and shear modulus according to formula (5):
+
+G3 0.585
+Hv=|2~x (F2) —3 (5)
+
+The predicted and experimental hardness of NbMoTaW and
+NbMoTaWV RHEA are shown in Fig. 3. It can be seen that V addition
+has a little improvement on the hardness of NbMoTaW RHEA.
+Obviously, the predicted hardness values of the alloy are well
+consistent with the experimental values [21]. Compared with the
+
+experimental values [9,19] theoretical values [18]
+
+3.213 3.271
+3.213 3.271
+3.213 3.271
+3.185 _
+3.185 =
+3.185 _
+Table 5
+
+Y.L. Hu et al. / Journal of Alloys and Compounds 827 (2020) 153963
+
+The mean elastic constants (Cj/GPa), Cauchy pressure (C}2—C44/GPa), bulk modulus (B/GPa), shear modulus (G/GPa), Young’s modulus (E/GPa) and poisson’s ratio(v) of
+
+NbMoTaW and NbMoTaWV RHEA.
+
+RHEAs Cu Ci2 Ca Cia—-Ca4
+NbMoTaWw 425 158 86 72
+
+392 158 79 79
+NbMoTawV 421 144 72 72
+
+379 143 65 78
+
+8 *calculated by VCA
+*kcalculated by SQS
+7 6. 718% **kexperimental
+6, 358% 6. 258:
+@ 6
+ay 5. 214** 5. 25[21]
+sc
+“5
+Yn
+o
+2 4
+ZS
+=
+= 3
+
+ 
+
+aw
+
+Nl aN \\ 4
+wanol® sans! a wnro’® sitet A v0 Wt atol a catch
+
+Fig. 3. The calculated and experimental microhardness of NbMoTaW and NbMoTaWV
+RHEA.
+
+experimental value of 5.250 GPa [21], the predicted hardness of
+NbMoTaWV RHEA is 5.214 GPa in the present work. The deviation is
+only 0.69%, which demonstrates that the special quasi-random
+supercell method combined with the first principle based on den-
+sity functional theory is feasible to predict the elastic constants,
+polycrystalline modulus and hardness of disordered high-entropy
+alloys.
+
+4.3. Electronic structure
+
+Fig. 4 shows the energy band structure of NbMoTaW and
+NbMoTaWV RHEA along with the highly symmetric direction of
+Brillouin region. The red dotted line in the figure represents the
+position of Fermi energy level. The energy band structure near the
+Fermi level is closely related to the material properties. As shown in
+Fig. 4 (a) and (b), the energy gap is zero due to the overlap between
+conduction band and valence band, which demonstrates that both
+RHEAs show metal characteristics. Compared with NbMoTaWw
+RHEA, NbMoTaWV RHEA has a compacted energy band, which may
+be attributed to the strong interaction of orbital electrons between
+V atom and other four atoms. The energy band overlapping in-
+creases significantly after V addition into NoMoTaW RHEA, indi-
+cating that V addition enhances the bonding strength of the alloy
+system.
+
+Fig. 5 shows the total and partial densities of states of NNMoTaW
+and NbMoTaWV RHEA. It can be seen that there is no significant
+difference in the total density of states between NbMoTaW and
+NbMoTaWV RHEA, indicating that V addition makes the phase
+structure of NbMoTaW alloy stable. There is no phase transition in
+NbMoTaW RHEA after V addition. One difference is that V addition
+makes the strong peak sharper and closer to the Fermi energy level.
+Another change is that the conduction bond in high energy region
+
+B G G/B E v methods
+247 102 0.413 270 0.318 VCA
+236 92 0.390 245 0.327 SQS
+236 94 0.398 249 0.325 VCA
+222 82 0.369 200 0.348 SQS
+
+Energy(eV)
+
+ 
+
+Fig. 4. Energy band structure of RHEAs: (a) NbMoTaW; (b) NbMoTaWV.
+
+becomes flatter and more compact, indicating that strong interac-
+tion of orbital electrons after V addition into NDMoTaW RHEA and V
+addition makes the bonds combine sufficiently. The strong peak
+energies near the Fermi energy level of NbMoTaW RHEA
+are —2.36ev and 2.69eV and NbMoTaWV RHEA are —0.802eV and
+3.12eV. That is to say, the pseudo-energy gaps of NbMoTaW and
+NbMoTaWV RHEA are 5.05eV and 3.922eV, respectively. The
+pseudo-energy gap, which is defined as the energy difference be-
+tween two strong peaks near the Fermi energy level, reflecting the
+covalency of the alloy system. The wider the pseudo-energy gap is,
+the stronger the covalency of the system is [28,29]. The calculated
+results are that V addition makes the valence band closer to Fermi
+level apparently and the conduction bond flatter and more
+compact, shortening the pseudo-energy gap in quaternary RHEA.
+That is to say, the number of covalent bonds among Nb, Mo, Ta, W
+atoms decrease after V addition into NbMoTaW alloy, which may
+lead to the increasing of metallic bonding. It is thought to enhance
+the bonding strength and improve NbMoTaW RHEA’s mechanical
+properties. The analytical consequence is well consistent with the
+results judged by Cauchy stress and energy bonds. In addition, the
+total density of states of NoMoTaWV RHEA is far more than that of
+NbMoTaW RHEA, indicating that NoMoTaWV has stronger metallic
+properties than NbMoTaW.
+
+In order to further understand the contribution of electrons of
+each element to the total density of states of the alloy, the partial
+density of states of each element of NbDMoTaW and NbMoTaWV
+RHEA was calculated and is shown in Fig. 5. It is obvious that the
+valence band near the Fermi energy level of NbMoTaW alloy, with a
+high overlap rate, is formed after hybridization of d-orbital electron
+of Nb, Mo, Ta and W. There are a few contribution originated from s-
+orbital electron of Nb, Mo, Ta and W atoms. The conduction band of
+NbMoTaWYV alloy is formed after the hybridization of d-orbital and
+p-orbital electron among Nb, Mo, Ta, W and V atoms. Compared
+with the partial density of states of NoOMoTaW RHEA, the conduc-
+tion bond with less peak valley in high energy region of NDMoTaWV
+6 Y.L. Hu et al. / Journal of Alloys and Compounds 827 (2020) 153963
+
+  
+ 
+
+ 
+ 
+
+total 7 NbMoTaWyV
+10
+0 i
+
+ 
+
+total Aye ay
+
+'y
+|
+
+NbMoTaW
+\ bo a KM
+
+tf
+
+a
+
+      
+
+6
+3 I
+0
+
+ 
+
+ 
+
+Density of States (electrons/eV)
+
+ 
+
+Density of States (electrons/eV)
+
+Energy (eV)
+
+ 
+
+ 
+
+Energy (eV)
+
+Fig. 5. The total and partial density of states of NoMoTaW and NbMoTaWV RHEA.
+
+RHEA becomes more compact, meaning that the interactions in
+atoms become stronger.
+
+Fig. 6 shows the charge density and charge density difference
+diagram of NbMoTaW and NbMoTaWV RHEA along the crystal
+plane (110), which can directly reflect the bonding and charge
+transfer between atoms. As shown in Fig. 6 (a) and (b), the electron
+cloud distributes uniformly around Nb, Mo, Ta and W atoms
+without obvious directionality, which verifies the formation of
+metal bonds [30]. It is obvious that the overlap of the electron cloud
+between Mo and W become stronger and take place stronger
+electron interaction after V addition. Fig. 5 (c) and (d) are the charge
+density difference diagrams. The red means losing electrons and
+the blue represents getting electrons. It is easy to be seen that the
+red around V atom is brighter than other atoms, indicating that V
+atom loses electrons and the interaction of orbitals electrons
+
+- 5.34064
+267901
+
+j~ 1.80003
+
+ 
+
+ 
+
+ 
+
+between V atom and Nb, Mo, Ta and W is stronger than that among
+Nb, Mo, Ta and W. This may be the reason why the formed covalent
+bonds between Nb, Mo, Ta and W decrease and the metal bonds
+increase.
+
+5. Conclusion
+
+VCA and SQS models based on first-principle calculation were
+used to calculate the phase structure, mechanical properties and
+electronic structure of NbMoTaW and NbMoTaWV RHEA. The
+calculated Eform, Ecoh, and XRD spectrum indicate that both RHEAs
+were single-phase BCC solid solution. According to the calculated
+electronic structures, V addition enhanced the bonding strength
+and improved mechanical properties of NbMoTaW RHEA. Both
+NbMoTaW and NbMoTaWV RHEA exhibited metal characteristics.
+
+The calculated results and the experimental data are coincident,
+indicating that first-principle calculation is an effective method to
+simulate and predict the properties of RHEA. This provides an
+approach to investigate the alloying enhancement of RHEAs and
+other alloys.
+
+Acknowledgments
+
+This work was supported by National Key R&D Program of China
+(No. 2018YFC1902401), Natural Science Foundation of Hunan
+Province of China (No. 2019JJ50657), Hunan Key R&D Project (No.
+2019kj001), Educational Commission of Hunan Province of China
+(No. 18C0210) and the “Double First-Class” Scientific Research In-
+ternational Cooperation and Development Project of Changsha
+University of Science and Technology.
+
+References
+
+[1] J.W. Yeh, S.K. Chen, S.J. Lin, J.Y. Gan, T.S. Chin, T.T. Shun, C.H. Tsau, S.Y. Chang,
+Nanostructured high-entropy alloys with multiple principal elements: novel
+alloy design concepts and outcomes, Adv. Eng. Mater. 6 (2004) 299-303,
+https://doi.org/10.1002/adem.200300567.
+
+[2] X.W. Qiu, Y.P. Zhang, C.G. Liu, Effect of Ti content on structure and properties
+of AlgCrFeNiCoCuTi, high-entropy alloy coatings, J. Alloys Compd. 585 (2014)
+282-286, https://doi.org/10.1016/j.jallcom.2013.09.083.
+
+[3] F. Otto, A. Dlouhy, Ch Somsen, H. Bei, G. Eggeler, E.P. George, The influences of
+
+temperature and microstructure on the tensile properties of a CoCrFeMnNi
+
+high-entropy alloy, Acta Mater. 61 (2013) 5743-5755, https://doi.org/
+10.1016/j.actamat.2013.06.018.
+
+Q. Fang, Y. Chen, J. Li, Y. Liu, Y. Liu, Microstructure and mechanical properties
+
+of FeCoCrNiNbx high-entropy alloy coatings, Phys. Rev. B Condens. Matter 550
+
+(2018) 112—116, https://doi.org/10.1016/j.physb.2018.08.044.
+
+[5] B. Wang, X. Yao, C. Wang, X. Zhang, X. Huang, Mechanical properties and
+microstructure of a NiCrFeCoMn high-entropy alloy deformed at high strain
+rates, Entropy 20 (2018) 892, https://doi.org/10.3390/e20110892.
+
+[6] Y.G. Tong, P.B. Qi, X.B. Liang, Y.X. Chen, Y.L. Hu, Z.F. Hu, Different-shaped ul-
+trafine MoNbTaW HEA powders prepared via mechanical alloying, Materials
+11 (2018) 1250, https://doi.org/10.3390/ma11071250.
+
+[7] J.A. Smeltzer, CJ. Marvel, B.C. Hornbuckle, A.J. Roberts, J.M. Marsico, A.K. Giri,
+
+K.A. Darling, J.M. Rickman, H.M. Chan, M.P. Harmer, Achieving ultra hard re-
+
+fractory multi-principal element alloys via mechanical alloying, Mater. Sci.
+
+Eng., A 763 (2019) 138140, https://doi.org/10.1016/j.msea.2019.138140.
+
+H.P. Wang, P. Lti, X. Cai, B. Zhai, J.F. Zhao, B. Wei, Rapid solidification kinetics
+
+and mechanical property characteristics of Ni—Zr eutectic alloys processed
+
+under electromagnetic levitation state, Mater. Sci. Eng., A 772 (2020) 138660,
+
+https://doi.org/10.1016/j.msea.2019.138660.
+
+[9] J. Wu, C. Li, Y. Liu, Y. Wu, Q, Guo, H. Li, H. Wang, Effect of annealing treatment
+on microstructure evolution and creep behavior of a multiphase Ni3Al-based
+superalloy, Mater. Sci. Eng., A 743 (2019) 623—635, https://doi.org/10.1016/
+j.msea.2018.11.126.
+
+[10] Z.D. Han, H.W. Luan, X. Liu, N. Chen, X.Y. Li, Y. Shao, K.F. Yao, Microstructures
+
+[4
+
+[8
+
+and mechanical properties of TixNbMoTaW refractory high-entropy alloys,
+Mater. Sci. Eng. 712 (2018) 380-385, https://doi.org/10.1016/
+j-msea.2017.12.004.
+
+[11] O.N. Senkov, G.B. Wilks, J.M. Scott, D.B. Miracle, Mechanical properties of
+Nb25Mo25Ta25W25 and V29Nb29Mo29Taz0W20 refractory high entropy alloys,
+Intermetallics 19 (2011) 698—706, https://doi.org/10.1016/
+j.intermet.2011.01.004.
+
+[12] W.R. Wang, W.L. Wang, S.C. Wang, Y.C. Tsai, C.H. Lai, J.W. Yeh, Effects of Al
+addition on the microstructure and mechanical property of Al,CoCrFeNi high-
+entropy alloys, Intermetallics 26 (2012) 44—51, https://doi.org/10.1016/
+j.intermet.2012.03.005.
+
+[13] G.A. Salishchev, M.A. Tikhonovsky, D.G. Shaysultanov, N.D. Stepanov,
+AV. Kuznetsov, I.V. Kolodiy, A.S. Tortika, O.N. Senkov, Effect of Mn and V on
+structure and mechanical properties of high-entropy alloys based on CoCrFeNi
+system, J. Alloys Compd. 591 (2014) 11-21, https://doi.org/10.1016/
+j.jallcom.2013.12.210.
+
+[14] S.W. Xin, M. Zhang, T.T. Yang, Y.Y. Zhao, B.R. Sun, T.D. Shen, Ultrahard bulk
+nanocrystalline VNbMoTaW high-entropy alloy, J. Alloys Compd. 769 (2018)
+597-604, https://doi.org/10.1016/j.jallcom.2018.07.331.
+
+[15] F.Y. Tian, A review of solid-solution models of high-entropy alloys based on ab
+initio calculations, Front. Mater. 4 (2017), https://doi.org/10.3389/
+fmats.2017.00036.
+
+[16] Y.K. Mu, H.X. Liu, Y.H. Liu, X.W. Zhang, Y.H. Jiang, T. Dong, An ab initio and
+experimental studies of the structure, mechanical parameters and state
+density on the refractory high-entropy alloy systems, J. Alloys Compd. 714
+(2017) 668—680, https://doi.org/10.1016/j.jallcom.2017.04.237.
+
+[17] L. Bellaiche, D. Vanderbilt, Virtual crystal approximation revisited: application
+to dielectric and piezoelectric properties of perovskites, Phys. Rev. B 61 (2000)
+7877-7882, https://doi.org/10.1103/PhysRevB.61.7877.
+
+[18] M.Q. Liao, Y. Liu, LJ. Min, Z.H. Lai, TY. Han, D.N. Yang, J.C. Zhu, Alloying effect
+on phase stability, elastic and thermodynamic properties of Nb-Ti-V-Zr high
+entropy alloy, Intermetallics 101 (2018) 152—164, https://doi.org/10.1016/
+j.intermet.2018.08.003.
+
+[19] A. Zunger, S.H. Wei, L.G. Ferreira, J.E. Bernard, Special quasirandom structures,
+Phys. Rev. Lett. 65 (1990) 353-356, _https://doi.org/10.1103/
+PhysRevLett.65.353.
+
+[20] X.Q. Li, First-principles study of the third-order elastic constants and related
+anharmonic properties in refractory high-entropy alloys, Acta Mater. 142
+(2018) 29—36, https://doi.org/10.1016/j.actamat.2017.09.041.
+
+[21] O.N. Senkov, G.B. Wilks, D.B. Miracle, C.P. Chuang, P.K. Liaw, Refractory high-
+entropy alloys, Intermetallics 18 (2010) 1758—1765, https://doi.org/10.1016/
+j.intermet.2010.05.014.
+
+[22] XJ. Yao, X.F. Shi, Y.P. Wang, G.Y. Gan, B.Y. Tang, The mechanical properties of
+high entropy (-like) alloy W,(TaTiVCr);-x via first-principles calculations,
+Fusion Eng. Des. 137 (2018) 35-42,  https://doi.org/10.1016/
+j.fusengdes.2018.08.008.
+
+[23] Z.S. Nong, J.C. Zhu, R.D. Zhao, Prediction of structure and elastic properties of
+AICrFeNiTi system high entropy alloys, Intermetallics 86 (2017) 134—146,
+https://doi.org/10.1016/j.intermet.2017.03.014.
+
+[24] Z.Q. Wen, Y.H. Zhao, J.Z. Tian, S. Wang, Q.W. Guo, H. Hou, Computation of
+stability, elasticity and thermodynamics in equiatomic AlCrFeNi medium-
+entropy alloys, J. Mater. Sci. 54 (2019) 2566—2576, https://doi.org/10.1007/
+$10853-018-2943-7.
+
+[25] Z. Lu, Z. Lei, H. Huang, S. Liu, F. Zhang, D. Duan, P. Cao, Y. Wu, X. Liu, H. Wang,
+Deformation behavior and toughening of high-entropy alloys, Acta Metall. Sin.
+54 (2018) 1153-1166, https://doi.org/10.11900/0412.1961.2018.00372.
+
+[26] J. Zhang, Y.N. Huang, C. Mao, P. Peng, Structural, elastic and electronic prop-
+erties of § (AlgCu) and S (AlgCuMg) strengthening precipitates in Al-Cu-Mg
+series alloys: first-principles calculations, Solid State Commun. 152 (2012)
+2100—2104, https://doi.org/10.1016/j.ssc.2012.09.003.
+
+[27] Y. Wu, Microstructure and Toughening Mechanism of Ti-Zr-Nb Refractory
+High Entropy Alloy, University of Science and Technology Beijing, 2019.
+
+[28] Y. Wang, J. He, M. Yan, C. Li, L. Wang, Y. Zhou, First-principles study of NiAl
+alloyed with rare earth element Ce, J. Mater. Sci. Technol. 27 (2011) 719—724,
+https://doi.org/10.1016/S1005-0302(11)60132-1.
+
+[29] Z.N. Ma, J. Min, W. Lei, First-principles study of electronic structures and phase
+stabilities of ternary intermetallic compounds in the Mg-Y-Zn alloys, Acta
+Phys Sin-ch ED. 64 (2015) 1026—1031, https://doi.org/10.7498/aps.64.187102.
+
+[30] J. Zhang, Q. Xu, Y. Hu, C. Mao, X. Zhou, X. Lu, M. Zhang, Y. Tong, K. Tang,
+P. Peng, Interfacial bonding mechanism and adhesive transfer of brazed dia-
+mond with Ni-based filler alloy: first-principles and experimental perspective,
+Carbon 153 (2019) 104—115, https://doi.org/10.1016/j.carbon.2019.07.015.
+

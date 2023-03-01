@@ -1,0 +1,1073 @@
+Previously unreported High-Entropy Alloys (HEAs) in the pentanary (ZrNb);_,[MoReRul,, (HfTaWlr),_,[Rel,,
+and (HfTaWPt),_,[Rel, systems are described and characterized. The materials have body-centered cubic
+a-Mn-type structures and mixed site occupancies; a small stoichiometry range is observed for all, and
+the mixed 4d-—5d system has less Re than is typically encountered for Re-containing materials with
+
+
+decreasing a and increasing VEC within each series and fall between the trend lines found for crystalline.
+
+
+Introduction
+
+Rapidly developing technologies require the parallel develop-
+ment of advanced materials with improved properties. Conven-
+tional metal alloys, for example, cannot fulfill all the demands
+of such technologies, motivating material scientists to continu-
+ously develop new materials. One new class of materials with an
+attractive combination of tunable mechanical and physical
+properties are the High-Entropy Alloys (HEAs)."° HEAs are
+multi-component materials composed of five or more elements
+combined in an equimolar or near-equimolar ratio. HEAs
+crystallize mainly in simple structures, such as face- or body-
+centered cubic (FCC, BCC) or hexagonal-closed packed (HCP)
+lattices with mixed site occupancy.° * In these solid-solutions, the
+high mixing entropy contributes significantly to the free energy,
+stabilizing the HEA phases at ambient temperatures.°”1"*
+
+HEAs have attracted much interest in recent years. Among the
+many studied systems only four examples of superconducting
+HEAs have so far been reported. The first, Ta-Nb-Hf-Zr-Ti, ” ** is
+a type-II bulk superconductor with a small unit cell BCC structure,
+a maximum T, ~ 7.6 K for the composition [TaNb]o.¢7(HfZrTi)o.33,
+an upper critical field for the quenching of superconductivity
+HoH ez at zero temperature of 7.75 Tesla (T), and extraordinarily
+robust zero-resistance superconductivity at pressures up to
+190 GPa.’ In the next group, the CsCl structure is found, for
+pentanary (ScZrNb),_,{RhPd],, and hexanary (ScZrNbTa),_,{RhPd],
+with a maximum T, ~ 9.3 K and [igH,o(0) = 10.7 T.'° These HEA
+
+Department of Chemistry, Princeton University, Princeton, New Jersey 08544, USA.
+E-mail: kstolzge@princeton.edu
+
++ Electronic supplementary information (ESI) available. See DOI: 10.1039/
+c8tc03337d
+
+This journal is © The Royal Society of Chemistry 2018
+
+and amorphous transition metal alloy superconductors.
+
+superconductor systems display strong composition-dependent
+changes in the superconducting transition temperature.
+Finally, the nearly equimolar BCC HEA Nb ,Re1¢Zr29Hf23Tizg
+with T, © 5.3 K and oH.2(0) = 8.88 T has been reported.”
+Apparently, highly disordered BCC structures and their ordered
+variants with CsCl-type lattices, with small unit cells, seem to
+favor superconductivity in HEAs.
+
+A rare, relatively complex structure type that is found for
+some superconducting binary alloys is the o-Mn structure.
+This structure derives from the low-temperature allotrope of
+manganese and is body-centered cubic with a relatively large
+crystallographic cell that contains many more atoms than the
+simple BCC and CsCl-type structures found for previously
+reported superconducting HEAs. These binary superconductors,
+in space group /43m have 58 atoms per unit cell (rather than the
+two atoms per cell found in simple BCC materials) occupying four
+different symmetry sites, each of them with high coordination
+numbers.’® Typical elements forming binary «Mn compounds
+with the general sum formula A;B,, (two A;B,, formula units per
+cell) are A: transition metal element or a rare earth element, and
+B: Mn, Tc, Re or Os. For these binaries, intermetallic compounds
+as well as solid solutions are reported. Although overall more
+complex than the small-cell BCC or FCC structures typically
+encountered for HEAs, the «-Mn structure type is also based on
+closest packing of atoms, though local closest packing rather
+than global closest packing dominates.’? Table 1 gives an
+overview of the conventional rhenium-based binary intermetallic
+a-Mn structure superconductors with T, > 2 K listed in order of
+increasing VEC.””*
+
+Here we present three previously unreported pentanary
+HEA superconductors with rhenium. They are in the mixed
+4d 5d system Zr-Nb-Mo-Re-Ru, and in the purely 5d systems
+
+J. Mater. Chem. C, 2018, 6, 10441-10449 | 10441
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Paper
+
+Table 1 Rhenium based binary intermetallic and alloy superconductors
+with a-Mn structure, T. > 2 K2%21
+
+Compound Te (K) VEC (e per atom)
+ScRes 2.2 6.00
+AlRe3 3.4 6.00
+HfRe; 5.9 6.25
+TisReo4 6.6 6.48
+TaRe3 6.8 6.50
+ZY 9.14RE€o.96 7A 6.58
+Nbo.18sR€o.82 8.9 6.64
+WRe; 9.0 6.75
+MoRe3 9.9 6.75
+
+Hf-Ta-W-Re-Ir and Hf-Ta-W-Re-Pt. These latter systems
+are the first HEA superconductors based solely on 5d-elements
+and therefore may be of great interest due to their spin-orbit
+coupling.’* ** The materials have the a-Mn structure with mixed
+site occupancy and reveal strongly composition-dependent
+superconducting transition temperatures.
+
+Experimental
+Synthesis
+
+All samples were prepared by mixing stoichiometric amounts of
+zirconium foil (99.8% purity), niobium pieces (99.99% purity),
+tantalum (99.9% purity, arc-melted from powder), molybdenum
+foil (99.95% purity), ruthenium pieces (99.9% purity, arc-melted
+from powder), hafnium pieces (99.6% purity, arc-melted from
+powder), tantalum foil (99.9% purity), tungsten foil (99.95%
+purity), rhenium pieces (99.99% purity), and platinum pieces
+(99.99% purity, arc-melted from powder) respectively, all from
+Alfa Aesar. The elemental metals were carefully arc melted in 200
+or 250 mg sample sizes into a single metallic button under an
+argon atmosphere with a high current (JT > 2500 °C, J < 75 A) and
+quenched on a water-chilled copper plate. The argon atmosphere
+was cleaned of residual oxygen and moisture by co-heating of
+a zirconium sponge at each melting step. The samples were
+re-melted at least three times and turned over each time, to ensure
+the optimal mixing of the constituents. Only samples with a weight
+loss less than 1.5% were characterized. An overview of the samples
+studied, with the normalized sum formulas, corresponding molar
+composition, total weight loss from starting weight during pre-
+paration, lattice parameter a of the o-Mn structure, and valence
+electron concentrations (VECs, i.e. electrons per atom, e/a) is given
+in Table 2. VECs only for single-phase samples are shown in the
+table. No amorphous phases are present in the HEA samples,
+because for such metallic systems cooling rates of several orders
+of magnitude faster than those employed here would be required
+to obtain an amorphous phase.
+
+Crystallography
+
+For qualitative structural characterization, powder X-ray
+diffractometry (pXRD) was used. All samples are brittle and were
+converted into powder form by grinding. The pXRD patterns
+were obtained on a Bruker D8 Advance Eco in Bragg-Bretano
+Geometry with Cu-Ko-radiation and a LynxEye-XE detector.
+
+10442 | J. Mater. Chem. C, 2018, 6, 10441-10449
+
+View Article Online
+
+Journal of Materials Chemistry C
+
+LeBail fits for determining the average cell parameters of all
+samples were performed using the TOPAS program package”®
+with Thompson-Cox-Hastings pseudo-Voigt peak shapes.
+
+Physical property measurements
+
+The magnetizations, resistivities and heat capacities were studied
+on bulk sample pieces using a Quantum Design Physical
+Property Measurement System (PPMS) DynaCool equipped with
+a Vibrating Sample Magnetometer (VSM) Option. Zero-field
+cooled (ZFC) temperature dependent magnetization measure-
+ments were carried in a field of oH = 2 mT. For the resistivity
+measurements, a standard four-probe technique was used with
+an applied current of J = 3 mA. The specific heat experiments
+were carried out using a relaxation method in the temperature
+interval of 15-1.8 K at zero applied magnetic field and 9 T.
+
+Electron microscopy
+
+Compositions were verified for selected materials by performing
+energy dispersive X-ray spectroscopy (EDX) studies on flat
+sanded sample surfaces with the accelerating voltage of 15 kV
+with a Quanta 200 FEG Environmental (FEI) scanning electron
+microscope equipped with a X-Max 80 mm” SDD (Oxford
+Instruments) spectrometer, collected and analyzed employing
+the INCA suite of programs.
+
+Results and discussion
+
+Structural characterization of «-Mn type HEAs
+
+(ZrNb),_,{MoReRu],. The high-temperature reaction of the
+Ad transition metals zirconium, niobium, molybdenum and
+ruthenium together with the 5d-metal rhenium with the general
+sum formula (ZrNb),_,{MoReRu], forms, for 0.90 < x < 0.70,
+brittle, silver-lustrous, polycrystalline materials that are stable
+in air and moisture. The brittle character of these and the other
+a-Mn type HEAs studied in this work is in stark contrast to the
+ductile character of the small-cell superconducting BCC and
+CsCl-type HEAs studied previously. Their pXRD patterns could
+be indexed with the complex structure of the low-temperature
+allotrope of manganese, i.e. a-Mn.'* The compounds crystallize
+on a body-centered cubic lattice in space group 143m (Fig. 1)
+whose unit cell contains 58 atoms occupying four different
+Wyckoff sites: 2a (0,0,0), 8c (x,x,x), and 2 x 24g (x,x,z). The
+coordination spheres of the atoms in each site reveal high
+coordination numbers (CN) and can be described as distorted
+4-fold capped truncated tetrahedra representing so called
+Friauf-polyhedra with CN = 16 for sites 2a (less distorted) and
+8c (more distorted), a polyhedron with CN = 13 whose faces are
+19 triangles and one trapezoid for one 24¢ site, and a distorted
+icosahedron for the other 24g site (CN = 12), all depicted in
+Fig. 2.'° The «-Mn structure is built up by the interpenetration
+of those four different coordination polyhedra, determined by
+local closest packing of the vertices. Another way to describe
+the structure is with polyhedral nesting: the atom on 2a (center
+and the corner of the unit cell) is coordinated by twelve atoms
+located on 24g forming a truncated tetrahedron with four
+
+This journal is © The Royal Society of Chemistry 2018
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Journal of Materials Chemistry C
+
+View Article Online
+
+Paper
+
+Table 2 Sample overview for the «-Mn-type HEAs studied with sum formula, corresponding composition, total mass loss during sample preparation,
+lattice parameter a of the a-Mn structure in /43m, and VEC of phase-pure a-Mn type samples
+
+ 
+
+Normalized sum formula x Composition Am* (%) a (A), +0.001 VEC (e/a)?
+(ZrNb)o.30[/MoReRu]o.60 0.60 ZY0.20NbDo.290M00.2333RE€0.20RU0.20 0.32
+
+(ZrNb)o.20[/MoReRu]o,g0 0.80 ZY0.10Nbo.190M00.2667R€0.2667RU0.2667 0.32 9.701 6.50
+(ZrNb)o.10[/ MoReRu ]o,90 0.90 Z¥o.05Nb0.05M00.30R€0.30RU0.30° 1.00 9.613 6.75
+(ZrNb)o,o0/MoReRu ]; 00 1.00 M0 0.3333R€0.3333RU0.3333 0.18
+
+(HfTaWI1); oo[Re]o.oo 0.00 Hfo.25Tao.25Wo.25I¥0.25 0.30
+
+(HfTaWIr)o.90[Re]o.10 0.10 Hf 225Ta0.225Wo.225IIo.225R€o.10 0.25
+
+(HfTaWIr)o.so[Re]o.20 0.20 Hf.20Tao.20W0.20!o.20R€0.20 0.67 9.899
+
+(HfTaWIr)o 60[Re]o.40 0.40 Hfo 15Ta0.15Wo.15!¥0.15R€o.40 0.85 9.778
+
+(HfTaWIr)o,45[Re]o.s5 0.55 Hf 4425T80.1125W0.11251¥0.1125R€0.55 0.90 9.734
+
+(HfTaWIr)o.40[Re]o.60 0.60 Hf 10T@0.10W0.101¥0.10R€0.60" 0.60 9.723 6.60
+(HfTaWIr)o,30[Re]o.70 0.70 Hf .075T80.075W0.075!0.07sR€o.70 0.90 9.662 6.70
+(HfTaWIr)o.20[Re]o.so 0.80 Hf .95TA0.05Wo.05!10.05R€o.80 0.60 9.638
+
+(HfTaWPt)o,.6o[Re]o.20 0.40 Hf.15Tao.15Wo.15Pto.15R€o.40 0.81 9.767
+
+(HfTaWPt)o.45[Re]o.s5 0.55 Hf.1125T0.1125Wo.1125Pto.1125R€0.55 0.44 9.701
+
+(HfTaWPt)o.40[Re]o.60 0.60 Hf .10T20.10W0.10Pto.10R€o.60° 0.76 9.683 6.70
+(HfTaWPt)o.35[Relo.6s 0.65 Hf .0875T 80.0875 W0.0875Pto.0s7sR€0.65 1.32 9.667 6.74
+(HfTaWPt)o.25[Re]o.75 0.75 Hfo.06251A0.0625W0.0625Pto.0625R€o.75 0.76 9.636
+
+(HfTaWPt)o.20[Relo.so 0.80 Hf .95Tao9.05Wo.05P to.05REo.80 0.25 9.635
+
+“ Total weight measured to 1 part in 2500 or 1 part in 2000; error from measured weight loss is <1.0% in the 4d/5d-element family and <1.4% in
+the 5d-element families. There is no indication of preferential element loss for these materials and therefore the errors in column six have been
+estimated if the weight loss is equal for all elements present. ” e/a = electrons per atom. Maximum error is +0.03 e/a for Am originating equally
+from all elements present. ‘ Elemental analysis: expected (at%) 5.0, 5.0, 30.0, 30.0, 30.0 for Zr, Nb, Mo, Re and Ru, observed by EDX (estimated
+error +2%) 4.8, 4.8, 30.1, 29.9, 30.4. 4 Elemental analysis: expected (at%) 10.0, 10.0, 10.0, 10.0, 60.0 for Hf, Ta, W, Ir and Re, observed by EDX
+(estimated error +2%) 10.6, 8.5, 8.1, 9.9, 63.0. ° Elemental analysis: expected (at%) 10.0, 10.0, 10.0, 10.0, 60.0 for Hf, Ta, W, Pt and Re, observed by
+
+ 
+
+ 
+
+EDX (estimated error +2%) 9.0, 8.0, 8.3, 8.3, 66.5.
+
+ 
+
+triangular and four hexagonal faces. The hexagonal faces are
+capped by four atoms sitting on 8c in a tetrahedral fashion
+around the central atom. The last coordination sphere is built
+up by the twelve atoms sitting on the second 24¢ site forming a
+cuboctahedron.*? Within both structural principles, local dense
+packing of atoms stabilizes the «-Mn structure type in the
+studied HEA systems. The binary intermetallic structures deter-
+mined in this structure type generally have a well-defined A;Bo,4
+(ie. Ao.17Bo.g3) Stoichiometry with ordering of the two different
+atom types; atom A found on Wykoff sites 2a and 8c, and atom
+B on the two 24g sites.”° The solid solutions are non-stoichio-
+metric A,B,_, compounds with either partial ordering on certain
+sites, e.g. as in Rey ~Nby.4’’ and Reg, sNby.2, °° or complete random
+mixing of the two elements on all four symmetry sites, as
+reported e.g. for Reo.¢7Tao.33-> All binary o-Mn-structure super-
+conducting alloys based on Re are Re-rich — that is, they contain
+more than 50% Re and often much more; which is not the case
+for the HEA superconductors studied here.
+
+We find that phase-pure «-Mn type (ZrNb),_,{MoReRu],
+HEAs form with 0.90 < x < 0.80 (Fig. 2, grey shaded pXRD
+patterns), indicating a small but distinct phase width of the
+structure type that shows the compounds ability to form a solid
+solution with certain mixing of the different metals on the
+different sites. The large numbers of different atoms and the
+large number of sites in this crystal structure means that an
+unambiguous determination of the atomic site occupancies of
+
+This journal is © The Royal Society of Chemistry 2018
+
+ 
+
+our superconducting «-Mn HEAs is beyond the scope of the
+present study, as it would require the co-refinement of several
+sets of diffraction data designed such that the atoms have
+different scattering factors. Just like the recently reported
+CsCl-type HEAs,'® the new o-Mn HEAs are materials partway
+between ordered intermetallic compounds and random solid
+solution, and appear to be stabilized within a small composi-
+tional range due to a delicate balance between maximizing the
+mixing entropy and minimizing the mixing enthalpy.
+
+The phase boundary of «-Mn type (ZrNb),_,{MoReRu], HEAs
+for high x values is an HCP alloy of equimolar MoReRu with
+mixed site occupancy (Fig. 1). This material is superconducting
+at T, © 9.1 K. For low x values, i.e. x < 0.70, two BCC phases
+with slightly different lattice parameters [a, = 3.176(1) A,
+dz = 3.211(1) A] are found in addition to the o-Mn-type HEA
+alloy, and, with further increase of the Zr/Nb content the target
+compound is not formed any more but the hexagonal Laves
+phase ZrRe, [P6;/mmce, a = 5.261(1) A, c = 8.593(1) A] appears.
+Thus, the HEA with the «-Mn structure forms for compositions
+between those of intermetallic alloys with fewer metal consti-
+tuents, ie. alloys with lower mixing entropy.
+
+(HfTawIr),_,{Re], and (HffaWPt),_,[Re],. The combination
+of exclusively 5d transition metal elements with the composi-
+tions (HffaWIr),_,[{Re], and (HffaWPt),_,[Re], gave samples
+with the o-Mn-type lattice (J43m), (Fig. 3). Phase-pure o-Mn-type
+HEAs could be obtained for these systems for 0.75 < x < 0.60
+
+J. Mater. Chem. C, 2018, 6, 10441-10449 | 10443
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Paper
+
+(ZrNb),_[MoReRu],
+
+Intensity (a.u.)
+
+ 
+
+30 40 50 60 70 80
+20(°)
+
+Fig. 1 PXRD patterns of powder samples of (ZrNb);_,[MoReRul, with
+x = 1.00-0.60. The different symbols mark the peak position for the
+reflections of emerging phases for high and low x; HCP solid solution of
+MoReRu for high x = 1.00, and two BCC phases and the hexagonal Laves
+phase ZrRez (P63/mmc) for low x values. All unmarked peaks belong
+to the «-Mn-type lattice (/43m); the grey shaded patterns are phase-pure
+a-Mn-type samples.
+
+€
+=
+
+a a
+oye
+DA aly
+
+ae 2a, CN = 16 8c, CN = 16
+CE a
+>
+
+V SS
+Zs Le 15
+Ne Se Sok
+
+24g, CN = 13 24g, CN = 12
+
+ 
+
+Fig. 2 Left: Unit cell of body-centred cubic a-Mn structure (/43m) with
+four different Wyckoff sites; right: representation of the coordination
+polyhedra for each symmetry site with high CN each.
+
+and 0.70 < x < 0.60, respectively (Fig. 3, grey shaded
+pXRD patterns). The lattice parameter a varies depending on
+the material’s composition and stoichiometry, i.e. between
+9.638(1) A < a < 9.869(1) A for the Irvariant and 9.635(1) A <
+a < 9.767(1) A for the Pt-variant (Table 2). Again, the distinct
+phase width of the structure type shows that the compounds
+form a solid solution with certain mixing of the different metals
+on the sites within the structure. Whether the rhenium atoms
+prefer to exclusively occupy both the low symmetry 24g posi-
+tions, e.g. as in Hf;Res,,-° and the other four transition metals
+
+10444 | J. Mater. Chem. C, 2018, 6, 10441-10449
+
+View Article Online
+
+Journal of Materials Chemistry C
+
+a) (HfTaWlr), [Re],
+
+Intensity (a.u.)
+
+ 
+
+20(°)
+b) (HffaWPt), [Re],
+
+ 
+
+x= 0.80
+x=0.75
+3
+& x=0.70
+=
+5 x= 0.65
+£
+x= 0.60
+x=0.55
+x= 0.50
+x= 0.40
+30 40 50 60 70 80
+
+20(°)
+Fig. 3 PXRD patterns of powder samples of (a) (HfTaWlr),_,[Re], with x =
+0.80-0.00 and (b) (HfTaWPt),_,[Rel, with x = 0.80-0.40. The different
+symbols mark the peak position for the reflections of emerging phases for
+high and low x respectively; HCP rhenium for high x, and (a) a BCC phase
+and a MnsSiz-type phase (P63/mcm) for low x values; and (b) one peak for an
+unknown minority phase. All unmarked peaks belong to the «-Mn-type
+lattice (43m); the grey shaded patterns are phase-pure «-Mn-type samples.
+
+mix on Wykoff sites 2a and 8c or whether all metals mix
+randomly on all four crystallographic positions in the structure,
+
+This journal is © The Royal Society of Chemistry 2018
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Journal of Materials Chemistry C
+
+cannot be determined unambiguously for a system with 5
+elements present by employing only one type of diffraction.
+In both HEA systems, elemental rhenium starts to separate
+out for high x-values in addition to the target phase (Fig. 3a
+and b). On the other side, the phase boundary for the o#-Mn
+type (HfTaWIr),_,[{Re], phase at low x-values is a BCC phase
+[a = 3.2020(1) A], and with further decrease of the Re content a
+Mn; Si;-type phase [P6,/mcm, a = 7.942(1) A, c = 5.296(1) A]
+appears (Fig. 3a). In these pure 5d-metal systems the HEAs
+are Re-rich.
+
+The (HffaWIr),_,{Re], compounds are stable in air and
+moisture. In contrast, the (HfTaWPt),_,{Re], samples start to
+decompose after approximately seven days in air, changing
+color from lustrous silver to black while emitting a dark colored
+liquid with pH ~ 2. Although the crystal structure of the bulk of
+the aged samples seems not to change according to pXRD
+measurements (no peak shift, no broadening, no splitting, no
+intensity loss), the examination of the microstructure and the
+chemical composition of the surface of a decomposed initially
+phase-pure o«-Mn-type HEA (HfTaWPt)o.40[Re]o.c6o, exemplary
+of the Pt-variant compounds, using SEM and EDX, revealed
+significant differences compared to an as-synthesized bulk
+sample of the same age (stored in the inert Ar-atmosphere
+of a glove box) of the same composition and crystal structure:
+the as-synthesized (HfTaWPt)o.40[Relo.co sample shows the
+flat, smooth surface of a metallic nugget without a visible
+microstructure under our imaging conditions, homogeneous
+distribution of all five elements, and a stoichiometry in
+good agreement with the initial element composition [EDX:
+expected (at%) 10.0, 10.0, 10.0, 10.0, 60.0 for Hf, Ta, W, Pt and
+Re, observed (estimated error +2%) 9.0, 8.0, 8.3, 8.3, 66.5,
+Fig. S1, ESI+]. In contrast, the surface of the decomposed
+(HfTaWPt)o.40o[Re]o.co material displays a remarkable, porous
+microstructure, reminiscent of de-alloying.*°** It shows sub-
+micrometer dendrites that are significantly Hf/Pt-rich (EDX: Hf:
+43.2 at% and Pt: 56.8 at%, Fig. $2, ESI+) that form on the
+surface of the remaining bulk alloy. The characterization of the
+slow decomposition of the superconducting (HfTaWIr),_,,{Re],
+HEA material and the accumulation of a dendritic Hf/Pt-rich
+phase on its surface is beyond the scope of the current work
+and may be of interest for future studies.
+
+ 
+
+Composition dependence of the superconducting transition
+temperature and heat capacity in the a-Mn type HEAs
+
+The superconducting properties of the «-Mn type HEAs were
+generally characterized through zero-field cooled (ZFC) temperature-
+dependent magnetization measurements. The magnetization
+curves for the three «-Mn type HEA superconducting materials
+(ZrNb),_,[MoReRu],, (HfTaWIr),_,{Re], and (HfTaWPt),_,[{Re],
+for samples with different compositions were measured from
+1.7 K to 8 K or 10 K (Fig. 4a-c). The susceptibility y for all samples
+in the superconducting state, except for (HfTaWIr)o 7[Re]o,3, whose
+superconducting transition is not complete above 1.7 K, is
+more negative than —1, the ideal diamagnetic response for
+superconducting materials. This common phenomenon is
+caused by demagnetization effects. For a better comparison,
+
+This journal is © The Royal Society of Chemistry 2018
+
+View Article Online
+
+Paper
+
+ 
+
+M(T)IM(1.7 K)
+S 9 98
+oe & Nh
+
+ 
+
+-0.8
+-1.0
+1 2 3 4 5 6 7 8 9 10
+Temperature (K)
+Cc)
+0.0
+
+S
+ho
+
+M(T)IM(1.7 K)
+S 9
+oO &
+
+S
+oo
+
+;
+
+}
+
+|
+
+|
+/
+|
+I
+I
+
+J jd ii
+
+e~»
+—~o—e_
+o—e__,
+
+a .
+
+1
+=k
+oO
+
+ 
+
+1 2 3 4 5 6 7 8 9 10
+Temperature (K)
+Fig.4 Composition dependence of the superconducting transition
+in (a) (ZrNb),_,[MoReRul], with x = 0.90-0.70; (b) (HfTaWlr);_,[Re], with
+x = 0.80-0.30; (c) (HfTaWPt),_,{Re], with x = 0.80-0.50. Normalized
+temperature dependent ZFC magnetization, measured in an external
+magnetic field of oH = 2 mT.
+
+the magnetization curves are normalized by plotting the y data
+as M(T)/M(1.7 K). The values for the superconducting
+critical temperatures T, were determined conservatively from
+the crossing of the linearly approximated diamagnetic slopes
+near the superconducting transition and the normal-state
+magnetizations (dashed black lines Fig. 4a-c). The superconducting
+
+J. Mater. Chem. C, 2018, 6, 10441-10449 | 10445
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Paper
+
+transitions in y(T) for all investigated «-Mn type HEAs samples
+are well defined in temperature and exhibit a steep slope,
+except for (HfTaWIr)o.3o[Re]o.70 (Fig. 4b, green curve), whose
+transition is broad; this breadth can be explained as due to
+small chemical inhomogeneities in this sample.
+
+The temperature-dependent magnetization curves reveal a
+dramatic change of the T for small variations of the HEAs’
+composition. For all three HEA series, T, increases with increasing x,
+which correlates with increasing Re-content and decreasing
+lattice constant a of the cubic «-Mn structure. The maximum
+transition temperatures can be found for x = 0.90, with T, = 5.3 K
+in the (ZrNb),_,{MoReRu], series, for x = 0.80 with T, = 5.9 K in
+the (HfTaWIr),_,{Re], series, and for x = 0.80 with T, = 6.3 K in
+the (HfTaWPt),_,{Re], series. Although the latter two materials
+of the 5d-element HEA series are not phase-pure, as they have
+started to segregate out elemental rhenium (Fig. 3a and b; violet
+curves), the decrease of their lattice parameter a still indicates a
+systematic change of the materials composition near these limits
+(see Table 2). In addition, elemental Re is not superconducting.
+
+The lattice-parameter-dependent change of the super-
+conducting transition temperature T,(a) for the new «-Mn type
+(ZrNb),_,{MoReRu],, (HffaWIr),_,{Re], and (HfTaWPt),_ [Re],
+HEAs, shown in Fig. 5a, reveals a linear increase of the T,
+with decreasing lattice constant for all these o-Mn type HEA
+materials. The (HffaWPt),_,{Re],, HEA shows the largest change of
+T, as a function of the lattice parameter: while (HfTaWPt)o.50[Re]o.so
+for example is superconducting at around 2.4 K, a decrease of a
+by less than 1% causes a significant increase of the T, up to
+~6.3 K for x = 0.8. In addition, the valence electron count
+dependency of the superconducting transition temperatures of
+the phase-pure «-Mn type (ZrNb),_,{MoReRu],, (HfTaWIr),_ [Re]
+and (HffaWPt),_,{Re], HEA samples shows a monotonic and
+almost linear trend for all three systems (Fig. 5b, black squares,
+red triangles, blue circles). With increasing VEC the T, increases.
+This kind of behavior falls in between the trend lines found for
+crystalline transition metals and their binary alloys and inter-
+metallic compounds, known as the Matthias rule (Fig. 5b, dark
+blue trend line),*” and for amorphous transition metal alloy
+films, reported by Collver and Hammond (Fig. 5b, light blue
+trend line).** Compared to the benchmarks of Matthias, which
+show maxima near VECs of 5 and 7 e/a, and Collver and
+Hammond’s trend line, which shows a monotonic increase of
+the superconducting transition temperature with increasing
+VEC, reaching a maximum around 6.4 e/a, the T, vs. VEC
+behavior of the superconducting o«-Mn type HEA series show
+intermediate slopes with maximum values around 6.75 e/a.
+These VEC values match those displayed by the compositions of
+the binary rhenium alloys with «-Mn type structure that exhibit
+the highest Ts, i.e. MoRe; (T. = 9.9 K) and WRe; (T; = 9.0 K)®
+(Table 1). In addition, the T, vs. VEC trends of the «-Mn type
+HEAs match the one of their binary isostructural relatives
+(Fig. 5b, green trend line). It must be noted that the trend lines
+of all three «-Mn type HEA series do not reveal distinct maxima as
+a structural phase separation occurs for compositions with higher
+VECs. In contrast to the foregoing findings, the CsCl-type HEA
+superconductors (ScZrNb),_,{RhPd], and (ScZrNbTa),_,{RhPd],.
+
+10446 | J. Mater. Chem. C, 2018, 6, 10441-10449
+
+View Article Online
+
+Journal of Materials Chemistry C
+
+= (ZrNb), [MoReRu},
+4 (HfTaWlir), [Re],
+e (HffaWPt), [Re],
+
+ 
+
+9.60 9.65 9.70 2 9.80
+a (Angstrom)
+
+b)  164—s- (ZrNb), [MoReRu],
+14 4—4— (HfTaWIr), [Re],
+
+   
+
+classic
+
+—~ 10
+<
+= 8
+ES
+6
+4
+2
+0
+5.0 5.5 6.0 6.5 7.0
+
+VEC (e/a)
+
+Fig. 5 (a) Lattice parameter a dependency of the superconducting transi-
+tion temperatures of the a-Mn type (ZrNb),_,[MoReRul],, (HfTaWIr);_ [Rel
+and (HfTaWPt),_,[Rel, HEAs; the lines represent the linear fit of the data
+points. (b) Valence electron count dependency of the superconducting
+transition temperatures of phase-pure a-Mn type (ZrNb),_,[MoReRul,,
+(HfTaWlr); [Re], and (HfTaWPt),_,[Re], samples (pale yellow shading)
+compared to the 7. vs. VEC trend lines of CsCl-type HEAs, binary «-Mn type
+alloys with rhenium, classic crystalline alloys, and amorphous alloy films.
+
+show a maximum at the electron count of 5.9 e/a and follow a
+strict monotonically decreasing trend with increasing VEC
+(Fig. 5b, orange and dark red trend lines).*°
+
+The o-Mn type (ZrNb),_,{MoReRu],, (HffaWIr),_,{Re], and
+(HfTaWPt), _,{Re], HEA superconductors were also studied
+by measuring their heat capacity C(T) in order to gain more
+information about the nature of the superconductivity.
+The temperature-dependent specific heat capacities C/T vs. T,
+measured without applied magnetic field in the vicinity
+of the superconducting transition of the phase-pure samples
+(ZrNb)o.1o| MoReRu ]o.90, (HfTaWIr)o.40o[Re]o.60, and (HfTaWPt)o,40-
+[Re]o.60 are Shown in Fig. 6a-c. All three HEAs reveal single well-
+defined transitions, which occur at 5.3 K, 4.0 K, and 4.4 K
+respectively. These temperatures are consistent with the results
+from the susceptibility measurements (compare Table S1, ESI‘),
+and confirm the presence of a single superconducting phase.
+With the equal-area construction of the specific heat jump in
+C/T vs. T at T, and the calculated value for y (see Fig. $3, ESIT),
+
+This journal is © The Royal Society of Chemistry 2018
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Journal of Materials Chemistry C
+
+a) 12
+(ZrNb), ,[MoReRU], 4.
+q 10 4
+oO
+> 8
+§ 6
+E
+kK 4
+R =
+oy 2 T, = 5.3K
+5 ACHT, = 1.53
+0 2 4 6 8
+Temperature (K)
+b)
+x
+2
+°
+£
+2
+E
+Ee T, = 4.0K
+Oo
+
+ACIyT,, = 1.46
+
+0 2 4 6
+
+Temperature (K)
+
+OQ
+~~
+
+(HfTaWPt), sofRE]o 60
+
+T,=4.4K
+ACHT,, = 1.46
+
+C(T)/T (mJ/mole K’)
+
+ 
+
+Temperature (K)
+
+ 
+
+ 
+
+View Article Online
+
+Paper
+
+Qa.
+SS
+
+120
+100
+80
+60
+40
+20
+
+(ZrNb), ,[MoReRu], g,
+
+uH=0T
+
+Resistivity (uQ*cm)
+
+ 
+
+0 50 100 150 200 250 300
+
+Temperature (K)
+
+@
+~~
+
+600
+
+EEE
+500
+(HfTaWIr), plREljg) 4H = OT
+400
+
+i
+t
+f
+300
+200 |
+100
+
+Resistivity (uQ*cm)
+
+ 
+
+oO
+
+50 100 150 200 250 300
+Temperature (K)
+700
+
+600
+500
+400
+300
+200
+100
+
+>
+za
+
+f (HfTaWPt), , [RE], 6
+
+Resistivity (uQ*cm)
+
+ 
+
+0 50 100 150 200 250 300
+Temperature (K)
+
+Fig. 6 C/T vs. T plot for (a) (ZrNb)o.1o[/MoReRul]o 90, (b) (HfTaWIr)o.40[Relo.¢go, and (c) (HfTaWPt)o.40[Relo.6o Measured in zero applied magnetic field, the
+solid black lines emphasize the equal area construction (pale yellow shading) used for the estimation of T. and the superconducting jump AC/T..
+Temperature dependent electrical resistivity p(T) of (d) (ZrNb)o10[MoReRul]o.90, (e) (HfTaW!Ir)o.aolRelo.6o, and (f) (HfTaWPt)o.40[Relo.6éo0 with no applied
+
+magnetic field.
+
+the AC/yT, ratios were obtained (Table $1, ESI), and are very
+close to the standard weak-coupling BSC value, i.e. AC/yT, = 1.43.
+Thus, all three «-Mn HEAs are bulk superconductors that exhibit
+weak-coupling superconductivity. For more details we refer
+readers to the ESI.+
+
+Resistivity and upper critical fields of the 4-Mn type HEAs
+
+The temperature-dependent electrical resistivity p(T) of the HEA
+superconductors (ZrNb)o.19[ MoReRu]o.90, (HfTaWIr)o.10[Re]o.60;
+and (HfTaWPt)o.1o[Re]o.60 Measured between 300 K and 1.7 K
+are shown in Fig. 6d-f. The normal-state resistivity data of all
+three materials reveals poor metallic behavior, with linear, only
+slightly decreasing p(T) as a function of decreasing temperature.
+The room temperature (RT) resistivities are 105, 536, and
+591 wQ cm, respectively, and very small residual resistivity ratio
+(RRR) values close to 1.00 are observed (compare Table S1,
+ESI). The nearly temperature independent behavior of the
+resistivity and the high p(RT) values can be compared to
+the electron transport properties of strongly disordered alloys
+
+This journal is © The Royal Society of Chemistry 2018
+
+and intermetallic compounds, as well as metallic glasses,
+where the scattering is caused by small domain size and
+atomic-scale disorder.
+
+All three HEA superconductors (ZrNb)o.1o[ MoReRu]o.90;
+(HfTaWIr)o.40/Re]o.60, and (HfTaWPt)o.40[Re]lo.6o reveal sharp
+transitions to the zero-resistance state according to their zero-
+field resistivity curves. The critical temperatures, 1. T.resistivitys
+which were determined as the midpoints of the p(T) plots,
+are consistent with the results from the magnetization and
+specific heat measurement (compare Table $1, ESI+). Only the
+Te,resistivity Of (ZTNb)o.1o0[ MoReRu]o.90 from the transport experi-
+ment is, at 5.74 K, slightly higher than the value estimated from
+the temperature dependent magnetization (TJ. ~ 5.3 K). This
+common observation can be attributed to the higher sensitivity
+of the transport measurement to filamentary or surface super-
+conductivity, which may appear at a slightly higher temperature
+than the bulk transition.
+
+The upper critical fields oH-2(T) were determined by applying
+the 50%-criterion to the resistivity data, ie. T. is taken as the
+
+J. Mater. Chem. C, 2018, 6, 10441-10449 | 10447
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Paper
+
+temperature where 50% of the normal-state resistivity is
+suppressed, measured from the field dependent p(T) curves
+in the proximity of the superconducting transition (Fig. S4,
+ESI). The temperature dependent critical fields oHe2(T) of
+(ZrNb)o.1o[ MoReRu]o,90, (HfTaWIr)o.4o[RE]o.60. and (HfTaWPt)o.40-
+[Re]lo.6o are shown in Fig. S5 (ESI+). The approximation of the
+upper critical field at zero temperature {oH.2(0) of the three
+different «-Mn type HEA superconductors was performed by
+using the slopes dH,./dT of the linear region of 9H-2(T) for the
+Werthamer-Helfand-Hohenberg (WHH) expression in the dirty
+limit** according to the formula
+
+djig He
+lig Heo (0) = —0.693Te 2 (1)
+
+ 
+
+The obtained critical fields at zero temperature revealed
+relatively high zero temperature upper critical fields, of 7.86 T
+for (ZrNb)o.19[ MoReRu]o.90, 4.64 T for (HfTaWIr)o.40[Re]o.60, and
+5.90 T for (HfTaWPt)o.40[ Re ]o.6o-
+
+Summary and conclusions
+
+We have synthesized previously unreported High-Entropy Alloys
+in the pentanary systems (ZrNb),_,{MoReRu],, (HfTaWIr),_ ,{Rel,,
+and (HfTaWPt),_,{Re], by arc-melting of the 4d- and 5d-transition
+metals. These new materials have body-centered cubic «-Mn-type
+structures and mixed site occupancies. Although the phase
+width for phase-pure samples is small for all three HEA series,
+the decrease of the lattice parameter a in samples with emerging
+impurity phases still indicates a systematic compositional
+change of the «Mn type compounds. Whether the materials
+form a solid solution where all constituent elements mix
+randomly on all four crystallographic positions or if a certain
+ordering of the different metals on one or more symmetry site is
+existent cannot be determined unambiguously for a system with
+5 elements of very similar electron count present and with
+conventional laboratory XRD data. The (ZrNb),_,{MoReRu],,
+(HfTaWIr),_,{Re],, and (HfTaWPt),_,{Re], HEAs are materials
+partway between ordered intermetallic compounds and random
+solid solutions stabilized within a small compositional range
+due to a delicate balance between the system’s attempt to
+maximize the mixing entropy and minimizing the mixing
+enthalpy. The structure of these materials is quite a bit more
+complex than is found for the small-cell BCC superconducting
+HEAs, although the «-Mn structure type can be understood
+as a consequence of local closest packing, a straightforward
+structural principle. The presence of Re in significant proportion
+appears to be significant for the stabilization of the «-Mn-type
+although for the mixed 4d 5d system the Re is present at a much
+lower concentration than is typically found in binary alloys in
+this structure type, suggesting an entropic stabilization of this
+structure. The two purely 5d-metal based superconducting HEAs
+are the first of their kind.
+
+Conflicts of interest
+
+There are no conflicts to declare.
+
+10448 | J. Mater. Chem. C, 2018, 6, 10441-10449
+
+View Article Online
+
+Journal of Materials Chemistry C
+
+Acknowledgements
+
+This work was supported by the Gordon and Betty Moore
+Foundation EPiQS program, grant GBMF-4412. The authors
+thank W. W. Xie for her insights into the «-Mn structure.
+
+Notes and references
+
+1 Y. F. Ye, Q. Wang, J. Lu, C. T. Liu and Y. Yang, Mater. Today,
+2016, 19, 349.
+
+2 K. M. Youssef, A. J. Zaddach, C. Niu, D. L. Irving and
+
+C. C. Koch, Mater. Res. Lett., 2015, 3, 95.
+
+H. Kou, J. Lu and Y. Li, Adv. Mater., 2014, 26, 5518-5524.
+
+Y. Zou, H. Ma and R. Spolenak, Nat. Commun., 2015, 6,
+
+7748.
+
+5 B. Gorr, M. Azim, H.-J. Christ, T. Mueller, D. Schliephake
+and M. Heilmaier, J. Alloys Compd., 2015, 624, 270.
+
+6 J..W. Yeh, S.-K. Chen, S.-J. Lin, J.-Y. Gan, T.-S. Chin,
+T.-T. Shun, C.-H. Tsau and S.-Y. Chang, Adv. Eng. Mater.,
+2004, 6, 299.
+
+7 B. Cantor, I. T. H. Chang, P. Knight and A. J. B. Vincent,
+Mater. Sci. Eng., A, 2004, 375, 213.
+
+8 C. L. Tracy, S. Park, D. R. Rittman, S. J. Zinkle, H. Bei,
+M. Lang, R. C. Ewing and W. L. Mao, Nat. Commun., 2017,
+8, 15634.
+
+9 O.N. Senkov, J. D. Miller, D. B. Miracle and C. Woodward,
+Nat. Commun., 2015, 6, 6529.
+
+10 Y. Lu, Y. Dong, S. Guo, L. Jiang, H. Kang, T. Wang, B. Wen,
+Z. Wang, J. Jie and Z. Cao, et al., Sci. Rep., 2014, 4, 6200.
+
+11 S. Guo, Q. Hu, C. Ng and C. T. Liu, Intermetallics, 2013,
+41, 96.
+
+12 P. Kozelj, S. Vrtnik, A. Jelen, S. Jazbec, Z. Jaglicic, S. Maiti,
+M. Feuerbacher, W. Steurer and J. Dolinsek, Phys. Rev. Lett.,
+2014, 113, 107001.
+
+13 F. von Rohr, M. J. Winiarski, J. Tao, T. Klimezuk and
+R. J. Cava, Proc. Natl. Acad. Sci. U. S. A., 2016, 113, E7144.
+
+14 F. O. von Rohr and R. J. Cava, Phys. Rev. Mater., 2018,
+2, 034801.
+
+15 J. Guo, H. Wang, F. von Rohr, Z. Wang, S. Cai, Y. Zhou,
+K. Yang, A. Li, S. Jiang and Q. Wu, et al., Proc. Natl. Acad. Sci.
+U. S. A., 2017, 114, 13144.
+
+16 K. Stolze, J. Tao, F. O. von Rohr, T. Kong and R. J. Cava,
+Chem. Mater., 2018, 30, 906.
+
+17 S. Marik, M. Varghese, K. P. Sajilesh, D. Singh and R. P. Singh,
+Cond. Mat., 2018, ArXiv180410092.
+
+18 J. A. Oberteuffer and J. A. Ibers, Acta Crystallogr., Sect. B:
+Struct. Crystallogr. Cryst. Chem., 1970, 26, 1499.
+
+19 W. Hornfeck, S. Thimmaiah, S. Lee and B. Harbrecht,
+Chem. - Eur. J., 2004, 10, 4616.
+
+20 B. T. Matthias, V. B. Compton and E. Corenzwit, J. Phys.
+Chem. Solids, 1961, 19, 130.
+
+21 R. D. Blaugher and J. K. Hulm, J. Phys. Chem. Solids, 1961,
+19, 134; C. P. Poole and H. A. Farach, J. Supercond., 2000,
+13, 47.
+
+22 B. J. Kim, H. Ohsumi, T. Komesu, S. Sakai, T. Morita,
+H. Takagi and T. Arima, Science, 2009, 323, 1329-1332.
+
+Be Ww
+
+This journal is © The Royal Society of Chemistry 2018
+Published on 09 August 2018. Downloaded by University of Virginia on 4/14/2022 4:42:36 AM.
+
+Journal of Materials Chemistry C
+
+23 M. Ge, T. F. Qi, O. B. Korneta, D. E. De Long, P. Schlottmann,
+W. P. Crummett and G. Cao, Phys. Rev. B: Condens. Matter
+Mater. Phys., 2011, 84, 100402.
+
+24 N. Haldolaarachchige, Q. Gibson, L. M. Schoop, H. Luo and
+R. J. Cava, J. Phys.: Condens. Matter, 2015, 27, 185701.
+
+25 TOPAS Software, Version 5, Bruker AXS Inc., 2014.
+
+26 E. I. Gladyshevskii, M. A. Tylkina and E. M. Savitskii,
+Kristallografiya, 1960, 5, 877.
+
+27 E. Bucher, F. Heiniger and J. Mueller, Helv. Phys. Acta, 1961,
+34, 843-858.
+
+28 B. T. Matthias, V. B. Compton and E. Corenzwit, J. Phys.
+Chem. Solids, 1961, 19, 130.
+
+This journal is © The Royal Society of Chemistry 2018
+
+View Article Online
+
+Paper
+
+29 J. Erlebacher, M. J. Aziz, A. Karma, N. Dimitrov and
+K. Sieradzki, Nature, 2001, 410, 450.
+
+30 I. McCue, E. Benn, B. Gaskey and J. Erlebacher, Annu. Rev.
+Mater. Res., 2016, 46, 263.
+
+31 T. Song, M. Yan and M. Qian, Corros. Sci., 2018, 134,
+78-98.
+
+32 B. T. Matthias, Phys. Rev., 1955, 97, 74.
+
+33 M. M. Collver and R. H. Hammond, Phys. Rev. Lett., 1973,
+30, 92-95; M. M. Collver and R. H. Hammond, Solid State
+Commun., 1977, 22, 55.
+
+34 N. R. Werthamer, E. Helfand and P. C. Hohenberg, Phys.
+Rev., 1966, 147, 295.
+
+J. Mater. Chem. C, 2018, 6, 10441-10449 | 10449
+

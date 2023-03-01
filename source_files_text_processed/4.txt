@@ -1,0 +1,1007 @@
+An equiatomic AlCoCrFeNiMn hexanary high entropy alloy (HEA) was successfully synthesized by me-
+chanical alloying. The 40 h milled powder exhibits chemical homogeneity with an average particle size of
+less than 3 um. This alloy, after 40 h of milling produces a solid solution BCC phase (a = 2.89 + 0.03 A), the
+lattice parameter of which is very close to the lattice parameter of Fe and Cr. Similar BCC solid solution
+phase is also obtained by following a two different milling schedule containing 3 elements i.e., AlCoCr &
+FeMnNi separately. Dynamic DSC thermogram of the hexanary alloy powder shows two exothermic
+peaks. The peak temperatures and heat evolution corresponding to each peak are sensitive to heating
+rates, indicating that the transformations are diffusional in nature. Phase evolution at these heat events
+was confirmed through high-temperature XRD and TEM study. It has been found that this alloy is stable
+upto 500 °C (773 K). Heat treatment at higher temperatures leads to the formation of a FCC phase closely
+related to Ni3Al type and Mn3Co7 type intermetallic phase. Microwave sintered samples show the similar
+kind of behaviour as in heat-treated powder. The BCC phase along with ordered Ni3Al type (L12) phase
+was observed in the bulk consolidated high entropy alloy. Thermo-physical properties of this alloy have
+been studied in order to elucidate its classification as high entropy alloy and to understand the essential
+differences with multicomponent glass forming alloys.
+
+© 2018 Elsevier B.V. All rights reserved.
+
+ 
+
+1. Introduction
+
+The genesis of the new class of multi-component alloys in
+equiatomic or near equiatomic proportions of its constituents has
+opened up a new paradigm of materials engineering. There is a
+sudden upsurge of research in the scientific community to design
+and develop these alloys with the enhanced properties over the
+conventional materials [1—4]. It has been argued that pertaining to
+the multiple principal elemental composition, the high mixing
+entropy of these new alloys can overcome the enthalpies of the
+compound formation and leads to the formation of the simple
+disordered solid solution crystal structure of FCC, BCC or HCP [5].
+The most generalized situation is that the free energy of the alloys
+will have a significant entropic contribution. The assumption of
+forming simple solid solution phase does not always hold good
+because there are only a few alloys which form single-phase solid
+
+* Corresponding author.
+E-mail address: vikas.rs.met13@itbhu.ac.in (V. Shivam).
+
+https://doi.org/10.1016/j.jallcom.2018.05.057
+0925-8388/© 2018 Elsevier B.V. All rights reserved.
+
+solutions [6]. Equiatomic CoCrFeNiMn was the first alloy reported
+by Cantor et al. [2], which exhibited a single phase face-centered
+cubic (FCC) solid solution phase, although there are five elements
+and their crystal structures are different. Inspection of literature
+suggests that CoCrCuFeNi with a face-centered cubic (FCC) struc-
+ture and AlCoCrFeNi with the body-centered cubic (BCC) structure
+are the most studied alloy systems. Wang et al. [7] have reported
+that in the AlCoCrFeNi alloy a body-centered cubic phase forms
+when prepared by vacuum arc melting technique. This alloy shows
+very interesting mechanical properties. Mohanty et al. [8] have
+reported the evolution of BCC and FCC phases after 60h of me-
+chanical milling of AlCoCrFeNi alloy and reported the phase sepa-
+ration after spark plasma sintering. Several hexanary additions of
+AlCoCrFeNi have been reported in the literature [9]. However,
+AlCoCrFeNiMn is worth mentioning as the phase formation and its
+stability are yet to be understood.
+
+Various experimental techniques such as arc melting, injection
+casting, electrochemical deposition, mechanical alloying, melt
+spinning, laser cladding etc. have been used to prepare high en-
+tropy alloys (HEAs). Arc melting is one of the widely accepted
+88 V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97
+
+techniques to fabricate these alloys. However, segregation, as well
+as inhomogeneous microstructures, are the main drawbacks of this
+popular technique [10—12]. Mechanical alloying is one of the most
+promising techniques to produce a homogeneous microstructure
+with extended solid solubility among the elements [13,14]. Me-
+chanical alloying followed by hot pressing and spark plasma sin-
+tering has been used most widely to synthesize bulk HEAs [15,16].
+As densification is achieved by passing electric current for a short
+duration and soaking time is also limited, chances of segregation
+and microstructural changes are also restricted in this process [17].
+HEAs synthesized by this technique have been reported to possess a
+combination of excellent properties, i.e. high strength and hard-
+ness. Apart from spark plasma sintering, microwave sintering is
+also an upcoming and viable technique for consolidation of high
+entropy alloy powders in the bulk form. In this sintering technique,
+the coupling of the microwaves with the dielectric proportion of
+the materials leads to the heat generation. Powder compacts
+directly absorb the microwave, and it is kept in SiC absorber, which
+acts as an auxiliary heat source. The volumetric heating ability of
+the microwave leads to the less processing time, and it is also en-
+ergy saving [18—20].
+
+High entropy alloys appear to have a few similarities & dis-
+similarities with the bulk metallic glass forming alloys. Number of
+components being the aspect of similitude; the composition se-
+lection criteria, nature of the enthalpies of mixing, atomic size
+mismatch etc. are the dissimilar factors. Akin to the glass forming
+alloys, understanding the thermodynamic criteria for high entropy
+alloy formation remains to be a major challenge. Even though there
+has been a considerable effort, a unified picture is still illusive. In
+addition to that, the phase and microstructural evolution and its
+stability over temperature-time space are the important aspects to
+be understood as this would eventually play an important role for
+application of these alloys [21]. In this light, in the present work,
+AlCoCrFeNiMn hexanary alloy has been synthesized by mechanical
+alloying followed by microwave sintering. The phase, microstruc-
+ture and its stability have been studied by X-ray diffraction, elec-
+tron microscopy and differential scanning calorimetry. Finally, an
+attempt has been made to advance our understanding of synthesis
+and stability of this alloy system.
+
+2. Materials and experimental details
+
+High purity (>99 wt%) elemental powders of Al, Co, Cr, Fe, Ni,
+and Mn with particle size < 325 mesh were used as the starting
+materials. These powders were mixed in the equiatomic proportion
+at room temperature and then milled in a high-energy planetary
+ball mill (Retsch PM 400) using tungsten carbide (WC) vials and
+balls of 10 mm diameter with the rotation speed of 200 rpm. Mill-
+ing was carried out in the wet atmosphere upto 40 h using toluene
+as the process control agent with a ball to powder weight ratio of
+10:1. Milled powders were extracted at a regular interval of 5h and
+were characterized to understand the milling behaviour.
+
+Structural and microstructural characterizations were carried
+out by X-ray diffraction (XRD), (Rigaku Mini flex-600 (40 kV-
+15 mA)) and high-temperature XRD by Rigaku Smart Lab (45kV-
+200mA) with Cu-Ka radiation (A=0.154nm), scanning electron
+microscopy (SEM), (FEI Quanta 200F) operating at 20 kV, trans-
+mission electron microscopy (TEM TECHNAI G? T20) operated at
+200 kV and optical microscopy (Metalux-3). Thermal analysis of
+40h milled powder was performed by using NETZSCH DSC 404 F
+apparatus in a nitrogen atmosphere at four constant heating rates
+of 10, 20, 40 & 50 K/min. For heat treatment of the powder, samples
+were vacuum sealed in the quartz tube to avoid oxidation. Subse-
+quently, milled powders of 40h, were consolidated in the form of
+green pellets of 10 mm diameter with 637 MPa normal pressure by
+
+using 30 ton capacity press. These green pellets were then sintered
+in the microwave furnace (with frequency of 2.45 GHz and power
+3 kW) at three different temperatures of 900 °C (1173 K), 950 °C
+(1223 K) and 1000°C (1273K) respectively for 1h followed by
+furnace cooling.
+
+3. Results
+
+Fig. 1 shows the multiple display of X-ray diffraction patterns of
+AlCoCrFeNiMn high entropy alloy powders after different milling
+hours. The diffraction peaks corresponding to all alloying elements
+can be predominantly observed in the initial blending of the
+powders i. e. after 10 min of milling. After 5 h of milling, diffraction
+intensities for all the elements decreases and the peaks tend to
+broaden. The intensity of the peaks corresponding to (111) plane of
+Al (d~2.32 A), (311) plane of Al and (220) plane of Mn (d~1.21 A) are
+reduced significantly after 5h of milling. It has been found that
+diffraction peaks corresponding to Al disappear earlier than the
+other elements. Further increase in milling time upto 10 h suggests
+that most of the peaks, lose their identity except Mn. This indicates
+that the formation of a solid solution by dissolution of most of the
+element in the lattice of Fe or Cr. The identification of the host
+lattice is not quite straightforward at this stage but it is close to Fe &
+Cr. By increasing the milling time for next 5h, it can be observed
+that there is no change in the peaks position. However, the peaks
+can clearly be indexed to a BCC lattice. Milling upto 20h and af-
+terwards indicates the formation of the same cubic phase, the lat-
+tice parameter of which is higher than Fe but lower than Cr. The
+lattice parameter, as measured from the XRD pattern, turns out to
+be (a= 2.89 + 0.02 A). This indication becomes increasingly evident
+on further increasing in milling time up to 30 h. The XRD pattern of
+the 30h milled powder has a strong agreement with a solid
+
+Intensity (arb.units)
+
+ 
+
+ 
+
+ 
+
+20 (degree)
+
+Fig. 1. XRD patterns of AlCoCrFeNiMn HEA powders with different milling time.
+Evolution of the BCC phase is evident with the progress of milling.
+V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97 89
+
+solution phase with BCC structure. While analyzing the diffraction
+patterns with milling time, it has been found that the intensity
+decreases and broadening of the peaks takes place. This was ex-
+pected because the increase of milling time decreases the crystal-
+lize size and increases the lattice strain, which are reported in
+Table 1. This increase in lattice strain is mainly due to the intro-
+duction of elements in the host lattice of the high entropy alloy and
+mechanical working of the powder during the mechanical alloying
+process. Although the complete solid solution was found to have
+formed at 30 h of milling time, still milling was continued upto 40 h
+in order to investigate any further phase transformation. However,
+no phase transformation could be detected. Hence it is clear that
+40h milled powder shows the formation of a single-phase solid
+solution of BCC structure with lattice parameter (a = 2.89 + 0.03 A).
+This solid solution formation may be the result of the high entropy
+effect of the alloying elements because all the alloying elements are
+in the equiatomic proportions. Here it is worthy to note that in
+AlCoCrFeNiMn high entropy alloy system two elements (Fe, Cr) are
+having simple BCC structure and two (Al, Ni) having FCC along with
+one (Co) hexagonal structure(HCP). It may be mentioned that Mn is
+having a complex BCC structure similar to y-brass structure. It is
+important to emphasize that the final high entropy alloy phase is a
+simple BCC in structure of Fe, Cr type. It may appear that the phase
+selection of high entropy alloy could be driven by the structure of
+maximum number of constituent elements of high melting tem-
+perature. However, it may not be often always true. Wang et al. [22]
+have reported that Al stabilizes the FCC structure when it is less
+than 11 at%, and it enhances the formation of BCC structure when it
+is present in more amount. From the lattice parameter of the BCC
+phase, it can be assumed that the lattice of Fe is acting as the host
+lattice for this alloy system and the lattice parameter is slightly
+more than that Fe and less than that of Cr. This result is also along
+the line of Hume-Rothery rule of solid solution formation, which
+restricts the atomic radii difference between two constituent ele-
+ments below 15%. In AlCoCrFeNiMn high entropy alloy atomic size
+difference of elements is not more than 8% what is desired for solid
+solution formation.
+
+In order to understand the mechanism of solid solution phase
+formation, this hexanary alloy system was divided into two
+(ternary) alloy systems. These alloy systems were taken on the basis
+of their milling behaviour during the hexanary alloy. AlCoCr and
+FeMnNi systems were separately milled upto 20 h and their milling
+behaviour with time was followed by XRD. After that 20h, milled
+powder from both the ternary alloys were mixed together and they
+were milled for another 20h to observe the final phase formation.
+The evolution of phases in AICoCr alloy system upto 20 h of milling
+as followed by XRD is given in Fig. 2a. From this figure, all the
+elemental peaks of Al, Co & Cr are observed after 10 min of milling.
+However, with further milling initially Co peaks disappear, and the
+peaks get broadened due to the refinement of particle size and the
+introduction of strain. With further milling, some of the major
+peaks of Al also disappear finally leading to the formation of a BCC
+phase after 20h of milling. Milling behaviour of FeMnNi ternary
+alloy as followed by XRD is given in Fig. 2 (b). In this system also
+individual elemental peaks of Fe, Ni and Mn are observed in the
+XRD pattern after 10 min of milling. In this alloy system, Mn peaks
+
+Table 1
+The crystallite size and lattice strain of equiatomic AlCoCrFeNiMn high entropy alloy
+powder.
+
+Milling time (h) 5h 10h 15h 20h 25h 30h
+
+Crystallite size(nm) 20 18 17 17 16 15 15 15
+Lattice strain (%) 0.54 061 063 O66 067 068 069 0.70
+
+35h 40h
+
+Intensity (arb. units)
+
+ 
+
+20 (degree)
+
+Fig. 2. XRD patterns of (a) AlCoCr (b) FeMnNi (c) AlCoCrFeNiMn HEA powders with
+different milling time. In (a) after 20h of milling, no known phase appears. In (b) the
+phases cannot be ascertained and in (c) BCC phase appears after 25 h of milling of 20 h
+milled powder of (a) & (b).
+
+are the first to disappear or lose their identity. This necessarily
+means that Mn dissolves into another lattice first. Subsequently,
+some of the major peaks of Ni disappear and finally after 20h of
+milling a phase evolves, the structure of which could not be
+90 V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97
+
+ascertained. The phase evolution of mixed milled powder from the
+above two sets over next 20h as followed by XRD is shown in
+Fig. 2c. As observed from the XRD patterns, 5h of milling of the
+mixed powder leads to the formation of the BCC phase. Further
+milling does not lead to any change in the phase structure. How-
+ever, the broadening of the peaks is evident. So from this study, it
+can be concluded that although mechanical alloying is a non-
+equilibrium process, similar phase evolves after different milling
+sequence. It appears that phase evolution in this particular alloy
+system becomes path independent in the long run.
+
+Morphology of 40h milled alloy powder is given in Fig. 3. It is
+observed that the particles are irregular in shape and their size
+varies in the range of 1—10 um. Very often river like flow patterns
+are observed on the particle surfaces, which have arisen due to the
+shear type of deformation and fracturing of the particles during the
+milling process. Size distribution of particles in the alloy is in the
+micron range and plot of this has been shown in Fig. 4. In doing the
+particle size measurement, absolute measurement technique was
+adopted, i.e. the particle size was measured directly from the
+micrograph and the largest dimension was taken as the particle
+size.
+
+The presence of the phases and their alloying effects were
+investigated in detailed manner through the transmission electron
+microscopy. Bright field images, and corresponding SAD patterns
+have been shown in Fig. 5 (a) and 5 (b) respectively. The formation
+of ring patterns in the SAD pattern indicates the alloy particles are
+randomly oriented. Indexing of these ring patterns confirms that a
+single BCC phase (a= 2.91 + 0.02 A) is present in the 40h milled
+AlCoCrFeNiMn high entropy alloy powder. Additionally, the d-
+spacings corresponding to these rings are matching closely with
+those observed in the X-ray diffraction patterns. There are two
+intense spots in the SAD pattern corresponding to 2.36 A. It does
+not match with any known d-spacing of any of the constituent el-
+ements, neither this peak was observed in X-ray diffraction pattern.
+A careful investigation reveals that this d-spacing corresponds to
+Cr203 (110) and Al,03(110). Fig. 5 (c) shows the high-resolution
+image (HRTEM) of the 40h milled high entropy alloy powder. In
+the image, lattice fringes corresponding to the alloy is observed in
+multiple directions. The random orientation of the particles and
+lattice fringes further confirms the origin of regular ring pattern in
+the diffraction pattern. In addition to that, the particles are faceted,
+might have originated from the fracturing of the particles during
+mechanical alloying. Due to the presence of different elements in
+the lattice, the lattice planes are expected to be distorted. The lat-
+tice fringe corresponding to the oxide is also observed in the high-
+resolution image. The regions where lattice fringes are disappear-
+ing are the regions where fracturing took place, and it is along a
+definite plane due to the huge amount of micro strain present in the
+
+No. of particles
+
+ 
+
+°
+an
+as
+>
+maa
+in
+N
+=
+N
+an
+
+< 3.0
+
+Particle size (4m)
+
+Fig. 4. Particle size distribution in equiatomic AlCoCrFeNiMn high entropy alloy after
+40h of milling. The median particle size is in the range ~ 1—1.5 pm.
+
+alloy. This large amount of micro strain is due to the mechanical
+alloying and addition of elements in the high entropy alloys.
+Interplanar spacing from these lattice fringes is 2.36 A which
+closely matches with the Cr203(110), and 2.11 A corresponds to the
+BCC phase of (110) plane.
+
+The STEM-EDS elemental mapping of the 40h milled powder
+sample has been shown in Fig. 6. It has been found from the
+elemental mapping that all the elements of the hexanary alloy are
+distributed uniformly. There is no signature of heterogeneity. This
+confirms that all the constituent elements are incorporated in the
+host lattice to give rise to the high entropy alloy. However, a
+detailed look at the elemental maps indicates that a minor variation
+in intensity is present in the maps. As the alloyed particles are
+repeatedly fractured, their shapes are not uniform and considerable
+variation in thickness also exists. Pertaining to these two factors,
+interaction volume of the electron beam with the particles changes
+and X-ray signal generation undergoes changes locally, which
+might have led to the variation in intensity.
+
+Thermal stability of the 40 h milled high entropy alloy has been
+investigated through dynamic DSC at different heating rates (10, 20,
+40 & 50K/min) and corresponding thermograms are shown in
+Fig. 7. Eventhough, similar thermal events are seen in all the ther-
+mograms, their intensity varies. At the higher heating rate, two
+exothermic heat events are observed. However, at a lower heating
+rate, and the higher temperature heat event is absent. Additionally,
+
+ 
+
+Fig. 3. SEM micrographs of AlCoCrFeNiMn HEA powders with 40h of milling at different magnifications. In both the cases fractured particles with extensive river pattern on the
+
+surfaces can be observed.
+V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97 91
+
+ 
+
+Fig. 5. TEM bright field image (a) of 40h milled AlCoCrFeNiMn HEA powder and corresponding SAD pattern (b) with HRTEM (c). From the diffraction pattern, the presence of the
+BCC phase can be confirmed. Similar spacings are observed in the high-resolution image also.
+
+the intensity of the first heat event (exothermic in nature) de-
+creases with the decrease in the heating rate. This is due to the fact
+that the transformations corresponding to these heat events are
+diffusive in nature and they are not so sensitive to the characteristic
+temperature. At lower heating rate as long incubation or residence
+time is available, the transformation starts at lower temperature
+itself, which leads to the reduction in heat evolution at the char-
+acteristic temperature. In a similar line, it could be argued as to why
+the higher temperature heat events are missing in the thermo-
+grams with lower heating rates. With higher heating rates, due to
+the unavailability of enough residence time, the heat events are
+much more pronounced. It is important to mention that the heat
+events at higher heating rates gradually transfer to the higher
+temperature side due to the diffusive nature of the transformation
+processes. The second heat event that appears at 40 K/min heating
+rate is not so clearly visible at 50 K/min heating rate, probably due
+to its shift to a higher temperature. However, the transformation
+related to this heat event is real that is confirmed by ex-situ heat
+treatment and subsequent structural characterization, which has
+been reported in the following sections.
+
+Activation energy calculation for the transformation of this alloy
+has been done through Kissinger and Ozawa models [23,24]. Plots
+were drawn using these equations:-
+
+B\ o£ i
+In (4 = —Rr, + C; (Kissinger equation) (1)
+E .
+In(@) = -RT C, (Ozawa equation) (2)
+
+From the slope and the intercept of the straight line, it is possible
+to calculate the activation energy of transformation for both the
+equations. Here f is the heating rate in K/min, Tp is the peak tem-
+perature (Kelvin), R is the universal gas constant and E is the acti-
+vation energy. All the relevant data and activation energies have
+been shown in Table 2. The activation energy of the second heat
+event was not possible to be calculated as the peak was not
+observed at lower heating rates. The activation energies for the first
+heat event by Kissinger method and by Ozawa method turn out to
+be 310 and 324 kJ/mol respectively. Given the assumptions of these
+models, the values are quite close and corroborating.
+
+In order to understand the phase transformations associated
+with the heat events as observed in DSC, high-temperature in-situ
+XRD was conducted of this 40h milled powder sample at seven
+different temperatures form 350 °C (623 K) to 800°C (1073 K) at
+regular interval of 75°C (346K). XRD patterns as obtained at all
+these temperatures have been shown in Figs. 8 and 9. Fig. 8 consists
+of the X-ray diffraction patterns as obtained upto 500°C (773 K)
+and Fig. 9 consists of the patterns as obtained above 500 °C (773 K).
+From XRD plot, it can be seen that there was no change in the phase
+92 V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97
+
+i 100 2m
+
+ emmee AL's ALLL
+
+ 
+
+a
+
+MY
+
+1 100 nm
+
+Fig. 6. The STEM-EDS mapping of equiatomic AlCoCrFeNiMn hexanary high entropy alloy after 40 h of milling. The elements are homogeneously distributed to give rise to the single
+
+BCC phase.
+
+upto 500°C (773K), it means that this alloy is stable upto this
+temperature for the said interval of time. Detailed analysis of the
+peak positions of all the XRD patterns has been done. It has been
+found that at 575°C (K) nucleation of Mn3Co7 and L12 type (Ni3Al
+type) phase along with the retained BCC phase takes place. Further
+analysis of the diffraction patterns corroborates these phenomena
+in the same line upto 650 °C (923 K). It is interesting to observe that
+at 725 °C (998 K) a FCC phase appears along with the other retained
+phases. This FCC phase (a = 3.63 + 0.02 A) also has a strong prox-
+imity with L1z type (Ni3Al type (a= 3.67 + 0.03 A)) phase. It has
+been observed from the thermal stability study and nature of phase
+evolution that the transformation through which the alloy changes
+its phase constituent and microstructure is diffusive in nature.
+Pertaining to this behaviour, it is difficult to assign a singular and
+accurate temperature for thermal stability. The thermal stability
+temperature quoted above should be taken as a ballpark value. In
+the X-ray diffraction pattern after heat treatment at 500°C, small
+peaks of the second phase could be observed. The intensity of those
+peaks being small it has been considered that the volume fraction
+of those phases is relatively small to introduce any significant
+change in the microstructure.
+
+To understand thermal stability, the high entropy alloy samples
+
+annealed at 500 °C (773 K) and 800°C (1073 K) were observed in
+TEM. Bright field images with corresponding diffraction patterns of
+these samples have been shown in Figs. 10 and 11. The bright field
+image of the alloy heat-treated at 500 °C (773 K) (Fig. 10) reveals the
+fine-grained structure of the alloy in which grains are irregular in
+shape, and their size ranges between 5 and 10 nm. In the diffraction
+pattern the rings corresponding to the BCC phase is obtained. This
+further proves that the alloy is thermally stable upto 500 °C (773 K).
+The bright field image of the alloy after heat treatment at 800°C
+(1073 K) (Fig. 11) shows two types of polygonal grains, which are
+basically different in their size. One type of grains, which are mostly
+distributed all over the matrix are in size range of 50-100 nm. The
+other type of grains, which is scattered in the matrix, is in size range
+of 15—30 nm. In the diffraction patterns, the signature of BCC phase,
+as well as FCC phase, could be ascertained.
+
+Visible light micrographs of microwave sintered AlCoCrFeNiMn
+high entropy alloy, which were sintered at 900 °C (1173 K), 950 °C
+(1223 K) & 1000°C (1273 K) are shown in Fig. 12. From micro-
+graphs, it can be seen that as the temperature of sintering increases
+coarsening of the grains increases. In the same line porosity (shown
+with arrow) of the sample decreases which can also be observed.
+XRD patterns of the alloy microwave sintered at 900 °C (1173 Kk),
+V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97 93
+
+DSC/nuV/mg)
+
+400 600 800 1000
+Temperature (°C)
+
+Fig. 7. DSC thermogram of 40h milled AlCoCrFeNiMn high entropy alloy powder at
+different heating rates. Two exothermic heat events are observed at higher heating
+rates which are reduced to one heat event at lower heating rates, attributed to the
+diffusional nature of the transformation process.
+
+950° C (1223 K) & 1000 °C (1273 K) have been shown in Fig. 13. It is
+evident that along with the BCC phase, the nucleation of an ordered
+NisAl type intermetallic phase takes place.
+
+4. Discussion
+4.1. HEAs and BMGs
+
+The discovery of high entropy alloys began almost at the same
+time as that of bulk metallic glass forming alloys [1]. However,
+scientific community took serious interest in exploring and un-
+derstanding the nuances of alloy design in this category little more
+than a decade later [3]. A peek into the alloy design strategies for
+high entropy alloys reveals that there are quite a few similarities in
+these two alloy systems [25]. For bulk metallic glass formation the
+atomic size difference is prescribed to be more than 15% leading to
+structural frustration in the crystal which is just the opposite to
+what has been prescribed for high entropy alloys. In case of high
+entropy alloys, the atomic size difference less than 15% basically
+favours substitutional solid solution formation. While the atomic
+size mismatch criteria for bulk metallic glass formation may be
+considered as opposite to Hume-Rothery rule for solid solution
+formation, the same for high entropy alloys may be seen as pro
+Hume-Rothery rule. The atomic size difference among all the ele-
+ments of AlCoCrFeMnNi alloy is given in Table 3. It is observed that
+none of the differences is above 15%. The second level of difference
+that exists is the restriction on composition in case of high entropy
+alloys. It is recommended to be within 5—35 at%. No such guideline
+
+Table 2
+
+Intensity (arb. units)
+
+ 
+
+30 60 90
+20 (degree)
+Fig. 8. XRD patterns of 40h milled AlCoCrFeNiMn high entropy alloy powder upto
+
+500°C (773 K). No phase transformation is observed up to this temperature, which
+signifies that the alloy is stable up to this temperature.
+
+#¢FCC .BCC
+*Mn,Co, # LI, phase
+
+Intensity (arb. units)
+
+ 
+
+20 40 60 80 100
+20 (degree)
+
+Fig. 9. XRD pattern 40 h milled AlCoCrFeNiMn high entropy alloy powder upto 800°C
+(1073 K). Sequential precipitation of Llz phase and Mn3Co7 phases are clearly
+observed.
+
+exists for bulk metallic glass forming alloys. However, bulk metallic
+glasses with equiatomic or almost equiatomic composition has
+been reported in the literature [26]. Additionally, for bulk metallic
+glasses, it has been recommended that the binary enthalpies of
+mixing should be highly negative that favours intermetallic phase
+formation. In stark contrast to that, it has been reported that in high
+
+Activation energy calculation by Kissinger and Ozawa model for the first transformation event of the AlCoCrFeNiMn high entropy alloy.
+
+Heating Rate (8), K/min Peak Temperature (K)
+
+10 814
+20 822
+40 838
+
+50 840
+
+Activation Energies kJ/mol-K
+
+310 (Kissinger model) 324 (Ozawa model)
+94 V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97
+
+BON alin)
+ae
+
+ 
+
+Fig. 10. Bright field image and corresponding SADP of AlCoCrFeNiMn powder sintered at 500 °C (773 K) under control atmosphere. Fine-grained structure (shown with arrows) of
+
+the alloy and the presence of the BCC phase is observed after sintering.
+
+ 
+
+C00) ge
+
+(200) —————*
+
+(20)
+
+(220)
+
+Fig. 11. (a) Bright field image and (b) corresponding SADP of AlCoCrFeNiMn powder sintered at 800°C (1073 K) under control atmosphere. The grains are faceted (shown with
+
+arrows) however not extraordinarily grown due to sluggish diffusion kinetics.
+
+entropy alloys, entropy of mixing should play an important role.
+Hence entropy should be considered in order to assess the stability
+and formation of high entropy alloys. As intermetallic based high
+entropy alloys have also been reported, it is a challenge to establish
+semiempirical thermodynamic criteria to predict the stability of
+high entropy alloys. In a remarkable advancement in that direction,
+Zhang et al. [27] have reported that the ratio between TASmix and
+AHmix should be taken into consideration. They have shown that in
+the ratio of high entropy alloy forming systems it is always more
+than one whereas the same for the bulk metallic glass forming al-
+loys is less than 1. The binary heats of mixing of several components
+in AlCoCrFeNiMn are given in Table 4. These binary enthalpy of
+mixing are calculated on the basis of Miedema macroscopic model
+[28]. It is observed from the table that none of the binary heats of
+mixing is positive which necessarily indicates that there should not
+be any likely tendency for phase separation. Moreover, the heats of
+mixing values are negative however small. The only high negative
+enthalpy of mixing is observed in AI-Ni, Al-Co and Al-Mn systems,
+which are reported in Table 4. In these systems, quite a few inter-
+metallic phases are observed. Basu and Ranganathan [29] earlier
+reported through a series of phase diagram search that number of
+
+intermetallic phases are somehow empirically related to the heat of
+mixing. This alloy system is also not an exception to that. For the
+present alloy system Tm, ASmix and AHmix are calculated and re-
+ported in Table 5. It has been observed that the ratio as proposed by
+Zhang et al. turns out to be 2.5 for this alloy system. This is very
+much in the range as proposed in the earlier literature. The dis-
+cussion above brings out clearly the difference of this alloy system
+with bulk metallic glass forming alloys and its suitability as a high
+entropy alloy.
+
+4.2. Mechanical alloying behaviour of AlCoCrFeMnNi HEA
+
+In the present work, the alloy system was mechanically milled,
+and the evolution of phases was monitored with a specific time
+interval. It has been observed that the Al, Co and Mn peaks disap-
+pear sequentially. It has been understood that the elements with
+lower melting point lose their identity first [30]. In the present case
+Al along with Co & Mn gets dissolved and Fe, Cr retains its identity.
+Based on this observation, it can be concluded that the melting
+point criteria might be system specific or at least does not hold
+good universally. Further authors would like to note that
+V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97 95
+
+ 
+
+Fig. 12. Optical micrographs of AlCoCrFeNiMn HEA compact after microwave sintering at (a) 900 °C (1173 K)(b) 950 °C (1223 K) (c) 1000 °C (1273 K). Fine distribution of grains and
+
+porosity (shown with arrows) can be observed.
+
+¢BCC # LI, phase
+
+Intensity (arb.units)
+
+ 
+
+20 40 60 80
+20 (degree)
+
+Fig. 13. XRD patterns of AlCoCrFeNiMn HEA alloy compact after microwave sintering
+at 900 °C(1173 K), 950 °C (1223 K) & 1000°C (1273 K). Along with the BCC phase, the
+presence of L12 phase can also be discerned.
+
+dissolution criteria based on melting point is partially based on
+empiricism and there are other factors, which might change the
+dissolution behaviour. Moreover, disappearance or reduction of
+intensity of certain peaks of an element in XRD may be the effect of
+various other factors relating to the scattering behaviour of that
+particular element. A definitive conclusion needs further work and
+close sensitivity of the milling behaviour. This issue is worth pur-
+suing for better understanding. As the milling time increases peaks
+
+Table 3
+The values of atomic size difference 5 (%) in the AlCoCrFeNiMn high entropy alloys
+system.
+
+Element Al Co Cr Fe Ni Mn
+
+Al _ 6.7 6.8 71 6.9 2.9
+Co 6.7 a 0.08 0.4 0.2 3.8
+Cr 6.8 0.08 = 0.32 0.12 3.9
+Fe 7.1 0.4 0.32 _ 0.20 4.2
+Ni 6.9 0.2 0.12 0.20 = 4.0
+Mn 2.9 3.8 3.9 4.2 4.0 _
+
+intensity decreases with increase in broadening. This is expected
+because the increase in milling time decreases the crystallite size
+and increases the lattice strain. The complete formation of the solid
+solution phase has been found after the 30 h of milling. Milling was
+further increased upto 40h to investigate any phase trans-
+formation, but it does not exhibit any change. The earlier report
+shows that similar phases are present even after 60 h of milling [9].
+This necessarily means that after 30 h of milling no further change
+in the structure of this alloy takes place and this excess hour of
+milling is basically redundant so far the phase evolution in this
+alloy is concerned. The 40 h milled sample showed the single-phase
+solid solution of BCC crystal structure, which was confirmed
+through XRD and TEM study. In an earlier study, it has been re-
+ported that a FCC phase along with the BCC phase appears after
+completion of milling though in minor quantities. In the present
+case, rigorous analysis of the diffraction patterns does not confirm
+presence of FCC phase which has been reported by Wang et al. [9],
+and this difference in observation could be attributed to different
+milling condition. High-resolution phase contrast images from the
+milled powder reveals the lattice structure of the BCC phase. The
+lattice plane corresponding to the BCC phase has also been
+resolved. However, occasionally a lattice fringe has been resolved
+96 V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97
+
+Table 4
+The values of chemical enthalpy of mixing( AH", kJ/mol), of atomic pairs for
+AlCoCrFeMnNi high entropy alloy, following the Miedema's approach [28].
+
+Element Al Co Cr Fe Ni Mn
+Al _ —19 —10 -11 —22 -19
+Co -19 - —4 -1 0 —5
+Cr —10 —4 - -1 -7 2
+
+Fe —11 -1 -1 — —2 0
+
+Ni —22 0 —7 —2 - -8
+Mn -19 —5 2 0 -8 =
+
+Table 5
+
+Calculated thermodynamic and physical parameters for AlCoCrFeMnNi high entropy
+
+alloy.
+; K-1 Q
+AR mix (Kot) ASconf (5)
+
+—11.39 1944 14.89 2.5
+
+Tm (K)
+
+which does not match with the BCC phase. The fringe spacings
+match with the oxide of aluminium. As the milling was carried out
+in an inert atmosphere, the possibility of forming oxide phase even
+in minor quantities can not be ruled out. However, the powder was
+dried in air, which could have resulted in minor oxide phase for-
+mation. In any case, this cannot be related to the phase structure of
+the alloy. In a similar line, carbide formation has been reported in
+wet milling and/or after subsequent heat treatment. In case of
+carbide formation, corresponding diffraction peaks are observed in
+X-ray and electron diffraction patterns. Moreover, predominant
+contrast enhancement in STEM-EDS maps is also observed in
+localized regions. In the present study, none of the above-
+mentioned features could be observed, which rules out the possi-
+bility of extended carbon contamination and carbide formation
+[31]. In order to further understand the solid solution phase for-
+mation mechanism of this hexanary alloys, the alloy was divided in
+two ternary alloy systems. These two ternary alloy systems (AlCoCr
+and FeMnNi) were milled for upto 20h in the separate vials. After
+the 20h of milling these two systems were mixed together and
+mixed powder was milled for further 20 h. This new way of milling
+of high entropy alloy system shows the same phase as was found in
+the single hexanary alloys system. From this study, it can be
+deduced that although the mechanical alloying is the non-
+equilibrium process but it evolves the same phase and indepen-
+dent of the processing route for this particular alloy system.
+
+4,3. Thermal stability of the phases evolved in the AlCoCrFeMnNi
+HEA
+
+In the dynamic differential scanning calorimetric thermogram,
+it has been observed that phase composition of the alloy changes in
+two separate exothermic heat events when it is heated upto 1100 °C
+(1373 K). The alloy is stable upto 500°C(773 K), and subsequently,
+the heat events appear at around 540 °C(813 K) and 900 °C (1173 K).
+It is important to note that the peak temperatures for these heat
+events shift to the right as the heating rate is increased. In addition
+to that, the heat evolved at each event is increased as the heating
+rate is increased. These observations can be explained in the light of
+diffusional transformation. Similar behaviour is observed in the
+glasses and other metastable alloys when they undergo diffusional
+transformation [32,33]. As the diffusional transformation has a
+characteristics incubation time as the heating rate increases the
+peak shifts to the higher temperature side. Moreover, at lower
+heating rates as more of residence time is available, the diffusional
+
+transformation starts beforehand leading to a decrease in the heat
+evolution at the peak temperature. The activation energies calcu-
+lated based on two different models corroborate well. Though
+published literature does not exist on this particular trans-
+formation, activation energies for transformation in glasses and
+metastable alloys lie in this range only.
+
+The phases evolved with the heat events have been explored
+through in-situ high-temperature XRD and TEM. It is observed that
+a FCC phase, which is quite closely related to the Ni3Al phase,
+evolves after the first transformation event. After the second
+transformation, Mn3Co7 phase could be observed in the alloy. The
+evolution of this phase after heat treatment has been reported in
+the earlier literature [9]. As a result of the evolution of these phases,
+the high entropy alloy matrix should become richer in the
+remaining elements. Transmission electron microscopy reveals that
+the phases are nanocrystalline. It is likely to happen as the alloy is
+multicomponent, the diffusion of the elements leading to the
+transformation is likely to be sluggish. Similar, phase evolution has
+been observed after sintering also.
+
+5. Conclusions
+It can be concluded from the present work that
+
+1. AlCoCrFeNiMn equiatomic alloy leads to the formation of a
+single-phase BCC (a=2.89+0.03 A), alloy upon mechanical
+alloying. Similar phase evolution is obtained by dividing the
+alloy composition into two different segments and milling them
+in a different schedule.
+
+2. The semi-empirical thermodynamic analysis reveals that the
+ratio of TAS/AH is ~2.5 which is well within the range of high
+entropy alloys as reported in the literature.
+
+3. The high entropy alloy is stable upto ~500 °C (773 K), and then it
+undergoes two diffusional transformations leading to the pre-
+cipitation of a nanocrystalline FCC ordered phase
+(a= 3.63 + 0.02 A) closely related to Ni3Al type intermetallic
+phase with subsequent precipitation of Mn3Co7 phase.
+
+4. Consolidated and sintered pellet of the same alloy after heat
+treatment shows the precipitation of similar phases.
+
+Acknowledgement
+
+The authors would like to thank Profs. R. K. Mandal, S. Lele, Dr B.
+Mukherjee and Mr Vivek Kumar Pandey for stimulating discussion
+on various occasions.
+
+References
+
+[1] S. Ranganathan, Alloyed pleasures: multiatomic cocktails, Curr. Sci. 85 (2003)
+1404—1406.
+
+[2] B. Cantor, I.T.H. Chang, P. Knight, AJ.B. Vincent, Microstructural development
+in equiatomic multicomponent alloys, Mater. Sci. Eng. 375-377 (2004)
+213-218.
+
+[3] J.W. Yeh, S.K. Chen, S.J. Lin, J-Y. Gan, T.S. Chin, T.T. Shun, C.H. Tsau, S.Y. Chang,
+Nanostructured high-entropy alloys with multiple principal elements: novel
+alloy design concepts and outcomes, Adv. Eng. Mater. 6 (2004) 299-303.
+
+[4] N.K. Mukhopadhyay, High entropy alloys: a renaissance in physical metal-
+lurgy, Curr. Sci. 109 (2015) 665—667.
+
+[5] S.H. Joo, H. Kato, MJ. Jang, J. Moon, E.B. Kim, S.-J. Hong, H.S. Kim, Structure and
+properties of ultrafine-grained CoCrFeMnNi high-entropy alloys produced by
+mechanical alloying and spark plasma sintering, J. Alloys Compd. 698 (2017)
+591—604.
+
+[6] B. Schuh, F. Mendez-Martin, B. Volker, E.P. George, H. Clemens, R. Pippan,
+A. Hohenwarter, Mechanical properties, microstructure and thermal stability
+of a nanocrystalline CoCrFeMnNi high-entropy alloy after severe plastic
+deformation, Acta Mater. 96 (2015) 258—268.
+
+[7] Y.P. Wang, B.S. Li, M.X. Ren, C. Yang, H.Z. Fu, Microstructure and compressive
+properties of AlCrFeCoNi high entropy alloy, Mater. Sci. Eng. 491 (2008)
+154-158.
+
+[8] S. Mohanty, T.N. Maity, S. Mukhopadhyay, S. Sarkar, N.P. Gurao, S. Bhowmick,
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+V. Shivam et al. / Journal of Alloys and Compounds 757 (2018) 87—97 97
+
+K. Biswas, Powder metallurgical processing of equiatomic AlCoCrFeNi high
+entropy alloy: microstructure and mechanical properties, Mater. Sci. Eng. A
+679 (2017) 299-313.
+
+C. Wang, W. Ji, Z. Fu, Mechanical alloying and spark plasma sintering of
+CoCrFeNiMnAl high-entropy alloy, Adv. Powder Technol. 25 (2014)
+1334-1338.
+
+W. Ji, Z. Fu, W. Wang, H. Wang, J. Zhang, Y. Wang, F. Zhang, Mechanical
+alloying synthesis and spark plasma sintering consolidation of CoCrFeNiAl
+high-entropy alloy, J. Alloys Compd. 589 (2014) 61—66.
+
+I. Moravcik, J. Cizek, P. Gavendova, S. Sheikh, S. Guo, I. Dlouhy, Effect of heat
+treatment on microstructure and mechanical properties of spark plasma
+sintered AICoCrFeNiTigs high entropy alloy, Mater. Lett. 174 (2016) 53—56.
+Z. Cai, G. Jin, X. Cui, Y. Li, Y. Fan, J. Song, Experimental and simulated data
+about microstructure and phase composition of a NiCrCoTiV high-entropy
+alloy prepared by vacuum hot-pressing sintering, Vacuum 124 (2016) 5—10.
+S. Varalakshmi, M. Kamaraj, B.S. Murty, Synthesis and characterization of
+nanocrystalline AlFeTiCrZnCu high entropy solid solution by mechanical
+alloying, J. Alloys Compd. 460 (2008) 253-257.
+
+Y.L. Chen, Y.H. Hu, C.A. Hsieh, J.W. Yeh, S.K. Chen, Competition between ele-
+ments during mechanical alloying in an octonary multi-principal-element
+alloy system, J. Alloys Compd. 481 (2009) 768—775.
+
+W. Chen, Z. Fu, S. Fang, H. Xiao, D. Zhu, Alloying behaviour, microstructure and
+mechanical properties in a FeNiCrCog 3Alo.7 high entropy alloy, Mater. Des. 51
+(2013) 854—860.
+
+S. Praveen, B.S. Murty, R.S. Kottada, Alloying behaviour in multi-component
+AlCoCrCuFe and NiCoCrCuFe high entropy alloys, Mater. Sci. Eng. 534 (2012)
+83-89.
+
+Z. Fu, W. Chen, Z. Chen, H. Wen, EJ. Lavernia, Influence of Ti addition and
+sintering method on microstructure and mechanical behaviour of a medium-
+entropy Algo,CoNiFe alloy, Mater. Sci. Eng. 619 (2014) 137-145.
+
+A. Upadhyaya, S.K. Tiwari, P. Mishra, Microwave sintering of W-Ni-Fe alloy,
+Scr. Mater. 56 (2007) 5—8.
+
+M. Oghbaei, O. Mirzaee, Microwave versus conventional sintering: a review of
+fundamentals, advantages and applications, J. Alloys Compd. 494 (2010)
+175-189.
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+P. Veronesi, E. Colombini, R. Rosa, C. Leonelli, F. Rosi, Microwave assisted
+synthesis of Si-modified Mn25FexNi25Cu(so-x) high entropy alloys, Mater. Lett.
+162 (2016) 277—280.
+
+R. Sriharitha, B.S. Murty, R.S. Kottada, Alloying, thermal stability strengthening
+in spark plasma sintered AlCoCrCuFeNi high entropy alloys, J. Alloys Compd.
+583 (2014) 419—426.
+
+W.R. Wang, W.L. Wang, J.W. Yeh, Phases, microstructure and mechanical
+properties of AlxCoCrFeNi high-entropy alloys at elevated temperatures,
+J. Alloys Compd. 589 (2014) 143—152.
+
+RL. Blaine, H.E. Kissinger, Homer Kissinger and the Kissinger equation,
+Thermochim. Acta 540 (2012) 1-6.
+
+T. Ozawa, A new method of analyzing thermogravimetric data, Bull. Chem.
+Soc. Jpn. 38 (1965) 1881—1886.
+
+B.Y. Zhang, Y.J. Zhou, J.P. Lin, G.L. Chen, P.K. Liaw, Solid-solution phase for-
+mation rules for multi-component alloys, Adv. Eng. Mater. (2008) 534—538.
+
+J. Basu, S. Ranganathan, Glass forming ability and stability: ternary Cu bearing
+Ti, Zr, Hf alloys, Intermetallics 17 (2009) 128—135.
+
+X. Yang, Y. Zhang, Prediction of high-entropy stabilized solid-solution in
+multi-component alloys, Mater. Chem. Phys. 132 (2012) 233—238.
+
+A.R. Miedema, P.F. de Chatel, F.R. de Boer, Cohesion in alloys—fundamentals of
+a semi-empirical model, Physica B 100 (1980) 1—28.
+
+J. Basu, B.S. Murty, S. Ranganathan, Glass forming ability: Miedema approach
+to (Zr, Ti, Hf)-(Cu, Ni) binary and ternary alloys, J. Alloys Compd. 465 (2008)
+163—172.
+
+S. Fang, W. Chen, Z. Fu, Microstructure and mechanical properties of twinned
+Al0.5CrFeNiCo0.3C0.2 high entropy alloy processed by mechanical alloying
+and spark plasma sintering, Sicong 54 (2014) 973—979.
+
+S. Praveen, J. Basu, S. Kashyap, K.G. Pradeep, R.S. Kottada, Thermal stability
+and grain boundary strengthening in ultrafine-grained CoCrFeNi high entropy
+alloy composite, Mater. Des. 134 (2017) 426—433.
+
+[32] J. Basu, S. Ranganathan, Glass - forming ability and stability of ternary Ni-early
+
+[33]
+
+transition metal (Ti/Zr/Hf) alloys, Acta Mater. 56 (2008) 1899-1907.
+A. Inoue, Stabilization of metallic supercooled liquid and bulk amorphous
+alloys, Acta Mater. 48 (2000) 279—306.
+

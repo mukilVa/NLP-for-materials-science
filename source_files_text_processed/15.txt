@@ -1,0 +1,633 @@
+Abstract—An analysis of simple structures of the solid-solution non-ordered high-entropy alloys (HEAs)
+witha bcc crystal lattice has allowed us to determine the effect of various parameters on their physicomechan-
+ical properties. It was found that, as the hardness increases, the size mismatch results in a decrease in the
+modulus of elasticity; however, the normalized hardness characteristic increases. It has been found that, when
+the enthalpy of mixing of the bcc high-entropy alloys shifts to negative values, its effect on the hardness and
+modulus of elasticity is nonmonotonic. A formula for calculating the modulus of elasticity of high-entropy
+alloys with a bcc structure has been suggested that is based on the alloy composition and role of the most
+
+refractory metallic component.
+
+INTRODUCTION
+
+As follows from the title of high-entropy alloys,
+they are among materials characterized by anoma-
+lously high values of configuration entropy of mixing,
+which are substantially higher than those of traditional
+multicomponent alloys. To form HEAs, the number of
+chemical elements should be no less than five and
+their concentrations should be 5—35 at % [1—3]. The
+large number of chemical elements results in the max-
+imum increase in the configuration entropy of mixing
+of this alloy.
+
+It is known that the values of enthalpy and entropy
+always compete in their effect in the formation of
+phases. The enthalpy of mixing plays role of the mea-
+sure of long-range order. If the value of enthalpy of
+mixing is high enough to overcome the effect of
+entropy and is negative, backgrounds for the long-
+range ordering and formation of intermetallic com-
+pounds arise.
+
+Thus, the high entropy increases the degree of dis-
+order and decreases the free Gibbs energy. Different
+elements in this alloy are randomly distributed in the
+crystal lattice, and the tendencies to order and segre-
+gate is suppressed. In other words, the high entropy
+can favor the formation of non-ordered solid solution
+rather than intermetallic compounds or other ordered
+phases in the course of alloy solidification, i.e., the
+high entropy makes the formation of chemically
+ordered compounds less competitive. As a result, a
+
+477
+
+topologically simple structure of the non-ordered
+solid solution can form and dominate in a multicom-
+ponent alloy.
+
+Numerous attempts to suggest simple parameters
+and criteria for the prognostication of phase composi-
+tion of multicomponent alloys are available in the lit-
+erature [3—6]. In part, these parameters have some-
+thing in common with classical Hume-Rothery rules
+for the formation of substitutional solid solutions.
+
+However, no definite information about criteria,
+which allow one to forecast the physicomechanical
+characteristics of solid-solution high-entropy alloys, is
+available in the literature. The aim of the present study
+is to search for criteria that allow one to predict the
+physicomechanical characteristics of high-entropy
+bec solid-solution-based alloys.
+
+EXPERIMENTAL
+
+The alloys were prepared by arc melting in an argon
+atmosphere using a nonconsumable tungsten elec-
+trode and a water-cooled heart with a hole that has a
+hemisphere geometry; the mass of the ingots was
+100 g. To homogenize the composition of ingots, they
+were remelted six to seven times with subsequent fur-
+nace cooling at a rate of 100—200 K/s.
+
+The structure of alloys was studied by X-ray dif-
+fraction analysis (using a DRON-UM1 diffractometer
+and monochromatized Cuka radiation), scanning
+478
+
+GORBAN et al.
+
+Table 1. The composition of the high-entropy alloys based on bcc solid solutions and some of their experimental and cal-
+culated characteristics
+
+Airy, GPa Es GPa Gad electron
+, per atom
+
+Composition
+
+TiZrVNbSn
+TiZrHfNbIla
+TiZrVNbHf
+TiZrHfNbRe
+TiZrHfVNbTa
+TiZrNbVHfMo
+TiZrVNbIaMo
+TiZrVNbIa
+TiZrNbVHfTaw
+TiZrVNbRe
+AITiVCrNbMo
+FeCoNiAICr
+ReMoWNbIa
+
+ 
+
+electron microscopy (using a Superprobe-733 electron
+microscope with a resolution of up to 7 nm), and
+Auger electron spectroscopy (using a JAMP-9500F
+spectrometer; the resolution is 8—10 nm (in local
+Auger-electron spectroscopy mode) and 2—4 um
+(in electron microprobe analysis mode)). The hard-
+ness Hj; and contact modulus of elasticity E, were
+measured in accordance with International Standard
+(ISO 14577-1:2002(E)) using the automated microin-
+dentation method and a Mikron-gamma tester
+equipped with a Berkovich diamond indenter. The
+modulus of elasticity was calculated using Poisson’s
+ratio for HEAs, which is equal to 0.33.
+
+The theoretical lattice parameter and average
+atomic radius were calculated by a rule of mixture
+(Vegard’s law [7]), 1.€., Qcaie = Lea; and Peayo= UCIj,
+where c;, a;, and r; are the concentration, lattice
+parameter, and atomic radius for ith atoms, respec-
+tively. This rule was used to calculate the theoretical
+electron concentration (number of valence electrons
+per atom); Xpixture = UCX; (x; is the electron concentra-
+tion for ith atoms in the alloy). The electron concen-
+tration for elements, atomic radii, and lattice parame-
+ters were taken from [8]. Some elements that comprise
+bcc HEAs do not have bec crystal lattice. To calculate
+the average lattice parameter for these elements, their
+bcc lattice parameter was calculated using the expres-
+SION Aga = 2.317, where r is the atomic radius of ele-
+ment. The a/r ratio for a bcc lattice is ~2.31.
+
+The size mismatch (Aa/a) was calculated by the
+expression
+
+(Aa/a)ay = Xc(a; ~~ exp) /Aexp)» (1)
+
+where q; is the lattice parameter of ith atom and a,,, is
+the lattice parameter determined experimentally. The
+
+PHYSICS OF METALS AND METALLOGRAPHY _ Vol. 119
+
+ 
+
+tnt ea
+0.059 | 3.26
+0.044 | 2.77
+0.049 3.45
+0.048 | 2.90
+0.045 | 3.56
+0.045 3.13
+0.043 | 2.99
+0.041 3.27
+0.046 | 3.34
+0.039 2.94
+0.038 | 2.94
+0.034 | 2.24
+0.030 1.02
+
+ 
+
+ 
+
+enthalpy of mixing was calculated using the linear
+combination of interaction energies between pairs of
+atoms that are from the alloy composition
+
+AA nix = x 4H; CC,
+
+i=l, j#i
+
+(2)
+
+where H;;' '< is the enthalpy of mixing for ith and jth
+atoms, which was calculated in terms of Miedema
+
+model [9]. Data for H i ® and subsequent calculations
+of AH were taken from [10].
+
+RESULTS AND DISCUSSION
+
+The characteristics of studied high-entropy alloys
+based on bcc solid solutions are shown in the Table 1,
+where Hj; is the hardness, E,.is the modulus of elastic-
+
+ity, E is the calculated modulus of elasticity, C., is the
+number of electrons in the outer shell, a is the lattice
+parameter determined experimentally, d,.,. is the lat-
+tice parameter of the most refractory element, @ is the
+calculated lattice parameter, (Aa/a) is the size mis-
+match, and AH is the enthalpy of mixing.
+
+In a number of works, the high characteristics of
+HEAs were related to the lattice distortion [11—13],
+and expressions for calculating the additional harden-
+ing of material at the expense of the size mismatch are
+suggested. As can be seen from the data given in Fig. 1,
+no common regularity of the effect of mismatch on the
+hardness of HEAs with a bcc structure is observed. A
+number of alloys can be indicated, which, as the size
+mismatch parameter increases, demonstrate a trend
+toward the increase in the hardness.
+
+No.5 = 2018
+ROLE OF VARIOUS PARAMETERS IN THE FORMATION
+
+—
+—
+
+ 
+
+—
+oS
+
+Hardness, GPa
+NO wow Bn Nan nN CO OO
+
+ 
+
+ 
+
+1.0 1.5 2.0 2.5 3.0 3.5 4.0
+Size mismatch, %
+
+Fig. 1. Effect of size mismatch on hardness of bcc solid-
+solution-based high-entropy alloys.
+
+At the same time, a number of HEAs with the bcc
+crystal lattice demonstrate a decrease in hardness as
+the lattice distortion increases (see Fig. 1). However,
+as the size mismatch in HEAs with the bcc crystal lat-
+tice increases, the normalized hardness (/j7/E,)
+demonstrates the trend toward the increase (Fig. 2).
+
+We may assume that the effect of size mismatch on
+the properties of HEAs demonstrates two tendencies,
+i.e., (1) the size mismatch in HEAs increases the non-
+conservative elastic movement of dislocation concen-
+trated areas, which results in the increase in the hard-
+ness, and (2) the size mismatch in HEAs leads to
+weakening bonds between neighboring atoms at the
+expense of increase in the lattice parameter, which
+results in the decrease in the modulus of elasticity.
+
+At the same time, their ratio H,;/E, demonstrates
+the trend toward the increase. This is confirmed by
+data given in Fig. 2.
+
+For many solid-solution HEAs, the normalized
+hardness reaches 0.04 and more. According to data of
+[14, 15], the grain size of solid solutions characterized
+by a normalized hardness of more than 0.04 is 100 nm
+and less. Pure metals, such as titanium and iron in the
+nanostructured state demonstrate a high yield strength
+(800—1100 MPa), but low plasticity. Solid-solution
+HEAs with a bcc crystal lattice are characterized by a
+yield strength of 1100 MPa; in this case, they can be
+deformed at room temperature [16, 17]. The combina-
+tion of these strength and plasticity characteristics of
+HEAs is related to their cluster structure [18, 19].
+
+The enthalpy of mixing demonstrates a slightly dif-
+ferent effect on the hardness and modulus of elasticity
+of high-entropy alloys with a bcc crystal lattice
+(Fig. 3). It can be seen from the data given in Fig. 3
+that, as the enthalpy of mixing shifts to negative values
+to —10 kJ/mol, the hardness and modulus of elasticity
+increase. The further decrease in the enthalpy of mix-
+
+PHYSICS OF METALS AND METALLOGRAPHY _ Vol. 119
+
+479
+
+ 
+
+oS Ff
+cn) co)
+AN
+© Nn
+
+oe Ff
+Ss Ss
+BR OR
+So NM
+
+Normalized hardness H/E
+oS
+°
+Go
+Nn
+
+0.030
+
+ 
+
+ 
+
+0.5 1.0 15 20 2.5 30 3.5 4.0
+Size mismatch, %
+
+Fig. 2. Effect of size mismatch on normalized hardness of
+bcc solid-solution high-entropy alloys.
+
+ing is accompanied by the decrease in hardness and
+modulus of elasticity of HEAs based on bcc solid
+solutions.
+
+The modulus of elasticity demonstrates a similar
+nonmonotonic dependence on the average electron
+concentration (Fig. 4). As the average electron con-
+centration increases to 6 electrons per atom, the
+increase in the modulus of elasticity is observed; if the
+average electron concentration is above this value, the
+modulus of elasticity decreases.
+
+The authors of work [11] showed that the lattice
+parameter of HEAs is formed based on that of the
+most refractory metal, while the modulus of elasticity
+of the alloy depends on the fact that its lattice param-
+eters is higher or lower than that of the most refractory
+metal comprising the alloy. The data given in the table
+and in Fig. 5 show that, when the lattice parameter of
+the most refractory metal in the HEA is close to that of
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+aE OF 260
+4240 &
+6 a FF 52200
+os 7200 >
+Sst 5 °° 4? 11808
+ao Oo cp 7160 3
+2 4r o 71403
+5 3/ Qo o OD 4120%
+z oO 700 ie
+ai =
+o 6560 8
+1} 40 =
+
+920
+
+ooo)
+
+0
+—20 -15 -10 —5 0 5 10 «15
+Enthalpy of mixing, kJ/mol
+
+Fig. 3. Effect of enthalpy of mixing on (/) hardness and
+(2) modulus of elasticity of bcc solid-solution-based high-
+entropy alloys: (©) hardness and (C) modulus of elasticity.
+
+ 
+
+ 
+
+ 
+
+ 
+
+No.5 = 2018
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+480 GORBAN et al.
+260 F = 50
+~ 240+
+6 220+ 40 |
+55 200 + 5
+‘2 180} a e = 207
+n Q
+s 160 - we 0 L
+140 + |
+2 120} 2
+3 § 107
+= 100+ — y
+S80} = oF
+60+ «
+—10 I | l | l
+
+ 
+
+ 
+
+40 45 50 55 60 65 60 7.5
+Electron concentration, electron per atom
+
+Fig. 4. Effect of average electron concentration of bcc
+solid-solution-based high-entropy alloys on modulus of
+
+ 
+
+ 
+
+elasticity.
+0.35 260
+240 =
+Qu.
+0.34 220 ©
+0.33 200 &
+- 180
+0.32 160 2
+& 140 2
+5 0.31 oa
+8 120 3
+0.30 100 =
+s0 3
+0.29 60 =
+0.28 40
+0.29 0.30 0.31 0.32 0.33 0.34 0.35 0.36
+
+Qcalco NM
+
+Fig. 6. Correlations between calculated lattice parameter
+and (/) experimental lattice parameter and (2) modulus of
+elasticity of bcc solid solutions.
+
+the alloy, the modulus of elasticity is close to the cal-
+culated one.
+
+For the majority of cases, the lattice parameter of
+the most refractory metal of HEA is lower than that of
+the alloy; therefore, the modulus of elasticity of HEA
+is substantially lower than the calculated modulus of
+elasticity.
+
+At the same time, as can be seen from Fig. 6, the
+calculated lattice parameter of HEA with the bcc crys-
+tal lattice is proportional to the calculated lattice
+parameter (Fig. 6, curve /). This allows us to calculate
+the modulus of elasticity of HEA with the bcc crystal
+lattice using the alloy composition and expression
+
+EE omposition = Fil ~ 3.6(|F — Fnost refr. metall/7)}
+
+— 3
+= El — 3.6(@ — Amost refr. metall/@)}] . ®)
+
+PHYSICS OF METALS AND METALLOGRAPHY _ Vol. 119
+
+0 2 4 6 8 10 12
+
+(Acatc — Gnost refr)/ Qeale
+
+Fig. 5. Effect of lattice parameter of most refractory metal
+in bcc solid solutions on the characteristic modulus of elas-
+ticity.
+
+ 
+
+ 
+
+ 
+
+Experimental modulus of elasticity, GPa
+S
+So
+
+0 40 80 120 160
+
+200
+Calculated modulus of elasticity, GPa
+
+240
+
+Fig. 7. Correlation between experimental and calculated
+(by Eq. (3)) modules of elasticity of bcc solid-solution-
+based HEAs.
+
+Figure 7 shows the experimentally determined
+modules of elasticity of bcc solid-solution HEAs,
+which are given in comparison with those calculated
+
+by Eq. (3).
+
+An analysis of the reported results indicates that
+some parameters of solid-solution HEAs directly are
+related to their physicomechanical properties. This
+allows us to preliminarily optimize the composition of
+HEA to reach given physicomechanical properties. In
+particular, the average electron concentration deter-
+mines the phase composition of the alloy. A compari-
+son of the lattice parameter of the most refractory
+metal with the calculated parameters allows us to
+determine the expected value of the modulus of elas-
+ticity of composition. The values of lattice distortion
+and the enthalpy of mixing allow one to judge the level
+
+No.5 = 2018
+ROLE OF VARIOUS PARAMETERS IN THE FORMATION 481
+
+of the strength characteristics. The specific weight of
+assumed composition can also be calculated.
+
+CONCLUSIONS
+
+(1) It has been confirmed that the size mismatch in
+HEAs based on bcc solid solutions nonmonotonically
+affects their hardness and decreases the modulus of
+elasticity. In this case, the normalized hardness
+increases.
+
+(2) It was found that, as the enthalpy of mixing
+shifts to negative values, its effect on the hardness and
+modulus of elasticity is nonmonotonic.
+
+(3) An expression for calculating the modulus of
+elasticity of HEA based on a bcc solid solution has
+been suggested, which is based on the role of most
+refractory metal in the composition.
+
+REFERENCES
+
+1. S. Ranganathan, “Alloyed pleasures: Multimetallic
+cocktails,” Curr. Sci. 85, 1404—1406 (2003).
+
+2. J. W. Yeh, S. K. Chen, S. J. Lin, J. Y. Gan, T. S. Chin,
+T. T. Shun, C.-H. Tsau, and S.-Y. Chang, “Nanostruc-
+tured high entropy alloys with multiple principal ele-
+ments: Novel alloy design concepts and outcomes,”
+Adv. Eng. Mater. 6, 299—303 (2004).
+
+3. J. W. Yeh, Y. L. Chen, S. J. Lin, and S. K. Chen, “High-
+entropy alloys — A new era of exploitation,” Mater. Sci.
+Forum 560, 1—9 (2007).
+
+4. B. S. Murty, J.-W. Yeh, and S. Ranganathan, High
+Entropy Alloys (Butterworth—Heinemann, Oxford,
+2014).
+
+5. N. A. Krapivka, S. A. Firstov, M. V. Karpets,
+A. N. Myslivchenko, and V. F. Gorban’, “Features of
+phase and structure formation in high-entropy alloys of
+the AlCrFeCoNiCu, system (x = 0, 0.5, 1.0, 2.0, 3.0),”
+Phys. Met. Metallogr. 116, 467—474 (2015).
+
+6. S. A. Firstov, V. F. Gorban’, N. A. Krapivka,
+M. V. Karpets, and E. P. Pechkovskii, “Effect of elec-
+tron concentration on the phase composition of high-
+entropy equiatomic alloys,” Poroshk. Metall. No. 1/10,
+126—133 (2015).
+
+7. L. Vegard, “The constitution of the mixed crystals and
+the filling of space of the atoms,” Z. Phys. 5 (1), 17—26
+(1921).
+
+8. V. K. Grigorovich, Mendeleev’s periodic law and elec-
+tronic structure of metals (Nauka, Moscow, 1966).
+
+PHYSICS OF METALS AND METALLOGRAPHY _ Vol. 119
+
+9. A. R. Miedema, P. F. de Chatel, and F. R. de Boer,
+“Cohesion in alloysqg—Fundamentals of a semi-empir-
+ical model,” Physica B + C (Amsterdam) 100, 1—28
+(1980).
+
+10. http://www.entall.imim.pl/calculator/9c. Cited Feb-
+ruary 20, 2018.
+
+11. S. A. Firstov, S. T. Mileiko, V. FL Gorban’,
+N.A. Krapivka, and E. P. Pechkovskii “Modulus of
+elasticity of high-entropy single-phase alloys with a bcc
+crystal lattice,” Kompozit. Nanomater. No. 1 (6), 3—17
+(2014).
+
+12. O. N. Senkov, G. B. Wilks, D. B. Miracl, C. P. Chuang,
+and P. K. Liaw, “Refractory high-entropy alloys,”
+Intermetallics 18, 1758—1765 (2010).
+
+13. S. A. Firstov, T. G. Rogul’, N. A. Krapivka,
+S.S.Ponomarev, V. N. Tkach, V. V. Kovylyaev,
+V. F. Gorban’, and M. V. Karpets, “Solid-solution
+hardening of a high-entropy AITiVCrNbMo alloy,”
+Russ. Metall. (Metally) 2014, 285—292 (2014).
+
+14. V. F. Gorban’, E. P. Pechkovskii, and S. A. Firstov,
+“The role of elastic deformation in the determination of
+the mechanical properties of materials by the method of
+automatic indentation,” Metallofiz. Noveishie Tekhnol.
+32, 673-684 (2010).
+
+15. V. F. Gorban’ and E. P. Pechkovskii, “Relationship
+between the elasticity parameters obtained by the
+instrumental indentation method and the structural
+state of the material,” Poroshk. Metall. No. 7/8, 55—62
+(2010).
+
+16. O. N. Senkov, J. M. Scott, S. V. Senkova, and
+D. B. Miracle, “Microstructure and room temperature
+properties of a high-entropy TaNbHfZrTi alloy,”
+J. Alloys Compd. 509, 6043—6048 (2011).
+
+17. S. A. Firstov, V. F. Gorban’, N. A. Krapivka,
+N. I. Danilenko, and V. N. Nazarenko, “The effect of
+plastic deformation on the structure and properties of
+high-entropy alloys,” Vopr. At. Nauki Tekh. No. 2 (96),
+178—181 (2015).
+
+18. S. A. Firstov, V. F. Gorban’, N. I. Danilenko,
+M. V. Karpets, A. A. Andreev, and E. S. Makarenko,
+“Thermal stability of superhard nitride coatings based
+ona multicomponent high-entropy alloy system Ti—V—
+Zr—Nb—Hf,” Poroshk. Metall. No. 9/10, 93—102
+(2013).
+
+19. S. A. Firstov, V. F. Gorban’, N. A. Krapivka, and
+N. I. Danilenko, The effect of plastic deformation on
+the phase composition and properties of high-entropy
+alloys, in Mizhvuziv. zbirn. LNTU “Tekh. Nauk (Nau-
+kovi Notatki, Lutsk, 2016), pp 326—338.
+
+Translated by N. Kolchugina
+
+No.5 = 2018
+

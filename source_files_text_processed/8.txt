@@ -1,0 +1,662 @@
+Electric current assisted sintering (ECAS) can be a new production method for high entropy alloy production due
+to its advantages such as low sintering temperature and short holding time. In this study, production of
+CoCrFeNiAlxTiy alloys (x:0.5, y:0,05, 1; y:0.5, x:0, 1) was carried out in electric current activated/assisted
+sintering system in open air with a uniaxial contact pressure of 35 MPa at 2500 A for 5 min. Microstructural and
+micro hardness properties of samples are determined. After sintering, depending on the composition, solid so-
+lution phases such as FCC (FeNi), BCC (FeCr) were formed in all alloys. In alloys other than CoCrFeNiAl os, sigma
+and Al-Ni-Ti intermetallic phases are formed. According to SEM-EDS analyses, the elements with high negative
+mixing enthalpy are gathered together and the dark phases are enriched from the Al-Ni-Ti, while the Fe-Cr is
+precipitated due to its high concentration around this phase. Thanks to intermetallic phases formed by the lattice
+distortion of Al and Ti elements with high atomic radius, the hardness was obtained as 401 H V in CoCrFeNiAlo.5
+alloy and 700HV in CoCrFeNiAlo 5Tio.5 alloy. Alloys were subjected to homogenization heat treatment at
+1200 °C for 18h after sintering. As a result of homogenization, the increase in the formation of sigma phase is
+generally multiplied. While the microstructure distribution became more homogeneous by annealing, an in-
+crease in the lattice parameters of the phases was generally observed. Hardness values increased up to 496 H V in
+the CoCrFeNiAl,.5 alloy and 956H V in the CoCrFeNiAlo.5Tio.5 alloy due to the increase in distortion and high
+hardness sigma phase due to the increase of the lattice parameters.
+
+Keywords:
+
+Electric current activated sintering (ECAS)
+High entropy alloy (HEA)
+
+Intermetallic
+
+Hardness
+
+ 
+
+1. Introduction However, the CoCrFeNi(x) HEA systems have been prepared mainly by
+
+arc melt/casting. But this fabrication route may be unsuitable for in-
+
+High entropy alloys (HEAs) have attracted extensive research at-
+tention in the past decade because of their unusual properties [1-5].
+High-entropy alloys (HEAs) are a new class of materials which was first
+introduced by Yeh et al. and by Cantor et al., in 2004 [6,7]. Unlike
+traditional alloys, HEAs contain at least five principal elements with
+each having elemental concentration between 5 and 35 at.% [8-16]. It
+has been experimentally determined that each alloying element, with
+its own crystalline structure, atomic ratio and melting point, has a di-
+rect effect on the physical and chemical properties of the alloy [17].
+The term “high-entropy” is based on the hypothesis that the high
+mixing entropy of these compositionally complex alloys can overcome
+the enthalpies of compound formation, i.e., favor the formation of a
+single solid solution with face-centered cubic (FCC) and/or body-cen-
+tered cubic (BCC) structures [9,18-24]. The majority of reported HEA
+compositions are based on the transition metals, namely Co, Cr, Fe and
+Ni, with addition of elements like Al, Cu, Mn, V, Ti and Mo [9].
+
+* Corresponding author.
+E-mail address: tcerezci@sakarya.edu.tr (T. Yener).
+
+https://doi.org/10.1016/j.vacuum.2018.05.027
+
+Received 26 March 2018; Received in revised form 16 May 2018; Accepted 17 May 2018
+
+Available online 21 May 2018
+0042-207X/ © 2018 Elsevier Ltd. All rights reserved.
+
+dustrial manufacturing due to the disadvantages of economy, segrega-
+tion problem and limitations in shape and size of final products [17,25].
+To produce high entropy alloys, the pressure-assisted electric current
+activated sintering (ECAS) method may be an alternative method. The
+use of ECAS for consolidating samples not only provides a faster heating
+time and shorter dwell time but also gives lower sintering temperatures.
+In this technique, an electric current is applied simultaneously with a
+mechanical pressure to consolidate or synthesize and to densify specific
+products into a desired configuration and density [26-31].
+
+With the aim to explore alternative routes to synthesize high en-
+tropy alloys and improve their performance, in this work we focused on
+the high-entropy alloy system of CoCrFeNiAl,Ti, synthesized by ECAS,
+and studied on the alloying behavior, microstructure and hardness
+properties. Furthermore, the main purpose is to produce this kind of
+alloys in minimum possible time and temperature with ECAS technique.
+In this way we aimed to save energy consumption for a clean
+A. Erdogan et al.
+
+Table 1
+Properties of used powders.
+
+Powder Purity (%) Particle Size (mesh)
+Titanium 99.5 — 325
+Aluminum 99.5 —325
+Nickel 99.8 —325
+Cobalt 99.8 —325
+Chromium 99 —325
+Ferrous 98 —325
+Table 2
+
+Process parameters.
+
+ 
+
+ 
+
+  
+ 
+ 
+  
+
+Sample code Wt.% Current (A) Voltage (V) Holding Time
+(min)
+Cl CoCrFeNiAlo 5 2500 1.5-2.2 5
+C2 CoCrFeNiAlo sTio,5 2500 1.5-2.1 5
+C3 CoCrFeNiAlo sTi 2500 1.2-1.6 5
+C4 CoCrFeNiTig.s 2500 1.3-1.8 5
+C5 CoCrFeNiAITig 5 2500 1.2-1.7 5
+Mechanical
+Pressure
+
+  
+
+Container
+Block
+
+    
+     
+   
+  
+
+mple DC Voltage
+Copper Punch High Current
+Electrodes ues Applicator
+
+Fig. 1. Schematic presentation of the electric-current-assisted sintering (ECAS)
+process [28].
+
+environment.
+
+2. Experimental study
+
+High purity Co, Cr, Fe, Ni, Al and Ti powders with particle size less
+than 45 um were used as starting materials (Table 1). The alloys with
+
+nominal compositions of CoCrFeNiAlos, CoCrFeNiAlosTios,
+= =
+| i
+mascct i
+Mscc2 -
+MEFCC |
+@sigma |
+|
+3
+©
+se |
+= $
+a
+Cc
+o
+L
+£
+
+ 
+
+Vacuum 155 (2018) 64-72
+
+Table 3
+Phases and their lattice parameters of the as-sintered CoCrFeNiAlI,Ti, alloys, in
+accordance to the XRD analysis.
+
+ 
+
+ 
+
+ 
+
+Alloy Lattice Lattice parameters (A)
+CoCrFeNiAly 5 BCC1 (FeCr) 2.879 + 0.002
+FCC (FeNi) 3.603 + 0.003
+CoCrFeNiAlo Tig | BCC1 (FeCr) 2.881 + 0.003
+BCC2 (AI-Ni-Ti) 2.918 + 0.002
+Tetragonal a = 8.783 + 0.005, c = 4.557 + 0.003
+(sigma)
+CoCrFeNiAlo sTi BCC1 (FeCr) 2.882 + 0.002
+BCC2 (AI-Ni-Ti) 2.930 + 0.003
+CoCrFeNiTig.5 BCC1 (FeCr) 2.883 + 0.003
+FCC (FeNi) 3.587 + 0.003
+Tetragonal a = 8.796 + 0.005, c = 4.563 + 0.003
+(sigma)
+CoCrFeNiAITio 5 BCC1 (FeCr) 2.879 + 0.002
+BCC2 (AI-Ni-Ti) 2.931 + 0.003
+
+ 
+
+CoCrFeNiAlo.s5Ti, CoCrFeNiTij.5 and CoCrFeNiAITig.5 (Table 2) were
+ball milled for 5 h at 250 rpm in air atmosphere. Methanol was added as
+a process control agent to inhibit the particle agglomeration. In order to
+provide the contacts between individual powders in the initial period of
+the process, the samples were pressed with a die with a compression
+load of 250 MPa for 1 min. Dimensions of the compact were 15mm in
+diameter and 3mm in thickness. After obtaining the samples, direct
+electric current (2500 A, 1.2-1.8 V) was applied to the specimen with a
+pressure of 50 MPa for 5min using the electric-current-activated sin-
+tering technique in an open-atmosphere ECAS system, as shown in
+Fig. 1. In order to easily remove the sample after sintering, the punches
+and the specimens were separated by graphite foils of 0.2mm in
+thickness. After the sintering, the specimens were unloaded and cooled
+to room temperature. The sintered alloys were annealed at 1200 °C for
+18h in argon atmosphere to prevent oxidation and cooled in furnace.
+
+The method used in this paper is electric current assisted sintering
+(ECAS) technique. Here, the electric current is mainly based on the
+principle of sintering the sample passing through green body compacts
+or powders, and are generally conducted with simultaneously an ad-
+ditional pressure application. The pressure of 35 MPa is applied to
+
+ 
+
+ 
+
+CoCrFeNiAlg 5
+
+ 
+
+“- CoCrFeNiAly gTig 5
+
+CoCrFeNiAlg sTi
+
+ 
+
+ 
+
+= i CoCrFeNiTig 5
+
+ 
+
+ 
+
+ 
+
+CoCrFeNiAITig 5
+
+ 
+
+ 
+
+90
+
+2-Theta, degree
+
+Fig. 2. XRD patterns of the as-sintered CoCrFeNiAlI,Tiy alloys.
+
+65
+A. Erdogan et al.
+
+pS Re ee
+SEM MAG: 1.00 kx
+ete
+
+oCrFeNiAl, Ti ©
+us es hie
+
+-
+05
+
+Beek
+SEM MAG: 1.00 kx bea Se
+eee ee ges) Ta
+
+pS Bed
+
+SEM MAG; 1.00 kx bese hs of
+
+WD: 4.98 mm
+
+eee ee ee ie
+
+ 
+
+CoCrFeNiTi
+
+Vacuum 155 (2018) 64-72
+
+oCrFeNiAl, ,Ti
+
+PAS Oem
+4
+=) 2
+
+. rrr 4% tf
+
+=
+SEM HV: 20.0 kV oe eh
+pa eg ee
+Ven ee ey a
+
+Fig. 3. SEM images of as-sintered CoCrFeNiAl,Ti,.,, (a) C1, (b) C2, (c) C3, (d) C4, (e) C5.
+
+provide contact between powders. In this method, the powder or
+compact material is heated in the container to the desired temperature
+and then the sintering process is terminated by taking the pressure
+back. Heat is generated by the Joule effect.
+
+The crystal structure of the as-preserved alloys prepared was ex-
+amined by X-ray diffractometer (XRD, RIGAKU D/MAX/2200/PC) with
+a wavelength of 1.5418 A over a 20 range of 10-80° with CuKa ra-
+diation. The microstructures of the alloys were observed using scanning
+electron microscopy (SEM, TESCAN MAIA3 XMU). Micro hardness
+measurements were performed using a Vickers microhardness tester
+(QNESS Q10 M) under a load of 100 g for 10s. Five measurements were
+made for each sample to obtain the averaged experimental data.
+
+66
+
+3. Results and discussion
+3.1. XRD analyses as-sintered CoCrFeNiAlxTiy alloys
+
+After ECAS process, XRD patterns, belongs to as-sintered alloys, are
+shown in Fig. 2, and the identified phases with their lattice parameters
+are given in Table 3. The phases detected from the XRD patterns are
+marked in Fig. 2. While the FCC and BCC1 phases are seen in the
+CoCrFeNiAl,.5 alloy, the relative intensity of the BCC1 phase peak is
+stronger. This indicates that the weight fraction of the FCC phase is
+smaller than that of the BCC1 phase [8]. The BCC1 phase was also
+detected in the CoCrFeNiAlp 5Ti alloy with a higher lattice parameter.
+Differently, BCC2 phase peaks were seen in the alloy with tetragonal
+sigma phase. In the CoCrFeNiAlosTi alloy, the tetragonal structure
+sigma phase is not seen. Peaks of BCC1 and BCC2 phases were observed
+A. Erdogan et al.
+
+Vacuum 155 (2018) 64-72
+
+ 
+
+ 
+
+ 
+
+um
+
+  
+
+. <<
+50
+
+ 
+
+Al Kal
+
+ 
+
+Fig. 4. SEM-MAP Analyses of as sintered CoCrFeNiAl 5Tio,5 sample.
+
+Table 4
+Chemical compositions of the as-sintered CoCrFeNiAl,Ti, alloys in atomic
+percentage.
+
+Alloys Region Co Cr Fe Ni Al Ti
+CoCrFeNiAlo 5 Dark(1) 14-20 3-10 13-18 21-30 15-30 -
+Light(2) 16-24 38-44 35-40 3-6 4-10 -
+CoCrFeNiAlosTigs Dark(1) 16-18 12-19 16-21 1825 7-11 7-11
+Light(2) 18-20 27-31 26-29 11-15 3-5 3-5
+CoCrFeNiAlo sTi Dark(1) 11-16 7-9 12-18 19-23 15-17 29-34
+Light(2) 8-11 25-30 30-32 12-15 3-6 3-6
+CoCrFeNiTio.5 Dark(1) 10-12 65-72 5-10 3-5 - 2-3
+Light(2) 18-21 28-35 17-22 15-18 - 12-15
+Mix(3) 9-11 = 5-7 9-10 13-15 - 56-58
+CoCrFeNiAITio 5 Dark(1) 8-14 3-6 8-10 15-23 18-27 18-23
+Light(2) 13-20 20-26 17-23 8-10 12-15 8-14
+
+ 
+
+67
+
+in alloy. And the lattice parameters of these phases are higher than
+those determined in the CoCrFeNiAl) 5Tig.5 alloy. The increase in the
+weight ratio of Al and Ti in alloys with high atomic radius caused the
+increase of the lattice parameters. Absence of Al with high atomic ra-
+dius in the CoCrFeNiTio.5 alloy leads that the peaks of the FCC phase are
+similar to the CoCrFeNiAlo. alloy. Diffraction peaks were also de-
+termined in sigma phase and BCC1 in the alloy. In the CoCrFeNiAITig 5
+alloy, BCC1 and BCC2 phases were detected as in the compositionally
+similar CoCrFeNiAl, 5Ti alloy. According to XRD analysis, when the
+total atomic ratio of atoms such as Al and Ti having a high atomic
+radius exceeds 0.5, it can be seen that these elements stabilize the BCC
+instead of the FCC phase in the structure. This result has already been
+determined in some studies [11,13,32].
+A. Erdogan et al.
+
+1000
+
+800
+
+600
+
+Hardness (HV)
+
+400
+
+ 
+
+200
+
+Fig. 5. Hardness variation graphs of as sintered samples.
+
+3.2. SEM-EDS analyses of as-sintered CoCrFeNiAlxTiy alloys
+
+Fig. 3, shows the SEM images of as-sintered CoCrFeNiAI,Ti, alloys.
+By SEM analyses, a characteristic microporous microstructure of sin-
+tered materials is observed. The black spots on the structure can be
+attributed to the aluminum oxide and the small amount of porosity
+surrounding it. Despite the total 5min process time, pure metallic
+powders transformed to simple solid solutions and intermetallic phases
+at the end of the process. The chemical compositions of the phases were
+measured by EDS microanalysis in the SEM. SEM-map analyses were
+also conducted as it can be seen in Fig. 4. When the elemental dis-
+tribution is examined in general, Al-Ni-Ti elements are enriched in dark
+phases while Fe-Cr elements are enriched in light color phases
+(Table 4). The large negative mixing enthalpy values between Ti, Ni
+and Al facilitate the formation of Al-Ni-Ti rich phase and the Fe-Cr rich
+phase subsequently precipitate around the Al-Ni-Ti rich phase due to
+high concentrations of Fe and Cr [9]. Co is distributed throughout the
+microstructure in homogeneous manner. This is attributed to the
+mixing enthalpies of the constituent binary alloys. For CoCrFeNiAI,Tiy
+alloys, the mixing enthalpies between Al and Co, Cr, Fe, Ni and Ti are
+—19, —10, —11, —22 and —30 kj/mol respectively; whereas the
+mixing enthalpies between Ti and Co, Cr, Fe, Ni and Al are — 28, —7,
+—17, —35 and —30 kj/mol respectively [33]. Thus Al attracts Ti-Ni
+and Ti attracts Al-Ni to dark regions. Also light regions are enriched
+with Fe and Cr. In CoCrFeNiAlos alloy (Fig. 3a) light areas are corre-
+sponds to BCC1 phase and dark areas are corresponds to FCC phase, in
+
+miscct
+M—BCC2
+MiFcC
+@sigma |
+
+Intensity, a.u.
+
+20 40 0
+
+Vacuum 155 (2018) 64-72
+
+CoCrFeNiAlo sTio.s alloy (Fig. 3b) light areas are corresponds to BCC1
+phase and dark areas are corresponds to BCC2 phase according to the
+XRD pattern shown in Fig. 2. In the CoCrFeNiAl0.5Ti0.5 alloy, the
+sigma phase is dispersed in very fine in the dark phase. It can be in-
+ferred that the two BCC phases of the CoCrFeNiAlo sTi alloy are Al--
+Ni-Ti rich BCC2 phase (dark phase in Fig. 3c) and Fe-Cr rich BCC1
+phase (light phase in Fig. 3c). According to the XRD patterns shown in
+Fig. 2 and the EDS results presented in Table 4, in the CoCrFeNiTiy 5
+alloy (Fig. 3d) dark and light phases are supposed to be BCC1 phase and
+FCC phase, respectively. In CoCrFeNiAITio.; alloy the corresponding
+SEM-EDS analyses clearly reveals that the Fe—-Cr rich areas are the BCC1
+phase and the AI-Ni-Ti enriched regions are the BCC2 phase (Fig. 3e).
+
+The high entropy alloys exhibit high hardness that varies widely
+according to the contents of the elements that compose them. However,
+the phases formed in the microstructure also have a significant effect on
+the hardness. Average hardness values of respectively 401 H V, 618 HV,
+7OOHV, 430HV and 441HV were obtained after sintering in
+CoCrFeNiAly 5, CoCrFeNiAlg 5Tip.5, CoCrFeNiAlg 5Ti, CoCrFeNiTig. 5 and
+CoCrFeNiAITig.; alloys. Fig. 5 gives the hardness graph of the alloys.
+The high deviation seen in the error bar in the graph is attributed to the
+different hardness of the phases in the alloy. The hardness of the alloys
+is given as averages after measurement with the Vickers microhardness
+tester at different phases. Intermetallic phases showed high hardness
+values when solid solution phases had lower values. Since Al and Ti
+atoms have a higher atomic radius than other component elements,
+they cause distortion in both FCC and BCC lattice structures and in-
+crease alloy hardness. However, hardness is also significantly influ-
+enced by the hard based phases formed in the structure besides the
+distortion of the solid solutions contained in the alloy. The hardness in
+the CoCrFeNiAlo.s alloy is obtained by the solid solution hardening
+mechanism, while the presence of AI-Ni-Ti and sigma intermetallic
+phases in the CoCrFeNiAl) 5Tig., and CoCrFeNiAlg ;Ti alloys provides a
+significant increase in their hardness. Intermetallic compounds are
+usually brittle and thus increases hardness but decreases ductility
+[3,9,34]. The hardness of the CoCrFeNiAl0.5Ti0.5 alloy is higher than
+CoCrFeNiAl0.5Ti alloy by a small margin, although it contained more
+intermetallic phase. Hardness in alloys is not only affected by inter-
+metallic phases. Al and Ti elements have not only a larger radius than
+most other elements, but also stronger binding forces with other ele-
+ments, therefore, the increased Al and Ti elements in alloys causes the
+larger lattice strain effect and strong binding force so enhancement of
+hardness.
+
+In the case of CoCrFeNiTio,.s alloy, the hardness is dominated by the
+hard sigma phase, which occurs in small quantities with distortion
+
+CoCrFeNiAlg 5
+CoCrFeNiAlg cTig 5
+CoCrFeNiAlg sTi
+
+CoCrFeNiTig 5
+
+ 
+
+CoCrFeNiAITig 5
+
+ 
+
+2-Theta, degree
+
+Fig. 6. XRD patterns of the as-homogenized CoCrFeNiAI,Ti, alloys.
+A. Erdogan et al.
+
+Table 5
+Phases and their lattice parameters of the as-homogenized CoCrFeNiAl,Ti, al-
+loys, in accordance to the XRD analysis.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alloy Lattice Lattice parameters (A)
+
+CoCrFeNiAl) 5 BCCI (FeCr) 2.885 + 0.003
+FCC (FeNi) 3.600 + 0.003
+Tetragonal a = 8.806 + 0.005, c = 4.568 + 0.003
+(sigma)
+
+CoCrFeNiAlgsTios BCC2(AI-Ni-Ti) 2.928 + 0.003
+Tetragonal a = 8.810 + 0.006, c = 4.570 + 0.003
+(sigma)
+
+CoCrFeNiAl, 5Ti BCCI (FeCr) 2.882 + 0.002
+BCC2 (AI-Ni-Ti) 2.930 + 0.003
+Tetragonal a= 8.818 + 0.004, c = 4.574 + 0.003
+(sigma)
+
+CoCrFeNiTio.s5 FCC (FeNi) 3.596 + 0.003
+Tetragonal a = 8.809 + 0.005, c = 4.570 + 0.003
+(sigma)
+
+CoCrFeNiAITio 5 BCCI (FeCr) 2.899 + 0.002
+BCC2 (AI-Ni-Ti) 2.913 + 0.004
+
+ 
+
+occurring in solid solition phases. Relatively low hardness value than
+expected is measured in the CoCrFeNiAITig.; alloy, that may e result
+from the presence of the Fe-Cr rich solid solution in the structure and
+the low ratio of intermetallic Al-Ni-Ti rich phase.
+
+3.3. XRD analyses as-homogenized CoCrFeNiAl,Ti, alloys
+
+XRD patterns of the as-homogenized alloys are shown in Fig. 6, and
+the identified phases with their lattice parameters are given in Table 5.
+After the homogenization process, in addition to the phases found after
+the sintering in the CoCrFeNiAlo.5 alloy, it has been found that tetra-
+gonal structured sigma phase is also formed in the alloy. BCC1 phase
+observed after sintering was not detected while maintaining the pre-
+sence of BBC2 and tetragonal crystal lattice structures in the CoCrFe-
+NiAlo 5Tig.5 alloy. In the XRD analysis after homogenization for CoCr-
+FeNiAlo.5Ti alloy, it was determined that the tetragonal sigma phase
+dissociated from as-sintered alloy. In the CoCrFeNiTio.s alloy, BCC1 is
+not seen in the structure but other phases are present. At the end of the
+homogenization process, similar phases were determined after sintering
+in general, and it was determined that the sigma phase dissociated or
+retained its presence in all alloys except CoCrFeNiAITi 5 alloy. Further
+work on the formation of sigma phase in high entropy alloys is needed.
+No change in the post-sinter phase of the CoCrFeNiAITio.; alloy was
+observed except for the lattice parameters. The structure became more
+stable due to diffusion in the homogenization process. Therefore, it is
+seen that, after sintering, the lattice parameters determined at the end
+of homogenization generally increase.
+
+3.4. SEM-EDS analyses of As- homogenized CoCrFeNiAlxTiy alloys
+
+Fig. 7, presents the back scattered SEM micrographs and Table 6
+outlines the chemical compositions of five considered homogenized
+alloys (analyzed by EDS). SEM-map analyses also were conducted as
+shown in Fig. 8. As a result of the homogenization, the chemical
+composition of the phases became more stable and the elemental
+scattering decreased. Similar to the CoCrFeNiAlo.5, CoCrFeNiAlo sTio.s
+alloys, two main phases were observed in the microstructure; dark gray
+and light gray. In addition, these phases are dispersed in fine grains
+within each other. In CoCrFeNiAlo.s alloy, light areas correspond to
+BCC1 phase and dark areas correspond to FCC phase, in
+
+69
+
+Vacuum 155 (2018) 64-72
+
+CoCrFeNiAlo,5Tio.s alloy light areas correspond to sigma phase and dark
+areas correspond to BCC2 phase according to the XRD pattern shown in
+Fig. 6. Due to the mixing enthalpy, the dispersion becomes more pro-
+nounced as a result of the homogenization process. In general, the Fe-Cr
+rich phase is precipitated due to its high concentration around this
+phase, while the large negative mixing enthalpy between AI-Ni-Ti ele-
+ments facilitates the formation of Al-Ni-Ti rich phase during processing
+due to enthalpy values. Although Co is dispersed in mean values in most
+cases, it is slightly higher in the dark gray phase in the alloys having
+higher Al + Ti ratio, while is moderately higher in the light gray phase
+in the alloys having lower Al + Ti ratio. In CoCrFeNiAl,,sTi alloy, three
+different phases are observed in microstructure as dark gray, gray and
+light gray, which correspond to BCC2, sigma and BCC1 phases respec-
+tively mentioned in the XRD analysis (see Fig. 6). The dark gray phase
+shows a composition similar to other alloys, while the gray and light
+gray phases are rich in Fe and Cr elements. Main difference between the
+gray and light gray phases is that the richest element Fe is in gray phase
+and Cr is in ligth gray phase. In the CoCrFeNiTig,, alloy, when the
+matrix consists of dark gray phase (FCC), a light gray phase (sigma)
+dispersed in this matrix is seen in this matrix (Fig. 7). CoCrFeNiAITig 5
+exhibiting dark and light areas similar to those in CoCrFeNiAlp 5s,
+CoCrFeNiAlo.sTio.s alloys which are confirmed to be the BCC2 and
+BCC1 phases, respectively according to the XRD pattern shown in
+Fig. 6.
+
+Average hardness values of 496 HV, 956 HV, 916 HV, 673H V and
+753HV were obtained after annealing in CoCrFeNiAl)s,
+CoCrFeNiAly 5Tio 5, CoCrFeNiAlp 5Ti, CoCrFeNiTig5 and
+CoCrFeNiAITio.5 alloys, respectively (Fig. 9). The hardness values of all
+alloys increased with the homogenization process after the sintering
+process. This is related to two important factors. Particularly, formation
+of the hard-structured sigma phase has been found to contribute sig-
+nificantly to the hardness of alloys after homogenization. Stepanov
+et al. [8] studied the CoCrFeMnNiVx alloy and found that hardness of
+the alloys was greatly affected by the sigma phase. In many studies it
+has been previously determined that the sigma phase enhances the
+hardness of the alloys [35-37]. However, it has been determined that
+homogenization increases the lattice parameters of alloys. Due to this
+increase, the raising distortion in the lattice also contributed to the
+hardness. Furthermore, the presence of the Al-Ni-Ti rich intermetallic
+phase also enhances the hardness. Especially, the high hardness ob-
+tained in CoCrFeNiAlg 5Tip.5, CoCrFeNiAlp 5Ti alloys is attributed to the
+presence of higher sigma and intermetallic phase ratio in the structure.
+
+4. Conclusion
+
+Microstructure and hardness properties of CoCrFeNiAl,Ti, high
+entropy alloys manufactured by the electric current activated sintered
+were studied in the as-sintered and homogenized at 1200 °C for 18h
+conditions.
+
+The following results can be derived from the present study:
+
+e Thanks to the ECAS technique used in the study, HEAs production
+was conducted without using a protective atmosphere and was
+completed in as short time as 5 min.
+
+e Achieved results are in agreement with the literature. In addition.
+This paper demonstrates superiority of HEA production in terms of
+short time processing compared to previous studies.
+
+e Solid solution, intermetallic and sigma phases similar to those in the
+literature have been determined in this study. In addition, it has
+been found that the presence of Al and Ti elements having a high
+atomic radius in the composition has a positive effect on the hard-
+ness values depending on the phases formed.
+
+e High hardness values are highly influenced by homogenization
+process and increased to 956H V in the CoCrFeNiAl0.5Ti0.5 alloy
+due to the increase in distortion and high hardness sigma phase due
+to the increase of the lattice parameters.
+A. Erdogan et al.
+
+Fig. 7. SEM images of as-homogenized CoCrFeNiAlxTiy, (a) C1, (b) C2, (c) C3, (d) C4, (e) C5.
+
+
+
+e As a result, it has been determined that with ECAS, very high en-
+tropy alloys can be produced together with many advantages in a
+very short time. It is aimed to continue the detailed studies on the
+identification of the phases and the examination of the mechanical
+and microstructural properties of the homogenization process.

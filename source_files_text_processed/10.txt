@@ -1,0 +1,516 @@
+The purpose of this study is to investigate the effects of Mn addition on the microstructure, mechanical
+properties, and electrochemical corrosion properties of Alp.3CoCrFeNiMn, (x = 0, 0.1, and 0.3) high-
+entropy alloys. All alloys are simple face-centered cubic solid solutions. After addition of Mn to the
+Alop.3CoCrFeNi alloy, the lattice parameter and hardness increase from 3.591 A to 3.611 A and from HV141
+to HV156, respectively. Meanwhile, the yield stress and ultimate tensile strength increase from 119 MP to
+
+158 MPa and from 295 MPa to 371 MPa, respectively. The increase in yield stress is due to solid solution
+
+1. Introduction
+
+Developments in traditional alloy systems have focused on one
+or two principal elements with atomic percentages of more than
+50%. High-entropy alloys, a concept proposed by Yeh et al., in 2004,
+comprise a new domain in alloy design [1]. These alloys typically
+consist of five to thirteen principal metallic elements, the concen-
+tration of which range 5—35 at.%. The alloys’ properties can also be
+modified by adding minor elements such as interstitial C or B [2—5].
+AlCoCrFeNi-based alloys with a combination of Cu, Ti, Mo, or V have
+been extensively studied because of the easy formation of the
+simple body-centered cubic (BCC) or face-centered cubic (FCC)
+matrix. These alloys show several attractive properties such as easy
+formation of nanostructure, high strength, good thermal stability,
+and high malleability [6—10].
+
+* Corresponding author.
+E-mail address: ttshun@fcu.edu.tw (T.-T. Shun).
+
+http://dx.doi.org/10.1016/j.matchemphys.2017.07.085
+0254-0584/© 2017 Elsevier B.V. All rights reserved.
+
+Mn, one of the cheap metallic elements, is abundant in the
+earth’s crust and is easy to utilize. It is widely used as an alloying
+element [11]. For instance, it can be added to steel to enhance the
+abilities to resist impact and wear. It can be used to substitute Ni in
+stainless steel in order to reduce cost. It can also increase the
+hardening ability of aluminum alloys. In studies on Mn-containing
+high-entropy alloys, adding Mn to BCC AlCrFeCoNiCu alloy resulted
+in the formation of a Cr-rich phase, dramatically decreasing the
+alloy’s compressive strength and ductility | 12]. However, the tensile
+strength of FCC CoCrFeMnNi alloy increased along with the
+decrease in temperature from 293 to 77 K because of deformation
+twinning and a decrease in stacking fault energy [13]. After
+annealing at 850 °C, its strength decreased because of grain
+coarsening [14]. This alloy also exhibited fracture resistance at both
+high and low temperatures [15]. The above studies indicate that the
+addition of Mn to an FCC high-entropy alloy may have a positive
+impact on its mechanical properties.
+
+So far, very little in the literature discusses the effect of Mn
+content variation on the high-entropy-alloy microstructure and
+S.-K. Wong et al. / Materials Chemistry and Physics 210 (2018) 146—151 147
+
+properties. In this work, the effects of Mn additions on the micro-
+structures and properties of Alo3CoCrFeNiMnx (x = 0, 0.1, and 0.3)
+high-entropy alloys are discussed.
+
+2. Material and methods
+
+The high-entropy alloys Alg.3;CoCrFeNiMn, (x = 0, 0.1, and 0.3,
+denoting Mno, Mno;, and Mno3, respectively) were produced
+through induction melting and casting in air. Elemental Al, Co, Cr,
+Fe, Ni, and Mn with a purity of more than 99 wt% were used as raw
+materials. The ingot size was approximately 6 cm x 8 cm x 15 cm.
+Samples cut from the ingot were used in microstructure analysis,
+hardness measurement, tensile test, and electrochemical corrosion
+test. The microstructure was examined by scanning electron mi-
+croscopy (SEM, HITACHI S-3400N) equipped with energy-
+dispersive spectrometry (EDS, BRUKER-XFLASH6/10). Aqua regia
+was employed as an etching solution for the SEM sample after
+polishing. The crystal structure was identified by X-ray diffrac-
+tometer (XRD, Bruker D8 SSS) using Cu Ka radiation at a scanning
+rate of 4° min”! and a 26 range of 20°—100°. The hardness under a
+load of 300 g for duration of 15 s was measured by using a Vickers
+hardness tester (Future-Tech FR-300e). Five different positions
+were measured to calculate the average value and standard devi-
+ation. The plate-type subsize specimens (ASTM E8) were prepared
+for tensile test (Chun Yen CY-6040A4 universal tensile testers) at a
+strain rate of 4 x 10-4 s-! at room temperature. The electro-
+chemical corrosion test was performed by potentiodynamic po-
+larization measurement using a 3.5% NaCl solution at room
+temperature. The test used a Biologic SP-150 potentiostat at a scan
+rate of 5 mVs~!,a segment of 1, a scan rang of —1 to 1 V, a frequency
+of 10°—10~2 Hz, and an amplitude of 5 mV.
+
+3. Results and discussion
+3.1. Crystal structure
+
+Fig. 1 shows the XRD patterns of the alloys Mno, Mng, and Mno3.
+All alloys exhibit a simple FCC phase. Lattice parameters of alloys
+calculated using Bragg formula [16] are 3.591, 3.603 and 3.611 A,
+respectively. The lattice parameter of the alloys increases slightly
+with an increase in the Mn content because the atomic radius of Mn
+(1.27 A) is smaller than those of Al (1.43 A) and Cr (1.28 A) but
+slightly larger than those of Co (1.25 A), Fe (1.26 A), and Ni (1.24 A).
+Therefore, addition of Mn to Alp. 3CoCrFeNi alloy induces the lattice
+
+180
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 pci) * FCC
+160 4
+140 4
+@ 120-4
+S 4
+& 100 4 ° (311)
+2 804 Mn,, > ay 3.611
+gf
+=e 604
+~ | Mn,, 3.603A
+40 “respite
+20 Mn, 3.591A
+od seaman! Att Mat satnaditecntinpatntttdiatted Matd Ap
+
+ 
+
+20 40 60 80 100
+20(deg)
+
+Fig. 1. XRD patterns of Mng, Mnoj, and Mno3.
+
+expansion. However, this lattice expansion is not large because the
+amount of Mn addition is only 0.1 or 0.3 mol.
+
+3.2. Microstructure
+
+SEM images of Mno, Mno; and Mng33 are displayed in Fig. 2, and
+their chemical compositions as obtained by EDS analysis are listed
+in Table 1. All alloys exhibit a polycrystalline structure with grain
+size larger than 500 um. No secondary phase can be observed.
+These results confirm the XRD analyses results in Fig. 1, which
+shows that all of the alloys comprise a simple FCC solid solution. In
+addition, some black dots inside the grains in Fig. 2 identified by
+EDS are mainly Al203 inclusion, and the amount of inclusions in the
+three alloys is approximate (~2 vol%).
+
+3.3. Hardness
+
+Fig. 3 shows the hardness variation of the Alp 3CoCrFeNiMn,
+alloys. The alloy hardness increases from HV141 to HV156 with the
+increase in Mn content to 6.8 at%. The strengthening of the alloy can
+be attributed to two effects. One is solid-solution strengthening due
+to lattice distortion; the increase in lattice parameter of the alloy
+after Mn addition (section 3.1) explains this effect. The other effect
+is the reduction in stacking fault energy of the alloy, which makes
+cross-slipping of dislocations more difficult [17]. This reduction
+upon the addition of the Mn may be deduced from the increase in
+mean electron hole number of each alloy, which is calculated by the
+formula N = S7j,miNvi applied in superalloys [18]. Here, Nis the
+average electron hole number of the alloy, n is the number of ele-
+ments in the alloy, mi is the atomic percentage of a particular
+element, and Nvi is the electron hole number of the element
+(Table 2). The calculated mean electron hole numbers of Mno, Mno1
+and Mno3 are 2.44, 2.47, and 2.52, respectively. Thus, the mean
+electron hole number increases upon addition of Mn.
+
+3.4. Tensile properties
+
+Fig. 4 shows the engineering stress—strain curves obtained from
+tensile tests for Mno, Mno1 and Mno3. Table 3 summarizes data for
+the yield stress (oy), ultimate tensile strength (oyts), elongation,
+and extent of work hardening (Ac = outs — oy). Evidently, oy, ours,
+and Ao respectively increase from 119 to 158 MPa, from 295 to
+371 MPa, and from 176 to 213 MPa with the increase in Mn content,
+while the elongation declines from 59% to 46%. The increase in oy is
+due to solid-solution strengthening, and the increase in oyts results
+from the increase in work hardening due to the reduction in
+stacking fault energy. Engineering stress-strain curves of all of the
+alloys (Fig. 4) have a yield point that is related to the homoge-
+neously spherical nanoprecipitates with the L12 ordered structure
+reported in our previous study [19]. These nanoprecipitates act as
+coherent GP zones, and the dislocation cutting through the particle
+results in a drop in the yield.
+
+Fig. 5 shows SEM images of the polished surface of Mno, Mno,,
+and Mng3 under tension. Clearly, the deformation marks of the
+three alloys differ: that of the Mno has a wavy glide, and that of
+Mng3 has a planar glide, and that of Mng, contains both types. The
+wavy glide created by a material with high stacking fault energy
+and narrowly separated partial dislocations facilitates cross-
+slipping of dislocations and results in lower work hardening dur-
+ing deformation. Conversely, the planar glide is a material with low
+stacking fault energy and widely separated partial dislocations,
+indicating more difficult for cross-slipping of dislocations and
+higher work hardening [20]. The characteristics of the deformation
+mark on each alloy’s surface thus confirm the effects of reduction in
+148 S.-K. Wong et al. / Materials Chemistry and Physics 210 (2018) 146—151
+
+$-3400 15.0kV 10.5mm x200 BSECOMP.
+
+ 
+
+$3400 '15.0kV 9.4mm x200 BSECOMP.
+
+$3400-15,.0kV 9.8mm x200 BSECOMP.
+
+Fig. 2. SEM images of the alloys (a) Mno, (b) Mno;, and (c) Mng3.
+
+Table 1
+
+Chemical compositions (at%) of Alo,;CoCrFeNiMnx alloys.
+Alloy Al Co Cr Fe
+Alop,3CoCrFeNi 6.9 23.3 23.4 23.3
+Alo.3CoCrFeNiMng,1 6.8 22.5 23.0 22.9
+
+Alo, 3CoCrFeNiMno.3 6.2 21.2 21.7 21.9
+
+180
+
+160
+
+et
+140 E
+
+Hardness (HV)
+
+120
+
+100
+0 0.1
+
+X Value of Al, ,CoCrFeNiMn,,
+
+23.1
+22.4
+22.2
+
+0.3
+
+Fig. 3. Variation of hardness of Alo.3CoCrFeNiMn, alloys.
+
+Table 2
+
+Electron hole number of individual element in alloy [17,18].
+Mn Al Co Cr Fe Ni Mn
+N/A Electron hole number 2.66 1.71 4.66 2.66 0.66 3.66
+24
+6.8
+
+Engineering Stress (MPa)
+
+ 
+
+0 10 20 30 40 50 60
+
+Engineering Strain (%)
+
+Fig. 4. Tensile stress—strain curves of Mno, Mno;, and Mno3.
+S.-K. Wong et al. / Materials Chemistry and Physics 210 (2018) 146—151 149
+
+Table 3
+Yield stress (oy), ultimate tensile strength (curs), elongation, and extent of work
+hardening (Ao = oyts — dy) of Mno, Mno; and Mng3.
+
+Alloy oy (MPa) Outs (MPa) Elongation (%) Ao (MPa)
+Mno 119 295 59 119
+Mno1 149 336 49 149
+Mno3 158 371 46 158
+
+stacking fault energy and the increase in strength upon addition of
+Mn to the alloys.
+
+3.5. Electrochemical corrosion properties
+
+Polarization curves of the alloys and of SUS304 stainless steel
+are showed in Fig. 6, and their electrochemical parameters are
+listed in Table 4. The corrosion potentials (Ecorr) of Mno, Mno, Mno3
+and SUS304 are —0.169, —0.172, —0.189, and —0.215 V, respectively.
+This result indicates that the three high-entropy alloys have
+corrosion resistance better than that of SUS304. This result is due to
+the higher content of the anticorrosive elements Cr and Ni in the
+alloys as compared with that of SUS304. Fig. 6 also shows the po-
+larization curves of Mno, Mno; and Mng3 mostly overlap, sug-
+gesting that the three alloys are almost identical in terms of
+corrosion resistance. The value of Ecor; (Table 4) indicates that the
+addition of Mn to the alloy leads to slight deterioration of the
+corrosion resistance. This deterioration is due to the increase in Mn
+content and the concomitant reduction of the Cr and Ni content.
+
+wavy uk S
+
+= aN
+
+SEL URNA No. CR CaS Sa
+
+.
+
+$3400 5.00kV 4.7mm x3.00k SE
+
+ 
+
+a, Mn,,
+—— SUS 304
+
+Potential (V)
+
+ 
+
+Log (i/A)
+
+Fig. 6. Polarization curves of Mno, Mnoj, and Mno3 alloys and of SUS304 stainless
+steel.
+
+Table 4
+
+Electrochemical parameters of Mno, Mnoi, Mno,3 and SUS304.
+Alloy Ecorr (V) corr (MA/cm?) Ep (V)
+Mno —0.169 0.334 0.592
+Mno1 —0.172 0.325 0.579
+Mng3 —0.189 0.331 0.554
+SUS304 —0.215 0.324 0.613
+
+SKY WON NoMa eNO asi
+
+planar glide
+
+V
+
+4
+
+CO a Peed De OG
+
+MkOmole lag
+
+Fig. 5. SEM images of the polished surfaces of the alloys under tension: (a) Mngo, (b) Mno;, and (c) Mno3.
+150 S.-K. Wong et al. / Materials Chemistry and Physics 210 (2018) 146—151
+
+oN
+=
+
+PUG
+
+aie Lind (iyt!
+a
+
+S-3400 5.00kV 7.0mm x200 SE psi aa
+
+\
+
+Rey (O)0) OMe] 0 rata Ae URS I=)
+. B]
+
+i { }
+
+ 
+
+Tie teRy tty sl]
+
+Ca
+
+[HR Real 74 in Wl os) bea
+i
+
+S-3400 5.00kV 6.9mm x200 SE pant
+
+$3400 5:00kV 5.9mm x200 SE Petia
+
+Fig. 7. SEM images of the surface after electrochemical corrosion of (a) Mno, (b) Mno,, (c) Mno3, and (d) SUS304.
+
+The pitting potentials (Ep) of Mno, Mno1, Mno,3, and SUS304 are
+0.592, 0.579, 0.554, and 0.613 V, respectively. The pitting re-
+sistances of the three alloys are thus lower than that of SUS304.
+Fig. 7 shows SEM images of the surface after electrochemical
+corrosion of Mno, Mno;, Mno3, and SUS304. The appearances of
+most pitting pores and inclusions in Mng to Mno3 alloys after
+testing are dark-gray square shape and black irregular shape,
+respectively. We suggest that these inclusions in alloys will some-
+what deteriorate the pitting resistance. However, this effect can be
+ignored in evaluation of pitting resistance among the present three
+high-entropy alloys due to their approximate inclusion content.
+Comparison of the number of pitting holes on each alloy agrees
+with the evaluation of pitting resistance from the E, value. The
+pitting resistance equivalent number (PREN) of stainless steel is
+expressed as PREy = Cr + 1.1Mo + 40.3N — 1.3Mn [21]. This
+equation is always used to predict the pitting resistance of the alloy
+in a Cl--containing solution. Because Mn reduces the PREy, addi-
+tion of Mn to the alloy has an adverse effect on the pitting resis-
+tance. Calculated PREN values of Mno, Mnoi, Mno3, and SUS304 are
+12.09, 10.20, 6.65, and 18.06, respectively, which are in accordance
+with the experimental results.
+
+4. Conclusions
+
+In this study, the effect of Mn addition on the microstructures,
+mechanical properties, and electrochemical corrosion properties of
+Alp,3CoCrFeNiMn, (x = 0, 0.1, 0.3) high-entropy alloys were inves-
+tigated. The results show that all of the alloys exhibit an FCC
+polycrystalline structure. After the addition of Mn to Alo 3CoCrFeNi
+alloy, the lattice parameter, hardness, yield stress, and ultimate
+
+tensile strength respectively increase from 3.591 A to 3.611 A, from
+HV141 to HV156, from 119 MPa to 158 MPa, and from 295 MPa to
+371 MPa. Solid-solution strengthening due to lattice distortion and
+work hardening due to reduction of stacking fault energy are two
+mechanisms behind the strengthening. The addition of Mn to the
+Alo3CoCrFeNi alloy leads to a slight deterioration of corrosion
+resistance.
+
+Acknowledgement
+
+The authors would express gratitude for the financial support by
+the Ministry of Science and Technology of Taiwan under Grant No.
+MOST 104-2221-E-035-013. The authors also appreciate the Preci-
+sion Instrument Support Center of Feng Chia University in
+providing the fabrication and measurement facilities.
+
+References
+
+[1] J.W. Yeh, S.K. Chen, J.Y. Gan, T.S. Chin, T.T. Shun, C.H. Tsau, S.Y. Chang,
+Nanostructured high-entropy alloys with multiple principal elements: novel
+alloy design concepts and outcomes, Adv. Eng. Mater 6 (5) (2004) 299-303.
+
+[2] Z. Wang, I. Baker, Z. Cai, S. Chen, J.D. Poplawsky, W. Guo, The effect of inter-
+stitial carbon on the mechanical properties and dislocation substructure
+evolution in Fe4o.4Nij1.3Mn348Al75Crg high entropy alloys, Acta. Mater. 120
+(2016) 228—239.
+
+[3] Z. Wu, M. Parish, H. Bei, Nano twin mediated plasticity in carbon containing
+FeNiCoCrMn high entropy alloys, J. Alloy. Compd. 647 (2015) 815—822.
+
+[4] Z. Li, C.-C. Tasan, H. Springer, B. Gault, D. Raabe, Interstitial atoms enable joint
+twinning and transformation induced plasticity in strong and ductile high-
+entropy alloys, Sci. Rep. 7 (40704) (2017) 1—7.
+
+[5] Z. Wang, I. Baker, Interstitial strengthening of a fcc FeNiMnAICr high entropy
+alloy, Mater. Lett. 180 (2016) 153—156.
+
+[6] Y. Dong, K. Zhou, Y. Lu, X. Gao, T. Wang, T. Li, Effect of vanadium addition on
+the microstructure and properties of AlCoCrFeNi high entropy alloy, Mater.
+7]
+
+S.-K. Wong et al. / Materials Chemistry and Physics 210 (2018) 146—151 151
+
+Des. 57 (2014) 67—72.
+
+YJ. Zhou, Y. Zhang, F.J. Wang, Y.L. Wang, G.L. Chen, Effect of Cu addition on the
+microstructure and mechanical properties of AlCoCrFeNiTio,5 solid-solution
+alloy, J. Alloy. Compd. 466 (2008) 201—204.
+
+[8] J.M. Zhu, H.M. Fu, H.F. Zhang, A.M. Wang, H. Lia, Z.Q. Hua, Microstructures and
+
+[9]
+
+[10]
+
+[11]
+
+[12]
+
+compressive properties of multicomponent AlCoCrFeNiMo, alloys, Mater. Sci.
+Eng. A 527 (2010) 6975-6979.
+
+C.F. Lee, T.T. Shun, Effect of Fe content on microstructure and mechanical
+properties of AlgsCoCrFexNiTigs5 high entropy alloys, Mater. Charact. 114
+(2016) 179-184.
+
+IS. Wani, T. Bhattacharjee, S. Sheikh, P.P. Bhattacharjee, S. Guo, N. Tsuji,
+Tailoring nanostructures and mechanical properties of AlCoCrFeNiz eutectic
+high entropy alloy using thermos mechanical processing, Mat. Sci. Eng. A 675
+(2016) 99-109.
+
+G.E. Totten, L. Xie, K. Funatani, Handbook of Mechanical Alloy Design, Marcel
+Dekker, Inc., New York, 2004.
+
+B.S. Li, Y.P. Wang, M.X. Ren, C. Yang, H.Z. Fu, Effects of Mn, Ti and V on the
+microstructure and properties of AlCrFeCoNiCu high entropy alloy, Mat. Sci.
+Eng. A 498 (2008) 482—486.
+
+[13]
+
+[14]
+
+[15]
+[16]
+[17]
+
+[18]
+[19]
+
+[20]
+
+[21]
+
+F. Otto, A. Dlouhy, Ch Somsen, H. Bei, G. Eggeler, E.P. George, The influences of
+temperature and microstructure on the tensile properties of a CoCrFeMnNi
+high-entropy alloy, Acta. Mater. 61 (2013) 5743—5755.
+
+W.H. Liu, Y. Wu, J.Y. He, T.G. Nieh, Z.P. Lu, Grain growth and the Hall-Petch
+relationship in a high-entropy FeCrNiCoMn alloy, Scr. Mater. 68 (2013)
+526—529.
+
+B. Gludovatz, et al., A fracture-resistant high-entropy alloy for cryogenic ap-
+plications, Sci. 345 (2014) 1153-1158.
+
+B.D. Cullity, S.R. Stock, Elements of X-ray Diffraction, third ed., Prentice-Hall,
+Inc., New Jersey, 2001.
+
+W.F. Smith, Structure and Properties of Engineering Alloys, second ed.,
+McGraw-Hill, Inc., 1993.
+
+C.T. Sims, N.S. Stoloff, W.C. Hagel, Superalloys II, John Wiley & Sons, Inc., 1987.
+T.T. Shun, Y.C. Du, Microstructure and tensile behaviors of FCC Alo,3CoCrFeNi
+high entropy alloy, J. Alloy. Compd. 479 (2009) 157—160.
+
+R.W. Hertzberg, Deformation and Fracture Mechanics of Engineering Mate-
+rials, second ed., John Wiley & Sons, Inc., 1983.
+
+M.O. Speidel, R.M. Pedrazzoli, High nitrogen stainless steels in chloride solu-
+tions, Mater. Perform. 31 (9) (1992) 59—61.
+

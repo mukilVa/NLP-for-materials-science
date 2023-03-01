@@ -1,0 +1,777 @@
+Tailorable magnetic state near room temperature is very promising for several technological, including mag-
+netocaloric applications. Here using first-principle alloy theory, we determine the Curie temperature (Tc) of a
+number of equiatomic medium- and high-entropy alloys with solid solution phases. All calculations are per-
+formed at the computed lattice parameters, which are in line with the available experimental data. Theory
+predicts a large crystal structure dependence of Tc, which explains the experimental observations under specified
+
+conditions. The sensitivity of the magnetic state to the crystal lattice is reflected by the magnetic exchange
+interactions entering the Heisenberg Hamiltonian. The analysis of the effect of composition on Tc allows re-
+searchers to explore chemistry-dependent trends and design new multi-component alloys with pre-assigned
+
+magnetic properties.
+
+ 
+
+1. Introduction
+
+Based on a distinct concept of alloy design, Yeh et al. introduced a
+new class of materials, the high-entropy alloys (HEAs) [1], which has
+attracted extensive attention from the academic and metallurgic re-
+search communities over the recent years [2-6]. Unlike conventional
+alloys, HEAs are characterized by their special compositions containing
+multiple elements in equal or near-equal molar ratios. Several im-
+portant features in these alloys have been postulated, including high
+entropy, sluggish diffusion, and severe lattice distortion [7]. It is of
+particular interest to notice that many reported HEAs possess simple
+[e.g., face-centered cubic (fcc) and/or body-centered cubic (bcc)
+structures] yet chemically disordered solid solution phases [8]. In ad-
+dition, these alloys display a variety of technologically appealing and
+tunable properties, such as excellent specific strength [9], exceptional
+ductility and fracture toughness at cryogenic temperatures [10], en-
+couraging fatigue resistance [11], and superconductivity [12].
+
+Recently, it was suggested that HEAs could be exciting candidate
+materials for magnetic refrigeration applications. The key parameters in
+focus are the magnetic entropy change, the adiabatic temperature
+change and the refrigerant capacity [13]. Belyea et al. found that Ni-
+FeCoCrPd,, displays a second order magnetic phase transition associated
+
+* Corresponding author.
+
+with a slightly decreasing magnetic entropy change and increasing
+critical temperature from ~ 100 K to room temperature, which leads to
+nearly 40% enhancement of the refrigerant capacity as x increases from
+null to 11.11% [14]. Yuan et al. showed that GdDyErHoTb exhibits the
+largest refrigerant capacity reported so far (~627Jkg~’ at the 5T
+magnetic field), along with a small magnetic hysteresis loss and ductile
+mechanical behavior [15]. In most cases, the refrigeration parameters
+can be maximized near the critical temperature and thus for widespread
+applications the magnetocaloric material should possess Curie tem-
+perature (T;) close to the room temperature.
+
+Previous work indicate that T, of HEAs is sensitive to the base
+composition, the additional alloying elements, and the crystal structure
+[16,17]. In the widely-studied FeCrCoNiAl, system, for example, Al
+addition increases the Tc from 130K for FeCrCoNi to 430K for FeCr-
+CoNiAl, [18-20], associated with a structural transition from fcc to bec
+with an fec-bcc duplex region [21-23]. On the other hand, the available
+experimental critical temperatures often carry an unknown error bar
+due to the difficulties associated with synthesizing homogeneous solid
+solutions [18,19,21]. Despite the appreciable efforts in experiments,
+very little theoretical investigations devoted to this question have been
+presented so far. This can be attributed to the complexity of the pro-
+blem related to the magnetic and chemical disorder in connection with
+
+* Corresponding author. Applied Materials Physics, Department of Materials Science and Engineering, Royal Institute of Technology, Stockholm, SE-100 44, Sweden.
+
+E-mail addresses: shuoh@kth.se (S. Huang), levente@kth.se (L. Vitos).
+
+https://doi.org/10.1016/j.intermet.2018.01.016
+
+Received 30 November 2017; Received in revised form 12 January 2018; Accepted 20 January 2018
+
+0966-9795/ © 2018 Elsevier Ltd. All rights reserved.
+S. Huang et al.
+
+Table 1
+
+Intermetallics 95 (2018) 80-84
+
+List of equiatomic medium- and high-entropy alloys crystallizing in the fec and/or bec phases. The calculated equilibrium Wigner-Seitz radius in ferromagnetic (paramagnetic) state and
+Curie temperature are presented, along with the available experimental and other theoretical data.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alloy Phases Wigner-Seitz radius (bohr) Curie temperature (K)
+fee Expt. bee Expt. fee Expt./Cal. bee
+AINiCu fee + bee [34] 2.711 2.690 [34] 2.710 2.767 [34] - -
+CrFeNi fec [35] 2.626 (2.619) 2.636 (2.632) 80 225
+CrCoNi fee [36] 2.609 (2.604) 2.636 [36] 2.622 (2.618) 25 120
+MnFeNi fee [35] 2.617 (2.624) 2.646 (2.652) 43 71
+FeCoNi fec [37] 2.629 (2.606) 2.658 [37] 2.635 (2.624) 804 995 [38] 1147
+AlFeCoNi bee [37] 2.668 (2.654) 2.669 (2.663) 2.682 [37] 497 763
+AICoNiCu fee + bee [34] 2.674 (2.670) 2.661 [34] 2.676 (2.674) 2.737 [34] 197 245
+VCrFeMo bee [39] 2.790 (2.789) 2.771 (2.769) 21 251
+CrFeCoNi fec [21] 2.619 (2.604) 2.644 [21] 2.630 (2.624) 155 120-130 [16,18,20] 414
+MnFeCoNi fee [40] 2.616 (2.606) 2.657 [40] 2.655 (2.640) 166 580
+FeCoNiCu fee [41] 2.641 (2.632) 2.648 [41] 2.647 (2.642) 796 826 [26] 987
+AITiFeNiCu fee + bee [42] 2.767 (2.765) 2.762 (2.760) 213 286
+AlCrMnFeCo bee [43] 2.667 (2.660) 2.670 (2.658) 2.680 [43] 32 463
+AlCrFeCoNi fee + bee [21] 2.661 (2.653) 2.667 [21] 2.664 (2.659) 2.683 [21] 136 334
+AlCrFeNiCu fee + bee [44] 2.689 (2.688) 2.686 (2.683) 124 159
+AICrCoNiCu fee + bee [34] 2.671 (2.671) 2.650 [34] 2.673 (2.671) 2.726 [34] 25 70
+AlFeCoNiCu fee + bee [45] 2.672 (2.665) 2.670 [45] 2.674 (2.670) 2.668 [45] 493 663
+TiVCrFeMo bee [39] 2.836 (2.835) 2.799 (2.794) 31 97
+TiCrFeCoNi fee [46] 2.690 (2.682) 2.691 (2.684) 95 339
+VMnFeCoNi fee [47] 2.638 (2.636) 2.664 (2.652) 27 470
+VFeCoNiCu fee [48] 2.662 (2.652) 2.666 (2.661) 246 404
+CrMnFeCoNi fee [49] 2.607 (2.604) 2.659 [49] 2.640 (2.630) 27 20 [50] 397
+CrMnFeCoCu fee [47] 2.647 (2.630) 2.656 (2.647) 59 477
+CrMnFeNiCu fee + bee [44] 2.664 (2.647) 2.664 (2.655) 60 191
+CrFeCoNiCu fee [1] 2.638 (2.626) 2.642 [1] 2.643 (2.638) 251 172 [51] 382
+CrFeCoNiPd fec [19] 2.716 (2.706) 2.694 [19] 2.717 (2.723) 440 440 [19] 414
+CrFeNiCuMo fee [44] 2.743 (2.740) 2.740 (2.739) 102 144
+MnFeCoNiCu fee [52] 2.646 (2.643) 2.671 (2.657) 146 400 [52] 540
+MnFeCoNiGa fec + bee [40] 2.676 (2.673) 2.715 [40] 2.695 (2.685) 2.654 [40] 77 567
+MnFeCoNiMo fee [47] 2.721 (2.717) 2.735 (2.731) 68 540
+FeCoNiCuMo fee [52] 2.731 (2.726) 2.736 (2.733) 328 657 [52] 508
+FeCoNiCuAg fee [52] 2.752 (2.750) 2.757 (2.756) 805 881
+FeCoNiCuPt fee [52] 2.748 (2.745) 2.757 (2.755) 837 864 [52] 879
+AISiFeCoNiCu fee + bee [45] 2.673 (2.666) 2.693 [45] 2.677 (2.672) 2.638 [45] 281 438
+AITiCrFeCoNi fee + bee [46] 2.721 (2.716) 2.718 (2.715) 93 264
+AITiFeCoNiCu fee + bee [45] 2.730 (2.724) 2.681 [45] 2.729 (2.723) 2.709 [45] 274 438
+AlCrFeCoNiCu fec + bee [45] 2.669 (2.661) 2.669 [45] 2.670 (2.665) 2.671 [45] 176 300
+TiCrMnFeCoNi fee + bee [53] 2.686 (2.677) 2.688 [53] 2.687 (2.678) 37 380
+VCrMnFeCoNi fee [53] 2.637 (2.637) 2.644 [53] 2.654 (2.645) 10 288
+CrMnFeCoNiCu fee [53] 2.652 (2.630) 2.651 [53] 2.656 (2.646) 124 371
+CrMnFeCoNiGe fee + bee [53] 2.679 (2.663) 2.644 [53] 2.682 (2.676) 97 346
+AISiCrFeCoNiCu fee + bee [34] 2.670 (2.664) 2.647 [34] 2.672 (2.668) 2.723 [34] 104 213
+the multicomponent nature of the HEAs. In order to foster an intelligent
+1200 & Tc tailoring in promising magnetocaloric and other magnetic high-en-
+¥ tropy alloys, here we put forward a systematic theoretical investigation
+— e for a large number of equiatomic system with solid solution phases.
+“ 900 =
+2 a aa tea 2. Theoretic methods
+6. 600 Reproted data (K)
+Q The Heisenberg model [24], in combination with the ab initio ex-
+m change interaction parameters and Monte-Carlo simulations, can pro-
+S 300 vide accurate magnetic transition temperatures for magnetic alloys in-
+SS cluding high-entropy alloys [17]. Alternatively, one can employ the
+BO mean-field approximation (MFA) and evaluate Tc from the ab initio
+
+Fig. 1. Theoretical Curie temperatures (T¢) calculated in the bec and fcc phases for sys-
+tems listed in Table 1. The inset shows the comparison of Tc between our results and the
+available experimental and theoretical data for system in the fcc phase.
+
+300
+
+600
+T., in the bec phase (K)
+
+900
+
+ 
+
+1200
+
+81
+
+energies according to 3kg7c¢ = 2(Epm — Egm)/(1 — c), where kg is the
+Boltzmann constant, c is the concentration of the nonmagnetic com-
+ponent, and Epy and Epy are the equilibrium total energies per atom for
+the paramagnetic (PM) and ferromagnetic (FM) states, respectively. The
+MFA was found to have the necessary accuracy and predictive power to
+reveal the magnetic properties for diluted magnetic semiconductors
+[25], as well as some HEAs [26]. Considering the documented success
+and high efficiency of the MFA, here we carry out the T; mapping of a
+large number of HEAs using this approach. However, we discuss and
+assess the MFA results for a few particular cases using the more ela-
+borated Heisenberg model. The total energy and exchange interaction
+S. Huang et al.
+
+18 —B—Fe-Fe —@—Cr-Mn
+—@— Fe-Cr —*— Co-Co
+—h— Fe-Co —@— Co-Ni
+—w— Fe-Ni —#— Co-Mn
+
+12 —¢-— Fe-Mn —@—Ni-Ni
+—>— Cr-Cr —&— Ni-Mn
+—@& Cr-Co —F Mn-Mn
+
+phase (11,,)
+
+9
+3
+5
+2
+=
+&
+
+ 
+
+Reduced exchange interaction (mRy)
+
+ 
+
+3 6 9
+
+pth coordination shell
+
+Fig. 2. The magnetic exchange interactions for different pair atoms in CrMnFeCoNi as a
+function of pth coordination shell. The inset shows the magnetic moments of each com-
+ponents for the fcc and bcc phases, respectively.
+
+ 
+
+ 
+
+480
+—
+5
+3 360 ©
+_ fo}
+z =
+ma Magnetic susceptibility (arb. units) =
+=
+wm
+Ss oan so
+2 ®
+Ss
+s ©
+N =i
+oO
+2 250 300 350 400 120 ~
+on Temperature (K) Ww
+S ~
+0
+
+0 100 200 300 400 fee bee
+
+Temperature (K) Crystal structure
+
+Fig. 3. Left panel: Theoretical magnetization versus temperature for CrMnFeCoNi in the
+fee and bec phases, respectively. The inset shows the magnetic susceptibility in the bcc
+phase. Results are obtained using Monte-Carlo (MC) simulations based on Heisenberg
+Hamiltonian and ab initio exchange interaction parameters. Right panel: Comparison of
+Curie temperature obtained via MFA and MC approaches for CrMnFeCoNi in the fee and
+bec phases, respectively.
+
+Table 2
+
+Intermetallics 95 (2018) 80-84
+
+calculations were carried out using density functional theory im-
+plemented in the framework of the exact muffin-tin orbital (EMTO)
+formalism [27,28]. The chemical and magnetic disorders in random
+system were treated within the coherent potential approximation (CPA)
+[29-31]. The exchange-correlation effects were taken into account
+within the generalized gradient approximation in the form of Perdew,
+Burke and Ernzerhof (PBE) [32]. The one-electron Kohn-Sham equa-
+tions were solved within the scalar-relativistic approximation and soft-
+core scheme. The paramagnetic state was simulated by the disordered
+local moments (DLM) approximation [33]. All calculations were per-
+formed for completely disordered solid solution and static lattice.
+
+3. Results and discussion
+
+Table 1 shows the basic properties of the selected equiatomic
+medium- and high-entropy alloys, including crystal structure, Wigner-
+Seitz radius, and Curie temperature. The majority of the selected alloys
+are based on the late 3d transition metals [1,18—21,26,34—-53]. Con-
+sidering the fact that many of the present alloys, especially the Al
+containing systems, possess a mixture of the fcc and bcc phases, in
+Table 1 we give the theoretical results for these two phases to bring to
+light the related properties as a function of crystal structure.
+
+In Table 1, we compare the theoretical Wigner-Seitz radius with the
+corresponding values converted from the available experimental lattice
+parameters. It is found that the two sets of data are in reasonable
+agreement with each other, and the relative deviation between theory
+and experiment is below ~ 2.5%. At the same time, in Fig. 1 (inset), we
+plot the calculated T, with reported values for some systems. As can be
+seen, the present theoretical work reproduces the trend shown in other
+studies, confirming the predictive power of our MFA-based approach.
+
+To illustrate and explore the alloying trends of the studied proper-
+ties, here we take FeCoNiCu (in the fcc phase) as a base alloy, and
+consider the equimolar V, Cr, Mn, Mo, Ag, and Pt additions. As shown
+in Table 1, the calculated equilibrium Wigner-Seitz radius for FeCoNiCu
+in ferromagnetic state is 2.641 bohr, which agrees well with the cor-
+responding experimental value of 2.648 bohr [41]. Alloying with Cr
+decreases the volume of the FeCoNiCu host, in line with the experi-
+mental observation [1,41]. In contrast, a volume increases is predicted
+when adding V, Mn, Mo, Ag, and Pt, which should partially be attrib-
+uted by the larger atomic radius of the considered elements as com-
+pared to that of Cr [54].
+
+The calculated Tc for FeCoNiCu is 796 K, which compares well with
+the previous theoretical value of 826 K [26]. A significant decrease in
+the Tc is revealed when adding equimolar V, Cr, and Mn to the host
+
+Prediction of Wigner-Seitz radius and Curie temperature for some equiatomic medium- and high-entropy alloys in the bec phase. The columns denoted as “average” list values obtained
+according to Vegard's law based on the experimental Wigner-Seitz radii of the alloy components.
+
+ 
+
+ 
+
+ 
+
+Alloy Wigner-Seitz radius (bohr) Curie temperature (K) Alloy Wigner-Seitz radius (bohr) Curie temperature (K)
+EMTO-CPA average EMTO-CPA average
+AlVCr 2.775 2.829 - AlVCrMn 2.717 2.797 -
+AIVMn 2.742 2.835 - AlVCrFe 2.723 (2.716) 2.789 119
+AlVFe 2.756 (2.747) 2.824 292 AlVMnFe 2.708 (2.701) 2.793 190
+AlCrMn 2.690 2.792 - AIVNbMo 2.947 2.951 -
+AlCrFe 2.704 (2.699) 2.781 288 AIVNbBW 2.959 2.953 -
+TiVNb 2.972 2.979 - AlCrMnFe 2.672 (2.667) 2.760 189
+TiVMo 2.909 2.931 - TiVCrMn 2.741 2.812 -
+TiCrMo 2.866 2.888 - TiVCrMo 2.848 2.870 -
+TiNbMo 3.003 3.017 - TiVNbMo 2.956 2.966 -
+VCrMn 2.668 2.732 - VCrMnFe 2.660 (2.656) 2.716 221
+VCrFe 2.678 (2.672) 2.721 253 VCrNbMo 2.881 2.874 -
+VMnFe 2.666 (2.658) 2.727 395 AITiVCrMn 2.776 2.848 -
+VNbMo 2.943 2.937 - AlVCrMnFe 2.692 (2.688) 2.771 102
+AITiVMn 2.813 2.889 - AlVCrNbW 2.905 2.899 -
+AITiVFe 2.821 (2.811) 2.881 181 AlVCrNbMoWw 2.911 2.904 -
+AITiCrMn 2.773 2.857 =
+S. Huang et al.
+
+composition. The main reason for this decrease is the appearance of the
+antiferromagnetic coupling between V/Cr/Mn moments and the Fe-Co-
+Ni matrix, as demonstrated below in the case of CrMnFeCoNi, and some
+other systems [17,20,55]. On the other hand, the addition of noble
+metals, i.e., Ag and Pt, is found to slightly increase the Tc. of the host
+alloy. It is of particular interest that in experiment, equimolar Pd ad-
+dition to CrFeCoNi increases the Tc from 130K to 440K [18,19]. Our
+data indicates a very similar trend for Pt-doped FeCoNiCu. From this
+point of view, alloying with noble metals is expected to be a promising
+route for fine Tc tuning.
+
+For system with fcc-bcc duplex phases considered here, Tc is pre-
+dicted to be larger in the bcc phase than in the fcc phase. Actually this
+trend is consistent with the previous work addressing the crystal
+structure dependence of the magnetic behavior for CrFeCoNiAl, HEAs
+[17]. Indeed, as shown in Fig. 1, the above crystal structure effect is
+found for most of the systems considered in this work. Here we would
+like to highlight a particularly interesting experimental fact which now
+gains theoretical support in the mirror of the present data. It is known
+that unusual properties can occur in HEAs when specified manu-
+facturing process is employed. The single-phase equiatomic CrMnFe-
+CoNi alloy [53], which crystallizes in an fcc lattice, is one of the well-
+studied examples. Experimental measurements indicate that the system
+is in a paramagnetic state down to a temperature of 93K (i.e., the
+magnetic transition temperature should be below 93 K) [56]. However,
+during mechanical alloying and spark plasma sintering process, in the
+fcc solid solution matrix a minority bcc phase formed. Measuring the
+magnetic hysteresis curves of these two-phase alloys at room tem-
+perature indicated that the as-milled powder possesses the character-
+istic feature of soft magnet [57], which is fully supported by the pre-
+sently predicted T, for the bcc phase.
+
+To understand the magnetic characteristics of CrMnFeCoNi and the
+strong crystal structure dependence, here we investigate the magnetic
+exchange interactions between alloy components. Fig. 2 shows the re-
+duced parameter Jj = ZpJjm;mj, where i and j are atomic indices, m; is
+the magnetic moment, Jy is the strength of the exchange interaction,
+and z, is the coordination number of the pth coordination shell. As
+indicated from Fig. 2, the dominating ferromagnetic interactions in the
+bcc phase are between the nearest-neighbor Fe-Fe, Fe-Co, Co-Co, and
+Co-Mn pairs, and the anti-ferromagnetic interactions between the
+nearest-neighbor Cr-Cr, Cr-Mn, and Mn-Mn pairs. We mention that Cr is
+anti-parallel with Mn (as shown in the inset of Fig. 2), thus the positive
+value of exchange parameter between Cr and Mn indicates an anti-
+ferromagnetic coupling. In the case of the fcc phase, the magnetic be-
+havior is mainly due the anti-ferromagnetic couplings between Fe-Mn
+and Mn-Mn at the nearest-neighbor distance. Hence, one would expect
+a weaker magnetic ordering tendency and a lower critical temperature
+for the fcc alloys compared to those for the bcc phase.
+
+Using the present exchange interaction parameters in the
+Heisenberg Hamiltonian, we performed Monte-Carlo simulations for
+both fec and bec lattices [17,58]. Fig. 3 shows the temperature de-
+pendent magnetization and magnetic susceptibility. It is found that the
+Tc of CrMnFeCoNi is 10 + 10K for the fcc phase and 340 + 10K for
+the bcc phase. We recall that the Tc calculated via MFA for this system
+in the fec and bcc phases are 27 K and 397K, respectively. The good
+agreement between these two approaches gives a strong support for our
+Tc maps presented in Table 1 (also Table 2). We emphasize the large
+structural factor for the Tc. Besides explaining the experimental ob-
+servation, the strong structure dependence of the magnetic order opens
+new opportunities for further magnetocaloric applications.
+
+Senkov et al. evaluated thousands of equimolar alloy compositions
+for potential high-temperature applications by combining calculated
+phase diagrams with simple empirical rules [59]. Based on that work,
+we expand our study to some promising candidate compositions, as
+listed in Table 2, which are suggested to possess single bec phase at
+873 K. Taking AIVCrNbMoW as an example, the Wigner-Seize radius is
+2.904 bohr as determined from Vegard's rule using the experimental
+
+Intermetallics 95 (2018) 80-84
+
+volumes of the alloy components [28,60]. This estimated value is close
+to the EMTO-CPA result of 2.911 bohr. The detailed comparison of the
+two sets of data is presented in Table 2. As can be seen, there is a
+general good agreement between these two theoretical predictions.
+
+To provide insight for selecting possible magnetic materials, Tc is
+also shown in Table 2. It is immediately clear that many of the selected
+system are nonmagnetic, while others, e.g., the Fe containing systems,
+show relatively low Tc. This is not surprising as most of them contain a
+large amount of nonmagnetic elements such as Al, Ti, Nb, Mo, and W,
+which dilutes the ferromagnetic component of Fe. We notice that the
+present data can be used as a guide to adjust the alloy compositions to a
+target Tc. For example, the predicted T, for VMnFe and VCrMnFe are
+395 K and 221K, respectively. From linear combination we get 308 K
+for VCro.,;MnFe, which is surprisingly close to 292 K obtained from di-
+rect MFA calculation. In addition, high Tc is expected for low Cr con-
+centration, which is line with the experimental observation for
+Cr,FeCoNi system [18].
+
+4. Conclusions
+
+In summary, we put forward a systematic study of the Curie tem-
+perature for a number of equiatomic medium- and high-entropy alloys
+using first-principle theory. Solid solution phases with fec and/or bec
+underlying lattices are considered. Our results are in line with the
+available theoretical and experimental data. The analysis of alloying
+addition on the Curie temperature, as well as the application of linear
+rule of mixture employing base HEAs, are helpful to identify promising
+magnetic compositions. Furthermore, the fact that certain HEAs have
+drastically different ordering temperature for the bcc and fcc crystal
+structures, offers a way to identify alloys with a very sharp change in
+the magnetic properties close to a structural phase transition. Exploring
+various means to tune this coupled structural-magnetic transition to the
+desired temperature range will open new ways for designing materials
+with great potential in magnetic refrigeration applications.
+
+Acknowledgements
+
+Work supported by the Swedish Research Council, the Swedish
+Foundation for Strategic Research, the Swedish Foundation for
+International Cooperation in Research and Higher Education, the Carl
+Tryggers Foundation, the Sweden's Innovation Agency (VINNOVA
+Grant No. 2014-03374), the Swedish Energy Agency, the China
+Scholarship Council, and the Hungarian Scientific Research Fund
+(OTKA 109570). We acknowledge the Swedish National Supercomputer
+Centre in Linképing and Stockholm for computer resources.
+
+References
+
+[1] J.W. Yeh, S.K. Chen, S.J. Lin, J.Y. Gan, T.S. Chin, T.T. Shun, C.H. Tsau, S.Y. Chang,
+Nanostructured high-entropy alloys with multiple principal elements: novel alloy
+design concepts and outcomes, Adv. Eng. Mater. 6 (2004) 299-303.
+
+[2] Y. Zhang, T.T. Zuo, Z. Tang, M.C. Gao, K.A. Dahmen, P.K. Liaw, Z.P. Lu,
+Microstructures and properties of high-entropy alloys, Prog. Mater. Sci. 61 (2014)
+1-93.
+
+[3] Y.F. Ye, Q. Wang, J. Lu, C.T. Liu, Y. Yang, High-entropy alloy: challenges and
+prospects, Mater. Today 19 (2016) 349-362.
+
+[4] D.B. Miracle, O.N. Senkov, A critical review of high entropy alloys and related
+concepts, Acta Mater. 122 (2017) 448-511.
+
+[5] Y. Dong, K. Zhou, Y. Lu, X. Gao, T. Wang, T. Li, Effect of vanadium addition on the
+microstructure and properties of AlCoCrFeNi high entropy alloy, Mater. Des. 57
+(2014) 67-72.
+
+[6] Y.J. Zhao, J.W. Qiao, S.G. Ma, M.C. Gao, H.J. Yang, M.W. Chen, Y. Zhang, A hex-
+agonal close-packed high-entropy alloy: the effect of entropy, Mater. Des. 96 (2016)
+10-15.
+
+[7] M.H. Tsai, J.W. Yeh, High-entropy alloys: a critical review, Mater. Res. Lett. 2
+(2014) 107-123.
+
+[8] M.C. Gao, J.W. Yeh, P.K. Liaw, Y. Zhang, High-entropy Alloys: Fundamentals and
+Applications, Springer, Switzerland, 2016.
+
+[9] O.N. Senkov, G.B. Wilks, D.B. Miracle, C.P. Chuang, P.K. Liaw, Refractory high-
+entropy alloys, Intermetallics 18 (2010) 1758-1765.
+
+[10] B. Gludovatz, A. Hohenwarter, D. Catoor, E.H. Chang, E.P. George, R.O. Ritchie, A
+S. Huang et al.
+
+{11]
+
+[12]
+
+[13]
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+[28]
+[29]
+[30]
+[31]
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+fracture-resistant high-entropy alloy for cryogenic applications, Science 345 (2014)
+1153-1158.
+
+M.A. Hemphill, T. Yuan, G.Y. Wang, J.W. Yeh, C.W. Tsai, A. Chuang, P.K. Liaw,
+Fatigue behavior of Alp sCoCrCuFeNi high entropy alloys, Acta Mater. 60 (2012)
+5723-5734.
+
+P. KoZelj, S. Vrtnik, A. Jelen, S. Jazbec, Z. Jagli¢i¢, S. Maiti, M. Feuerbacher,
+
+W. Steurer, J. DolinSek, Discovery of a superconducting high-entropy alloy, Phys.
+Rev. Lett. 113 (2014) 107001.
+
+K.A. Gschneidner Jr., V.K. Pecharsky, A.O. Tsokol, Recent developments in mag-
+netocaloric materials, Rep. Prog. Phys. 68 (2005) 1479.
+
+D.D. Belyea, M.S. Lucas, E. Michel, J. Horwath, C.W. Miller, Tunable magnetoca-
+loric effect in transition metal alloys, Sci. Rep. 5 (2015) 15755.
+
+Y. Yuan, Y. Wu, X. Tong, H. Zhang, H. Wang, X.J. Liu, L. Ma, H.L. Suo, Z.P. Lu, Rare-
+earth high-entropy alloys with giant magnetocaloric effect, Acta Mater. 125 (2017)
+481-489.
+
+Y.F. Kao, S.K. Chen, T.J. Chen, P.C. Chu, J.W. Yeh, S.J. Lin, Electrical, magnetic,
+and Hall properties of AlxCoCrFeNi high-entropy alloys, J. Alloy. Comp. 509 (2011)
+1607-1614.
+
+S. Huang, W. Li, X. Li, S. Schonecker, L. Bergqvist, E. Holmstrom, L.K. Varga,
+
+L. Vitos, Mechanism of magnetic transition in FeCrCoNi-based high entropy alloys,
+Mater. Des. 103 (2016) 71-74.
+
+M.S. Lucas, D. Belyea, C. Bauer, N. Bryant, E. Michel, Z. Turgut, S.O. Leontsev,
+
+J. Horwath, S.L. Semiatin, M.E. McHenry, C.W. Miller, Thermomagnetic analysis of
+FeCoCrxNi alloys: magnetic entropy of high-entropy alloys, J. Appl. Phys. 113
+(2013) 17A923.
+
+M.S. Lucas, L. Mauger, J.A. Mufioz, Y. Xiao, A.O. Sheets, S.L. Semiatin, J. Horwath,
+Z. Turgut, Magnetic and vibrational properties of high-entropy alloys, J. Appl. Phys.
+109 (2011) 07E307.
+
+C. Niu, A.J. Zaddach, A.A. Oni, X. Sang, J.W. Hurt, J.M. LeBeau, C.C. Koch,
+
+D.L. Irving, Spin-driven ordering of Cr in the equiatomic high entropy alloy
+NiFeCrCo, Appl. Phys. Lett. 106 (2015) 161906.
+
+H.P. Chou, Y.S. Chang, S.K. Chen, J.W. Yeh, Microstructure, thermophysical and
+electrical properties in AlxCoCrFeNi (0<x<2) high-entropy alloys, Mater. Sci.
+Eng., B 163 (2009) 184-189.
+
+Y.F. Kao, T.J. Chen, S.K. Chen, J.W. Yeh, Microstructure and mechanical property of
+as-cast, -homogenized, and -deformed AlxCoCrFeNi (0 <x <2) high-entropy alloys,
+J. Alloy. Comp. 488 (2009) 57-64.
+
+W.R. Wang, W.L. Wang, S.C. Wang, Y.C. Tsai, C.H. Lai, J.W. Yeh, Effects of Al
+addition on the microstructure and mechanical property of AlxCoCrFeNi high-en-
+tropy alloys, Intermetallics 26 (2012) 44-51.
+
+K. Sato, L. Bergqvist, J. Kudrnovsky, P.H. Dederichs, O. Eriksson, I. Turek,
+
+B. Sanyal, G. Bouzerar, H. Katayama-Yoshida, V.A. Dinh, T. Fukushima, H. Kizaki,
+R. Zeller, First-principles theory of dilute magnetic semiconductors, Rev. Mod.
+Phys. 82 (2010) 1633-1690.
+
+L. Bergqvist, O. Eriksson, J. Kudrnovsky, V. Drchal, P. Korzhavyi, I. Turek, Magnetic
+percolation in diluted magnetic semiconductors, Phys. Rev. Lett. 93 (2004) 137202.
+F. Kormann, D. Ma, D.D. Belyea, M.S. Lucas, C.W. Miller, B. Grabowski,
+
+M.H.F. Sluiter, “Treasure maps” for magnetic high-entropy-alloys from theory and
+experiment, Appl. Phys. Lett. 107 (2015) 142404.
+
+L. Vitos, Total-energy method based on the exact muffin-tin orbitals theory, Phys.
+Rev. B 64 (2001) 014107.
+
+L. Vitos, Computational Quantum Mechanics for Materials Engineers, Springer,
+London, 2007.
+
+P. Soven, Coherent-potential model of substitutional disordered alloys, Phys. Rev.
+156 (1967) 809-813.
+
+B.L. Gy6rffy, Coherent-potential approximation for a nonoverlapping-muffin-tin-
+potential model of random substitutional alloys, Phys. Rev. B 5 (1972) 2382-2384.
+L. Vitos, I.A. Abrikosov, B. Johansson, Anisotropic lattice distortions in random
+alloys from first-principles theory, Phys. Rev. Lett. 87 (2001) 156401.
+
+J.P. Perdew, K. Burke, M. Ernzerhof, Generalized gradient approximation made
+simple, Phys. Rev. Lett. 77 (1996) 3865-3868.
+
+B.L. Gy6rffy, A.J. Pindor, J. Staunton, G.M. Stocks, H. Winter, A first-principles
+theory of ferromagnetic phase transitions in metals, J. Phys. F Met. Phys. 15 (1985)
+1337-1386.
+
+J.W. Yeh, S.Y. Chang, Y.D. Hong, S.K. Chen, S.J. Lin, Anomalous decrease in X-ray
+diffraction intensities of Cu-Ni-Al-Co-Cr-Fe-Si alloy systems with multi-principal
+elements, Mater. Chem. Phys. 103 (2007) 41-46.
+
+Z. Wu, H. Bei, F. Otto, G.M. Pharr, E.P. George, Recovery, recrystallization, grain
+growth and phase stability of a family of FCC-structured multi-component equia-
+tomic solid solution alloys, Intermetallics 46 (2014) 131-140.
+
+B.C. Sales, K. Jin, H. Bei, G.M. Stocks, G.D. Samolyuk, A.F. May, M.A. McGuire,
+
+84
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+[49]
+
+[50]
+
+(51]
+
+[52]
+
+[53]
+[54]
+
+[55]
+
+[56]
+
+[57]
+
+[58]
+
+[59]
+
+[60]
+
+Intermetallics 95 (2018) 80-84
+
+Quantum critical behavior in a concentrated ternary solid solution, Sci. Rep. 6
+(2016) 26179.
+
+T.T. Zuo, R.B. Li, X.J. Ren, Y. Zhang, Effects of Al and Si addition on the structure
+and properties of CoFeNi equal atomic ratio alloy, J. Magn. Magn Mater. 371 (2014)
+60-68.
+
+K. Jin, S. Mu, K. An, W.D. Porter, G.D. Samolyuk, G.M. Stocks, H. Bei,
+Thermophysical properties of Ni-containing single-phase concentrated solid solu-
+tion alloys, Mater. Des. 117 (2017) 185-192.
+
+J. Guo, X. Huang, W. Huang, Microstructure and room-temperature mechanical
+properties of FeCrMoVTix high-entropy alloys, J. Mater. Eng. Perform. 26 (2017)
+3071-3078.
+
+T. Zuo, M.C. Gao, L. Ouyang, X. Yang, Y. Cheng, R. Feng, S. Chen, P.K. Liaw,
+
+J.A. Hawk, Y. Zhang, Tailoring magnetic behavior of CoFeMnNixX (X = Al, Cr, Ga,
+and Sn) high entropy alloys by metal doping, Acta Mater. 130 (2017) 10-18.
+
+L. Liu, J.B. Zhu, C. Zhang, J.C. Li, Q. Jiang, Microstructure and the properties of
+FeCoCuNiSnx high entropy alloys, Mater. Sci. Eng. A 548 (2012) 64-68.
+
+S. Jiang, D. Sun, Y. Zhang, S. Wang, C. Zhao, Plastic deformation mechanisms of
+equiatomic NigoTigoFe2oAl2oCuzo high-entropy alloy at high temperatures, J. Mater.
+Sci. 52 (2017) 3199-3207.
+
+A. Marshal, K.G. Pradeep, D. Music, S. Zaefferer, P.S. De, J.M. Schneider,
+Combinatorial synthesis of high entropy alloys: introduction of a novel, single
+phase, body-centered-cubic FeMnCoCrAl solid solution, J. Alloy. Comp. 691 (2017)
+683-689.
+
+C. Li, J.C. Li, M. Zhao, Q. Jiang, Effect of alloying elements on microstructure and
+properties of multiprincipal elements high-entropy alloys, J. Alloy. Comp. 475
+(2009) 752-757.
+
+Y.X. Zhuang, W.J. Liu, Z.Y. Chen, H.D. Xue, J.C. He, Effect of elemental interaction
+on microstructure and mechanical properties of FeCoNiCuAl alloys, Mater. Sci. Eng.
+A 556 (2012) 395-399.
+
+K.B. Zhang, Z.Y. Fu, J.Y. Zhang, W.M. Wang, H. Wang, Y.C. Wang, Q.J. Zhang,
+
+J. Shi, Microstructure and mechanical properties of CoCrFeNiTiAlx high-entropy
+alloys, Mater. Sci. Eng. A 508 (2009) 214-219.
+
+F. Otto, Y. Yang, H. Bei, E.P. George, Relative effects of enthalpy and entropy on the
+phase stability of equiatomic high-entropy alloys, Acta Mater. 61 (2013)
+2628-2638.
+
+Y. Zhang, Y.J. Zhou, J.P. Lin, G.L. Chen, P.K. Liaw, Solid-solution phase formation
+rules for multi-component alloys, Adv. Eng. Mater. 10 (2008) 534-538.
+
+G. Laplanche, P. Gadaud, O. Horst, F. Otto, G. Eggeler, E.P. George, Temperature
+dependencies of the elastic moduli and thermal expansion coefficient of an equia-
+tomic, single-phase CoCrFeMnNi high-entropy alloy, J. Alloy. Comp. 623 (2015)
+348-353.
+
+D. Ma, B. Grabowski, F. Kormann, J. Neugebauer, D. Raabe, Ab initio thermo-
+dynamics of the CoCrFeMnNi high entropy alloy: importance of entropy contribu-
+tions beyond the configurational one, Acta Mater. 100 (2015) 90-97.
+
+X.F. Wang, Y. Zhang, Y. Qiao, G.L. Chen, Novel microstructure and properties of
+multicomponent CoCrCuFeNiTix alloys, Intermetallics 15 (2007) 357-362.
+
+M. Kurniawan, A. Perrin, P. Xu, V. Keylin, M. McHenry, Curie temperature en-
+gineering in high entropy alloys for magnetocaloric applications, IEEE Magn. Lett. 7
+(2016) 1-5.
+
+B. Cantor, I.T.H. Chang, P. Knight, A.J.B. Vincent, Microstructural development in
+equiatomic multicomponent alloys, Mater. Sci. Eng. A 375-377 (2004) 213-218.
+S. Guo, C.T. Liu, Phase stability in high entropy alloys: formation of solid-solution
+phase or amorphous phase, Prog. Nat. Sci. Mater. Int 21 (2011) 433-446.
+
+S. Huang, A. Vida, D. Molnar, K. Kadas, L.K. Varga, E. Holmstr6m, L. Vitos, Phase
+stability and magnetic behavior of FeCrCoNiGe high-entropy alloy, Appl. Phys. Lett.
+107 (2015) 251906.
+
+O. Schneeweiss, M. Fridk, M. Dudovd, D. Holec, M. Sob, D. Kriegner, V. Holy,
+
+P. Beran, E.P. George, J. Neugebauer, A. Dlouhy, Magnetic properties of the
+CrMnFeCoNi high-entropy alloy, Phys. Rev. B 96 (2017) 014437.
+
+W. Ji, W. Wang, H. Wang, J. Zhang, Y. Wang, F. Zhang, Z. Fu, Alloying behavior and
+novel properties of CoCrFeNiMn high-entropy alloy fabricated by mechanical al-
+loying and spark plasma sintering, Intermetallics 56 (2015) 24-27.
+
+B. Skubic, J. Hellsvik, L. Nordstrém, O. Eriksson, A method for atomistic spin dy-
+namics simulations: implementation and examples, J. Phys. Condens. Matter 20
+(2008) 315203.
+
+O.N. Senkov, J.D. Miller, D.B. Miracle, C. Woodward, Accelerated exploration of
+multi-principal element alloys with solid solution phases, Nat. Commun. 6 (2015)
+6529.
+
+K.A. Gschneidner, Physical properties and interrelationships of metallic and semi-
+metallic elements, Solid State Phys. 16 (1964) 275-426.
+

@@ -1,0 +1,1098 @@
+High-entropy alloy CoCrFeNiMn was produced by short high energy ball milling (90 min) and spark
+plasma sintering (10 min at 1073 K). Co-existence of two fcc-phases with lattice parameters 0.360 nm
+and 0.356 nm was demonstrated via HRTEM, XRD and other methods. The matrix fcc-phase with larger
+parameter transforms into the more compact phase during annealing up to 1273K. Similar trans-
+formation partially occurs after SPS. Some elements, mostly Cr and Mn, released from the matrix phase
+
+and formed precipitates. Up to three types of precipitates, with characteristic size from 10-30 nm to 200
+—300 nm, have been detected and studied. Electric and thermal properties of the material, measured at
+room and elevated temperature, shown that lattice thermal conductivity plays an important role, along
+with free electron thermal conductivity.
+
+© 2019 Elsevier B.V. All rights reserved.
+
+ 
+
+1. Introduction
+
+Multicomponent composition CoCrFeMnNi, often referred to as
+“Cantor Alloy”, was the first equiatomic material [1] that delineated
+the new concept of high-entropy alloys (HEA) [2—4]. This five-
+elements composition persists to be in the focus of research
+works during last 15 years and became, perhaps, the most thor-
+oughly studied system among dozens of HEAs [5,6]. Special interest
+in CoCrFeNiMn — based materials is due to their outstanding
+combination of properties, such as exceptional damage tolerance
+and fracture resistance, especially at cryogenic temperatures [7,8];
+high tensile strenght and ductility [9—12]; superplasticity [13];
+high hardness and strength [11,14,15]. Basic sub-alloys of this qui-
+nary HEA system also possess attractive properties: a medium-
+
+* Corresponding author. Mezhanov Institute of Structural Macrokinetics and
+materials Science Russian Academy of Sciences, Chernogolovka, Russia.
+
+E-mail addresses: rogachev@ism.ac.ru (A.S. Rogachev), vadchenko@ism.ac.ru
+(S.G. Vadchenko), kolyan_kochetov@mail.ru (N.A. Kochetov), Sergei.Rouvimov.1@
+nd.edu (S. Rouvimov), kovalev@ism.ac.ru (D.Yu Kovalev), shchukin@ism.ac.ru
+(A.S. Shchukin), mos@misis.ru (D.O. Moskovskikh), anepapushev@gmail.com
+(A.A. Nepapushev), amoukasi@nd.edu (A.S. Mukasyan).
+
+https://doi.org/10.1016/j.jallcom.2019.07.195
+0925-8388/© 2019 Elsevier B.V. All rights reserved.
+
+entropy alloy CoCrNi has exceptional damage tolerance at cryo-
+genic temperatures [16], and nanocrystalline CoCrFeNi alloy dem-
+onstrates exceptional resistance to grain growth [17].
+
+Along the accepted classification the CoCrFeNiMn belongs to a
+family of 3d transition metal HEAs with composition CoCrFeNix,
+where X = Al, Ti, Cu, V, or Mn [5,6,18—20]. This family is based on
+the face-centered cubic (fcc) solid solution CoCrFeNi, which was
+commonly considered to be a thermally stable single phase
+[21—25]. However, recently the CoCrFeNi phase was reported to be
+thermally metastable at 1023 K [26]. After extensive annealing
+(800h), tiny precipitates (fringes), a few nanometers long and
+about 0.1—0.3nm thick, were found in the HEA matrix. These
+fringes, detected by TEM analysis, have the same fcc crystal struc-
+ture as the matrix, but with a slightly different lattice parameter:
+0.355 nm for the fringe, 0.366 nm for matrix [26]. Existence of two
+fcc phases with a lattice constant difference of 0.0001 nm was also
+reported for the as-casted CoCrFeNi alloy [27]. The fringes were
+hypothetically attributed to, so-called, Guinier—Preston (GP) zones
+that precede phase decomposition and formation of stable pre-
+cipitates in aging alloys, but the chemical composition of the fringes
+was not determined.
+
+Addition of a fifth alloying element with larger atomic radius
+1238 A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245
+
+greatly accelerates the decomposition process. For example, when
+Al is added, Cr-rich precipitates typically form [26]. Since the radius
+of an Mn atom (0.137 nm) is close to that for Al (0.143 nm) and
+notably larger than the radii of the other four elements
+(0.124—0.125 nm), we may expect similar behavior for the CoCr-
+FeNiMn alloy. For a long time, this HEA composition was considered
+to be thermally stable: for example, after annealing at 1273 K for 3
+days this alloy, according to XRD and SEM data, remained as a
+single-phase material [28]. However, during the last few years, the
+stability of this phase was disputed in several works [29—32]. First,
+some Cr-rich precipitates were observed along grain boundaries in
+the arc melted HEA after tensile tests at 1073K (strain rate
+2.56+10 © s_!) [29]. In addition, several new nano-scale phases
+were found after 5 min annealing at 723 K, of the originally single-
+phase HEA, obtained by arc melting, drop casting and severe plastic
+deformation. Specifically, a NiMn phase and a Cr-rich phases
+formed and their volume fractions increased with increasing
+annealing time. In addition, a third FeCo phase precipitated after
+1h of such heat treatment [30]. Two types of precipitates were
+observed after long-term (1000h) heat treatment of the alloy at
+1073 K, without application of any load [31]. The first type was a Cr-
+rich fcc phase, with a lattice parameter 1.06 nm, which corresponds
+to a Mj3Cg phase and was explained as contamination of melting
+equipment and initial powders with carbon. The second precipi-
+tated phase contained even more Cr, along with Mn, Fe and Co. This
+phase was found to be tetragonal, with lattice parameters of a
+=0.88 nm and c ~ 0.45 nm, which is consistent with the o phase
+[31]. Annealing for 500 days at 773—1173 K revealed both stable
+and unstable behavior at certain conditions [32]. It was shown that
+the alloy was a single-phase solid solution after homogenization for
+2 days at 1473K and remained in this state after a subsequent
+anneal at 1173 K for 500 days. However, a Cr-rich o phase formed at
+973 K, whereas three different phases (L10-NiMn, B2-FeCo, and a
+Cr-rich bcc phase) precipitated at 773 K [32]. Despite significant
+differences in the results obtained, all these works led to conclusion
+that CoCrFeNiMn can no longer be considered to be a thermody-
+namically stable single phase [31]. Contradictory reports can be
+found concerning the influence of precipitates on mechanical
+properties. On the one hand, the formation of Mn- and Cr-enriched
+precipitates weakens the mechanical strength of the CoCrFeNiMn
+HEA at elevated temperatures [29]. On the other hand, it was
+shown that nanostructured multiphase microstructure, consisting
+of MnNi, Cr-rich, and Fe-Co phases embedded in the HEA matrix,
+causes the hardening effect [30]. The precipitation hardening and
+strengthening were also reported for the fcc-HEA CoCrFeNi matrix,
+due to the formation of a nanosized coherent reinforcing phase L12-
+Ni3(Ti,Al) [33].
+
+The most common method for fabrication of CoCrFeNiMn alloy
+is an arc melting approach [29,31,32,34], that is often combined
+with subsequent hot rolling [9], cold rolling [10,35] or high-
+pressure torsion [30] of the ingots. Annealing is usually applied to
+as-cast and deformed materials. Alternative methods are: induc-
+tion melting, plasma spray and laser cladding [36,37], mechanical
+alloying in a high-energy ball mill (HEBM), as well as the recently
+developed method of mechanical alloying by means of high-
+pressure torsion of a five-element mixture of fine metal powders
+[11]. Comparison of the arc-melted as-casted HEA with those, ob-
+tained via HEBM and consolidated by spark plasma sintering (SPS),
+have shown that the as-cast alloy had a much coarser microstruc-
+ture, while mechanical properties were comparable [14]. Thus, the
+combination of HEBM + SPS may become one of the most efficient
+methods for fabrication of bulk HEA materials. Since SPS involves
+heat treatment at elevated temperature, questions concerning
+possible decomposition of HEAs and nature of the formed precip-
+itate phases are of great importance. Also, it is worth noting that the
+
+structure and properties of the CoCrFeNiMn HEA have been mostly
+studied for samples produced by melting.
+
+In our previous work, we reported that single-phase CoCrFe-
+NiMn with an fcc structure (according to XRD and SEM) can be
+produced during 90 min of HEBM and consolidated by SPS [38].
+Here we report the results on the fine structure, local composition,
+and the properties of dense bulk material on the base of CoCrFe-
+NiMn HEA produced by combination of HEBM + SPS methods.
+
+2. Materials and methods
+
+Metal powders of Co (purity >99.35%, particles size, d < 71 um),
+Cr (>98.5%, d<125 um), Fe (>97%, size range 1.5—3.5 1m), Ni
+(>99.5%, d~30 um) and Mn (>99.7%, d < 400 um) were mixed in a
+mortar, in equimolar ratio. Then the mixture (10 g) was placed in a
+steel jar of a water-cooling planetary ball mill AGO-2 (ISSC SB RAS,
+Russia) together with steel balls (200 g, diameter 9 mm). Mechan-
+ical alloying was performed in air atmosphere, at rotating rate of
+the mill 912 rpm (jar rotated at 2220 rpm) for 5—120 min. It was
+shown that the single-phase CoCrFeNiMn with fcc structure formed
+after 90 min, hence all further investigated samples were prepared
+using 90 min of HEBM. It is critical to note that the powders milled
+for 15min or longer became pyrophoric, that is fresh as-milled
+powders could self-ignite after opening the jar. To avoid this, the
+powders were kept in a closed jar during 24h for natural passiv-
+ation. The obtained powders were consolidated by means of SPS,
+using a Labox 650 (SinterLand, Japan). The powder was placed in a
+graphite press-die, heated in vacuum (15—20 Pa) at a rate of 100 K/s
+up to 1073 K and sintered at this temperature for 10 min under
+uniaxial loading (50 MPa). Disc-shaped samples of 30mm in
+diameter and 5—6 mm thick were cut and polished for further tests.
+
+The X-ray diffraction analysis of powders and sintered materials
+was performed with a DRON-3M diffractometer (Russia). In addi-
+tion to Cu-K, radiation (wavelength }=0.15419 nm), for better
+resolution we also used Fe-K, (A=0.19374nm) and Cr-K,
+(A = 0.22910 nm) radiation. High-temperature XRD measurements
+were made in vacuum 10~?Pa, within the temperature range
+298—1273K using an ARL'XTRA diffractometer with high-
+temperature accessory HTK2000 “Anton Paar” (Switzerland). A
+crystal lattice distortion was determined by means of PDWin 6.0
+software that used the method of second moments; instrumental
+lines broadening was determined with an LaBg standard (SRM
+660b). The SEM and EDS studies were made using a Zeiss Ultra Plus
+field-emission scanning electron microscope (Carl Zeiss, Germany),
+equipped with an energy dispersive spectrometer INCA Energy 350
+XT (Oxford Instruments, UK). Thin samples for TEM and STEM were
+prepared by means of a focused ion beam equipped Nanolab 6000
+Helios Dual SEM/FIB (FEI, USA). For high resolution TEM and STEM
+we used a TITAN 800-300 TEM (FEI, USA) and a Thermis Z TEM
+equipped with DCOR + probe aberration corrector, monochromator
+and Super-X EDS technology (Thermo Fisher Scientific, USA).
+
+Electrical resistivity was measured by a 4-point method with
+15 x 2.8 x 0.88 mm plates cut from the sintered samples; thermal
+conductivity — by the flash-method using NanoFlash Netzsch LFA
+447 (Germany); specific heat capacity was evaluated using a dif-
+ferential scanning calorimeter Mettler Toledo DSC-3. The Young
+modulus was measured by an ultrasound method; and micro-
+hardness with a PMT3 tester (Russia) at loading 50 g. The bending
+strength was measured by 3-point method with Instron testing
+machine.
+
+3. Results
+
+The XRD patterns for the initial powder mixture, after 60 and
+90 min of HEBM and of the sintered alloy are shown in Fig. 1. It can
+A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245 1239
+
+ 
+
+ 
+
+© fec HEA phase
+| V fcc-Ni solid solution
+
+ 
+
+ 
+
+ 
+
+| (200)
+3 © (220)
+rs | | °
+= Bline J, 90 min HEBM + SPS
+2 ° 90 min HEBM__2
+2 \
+Cc
+
+\re (110), Ni (111), Cr (110)
+Mn (221) I (311), Mn (311) Fe (200), Cr (200)
+
+meth nt! Nel reser aL ES
+
+30 35 40 45 50 55 60 65 70 75 80 85 90 95 100
+
+ 
+
+20, degree
+
+Fig. 1. Evolution of XRD patterns from initial mixture to consolidated material. Ob-
+tained with Fe-K, radiation for better angle resolution.
+
+be seen that the intensities of diffraction peaks of the initial metals
+gradually decreased with increasing duration of HEBM. After
+60 min, the peaks of Co, Cr, Fe and Mn diminished to essentially
+background levels. The noticeable peaks belong to an fcc-phase
+with a lattice parameter a = 0.3526 nm, which is close to the lat-
+tice parameter of fcc-Ni (0.3524 nm, PDF card 000-04-0850). After
+90 min of HEBM we observed sharp shifting of the XRD peaks to-
+ward smaller angles, manifesting formation of a phase with
+a=0.3604 nm. After SPS, the fcc structure remained, diffraction
+peaks intensities increased, and the lattice parameter decreased to
+0.3565 nm. Thus, we may conclude that after 60 min of HEBM the
+first fcc-phase forms as a solid solution of all metal components in
+the fcc-Ni, and after 90 min of mechanical treatment, this phase
+transforms into an HEA phase.
+
+The mechanically alloyed powder was heated up to 1273 K with
+simultaneous XRD analysis, in order to study the thermal stability
+of the HEA phase. Evolution of XRD patterns, presented in Fig. 2,
+
+ 
+
+298 K (after
+
+Ss annealing)
+©
+2
+@
+c 1273 K
+£
+=
+1073 K
+873 K
+
+298 K (before
+
+annealing
+
+42 44. 46 48 50 52 54
+
+ 
+
+20, degree
+
+Fig. 2. High-temperature XRD patterns of the HEA powder (90min HEBM; Cu-K,
+radiation).
+
+shows that the fcc structure remains during the heating up and
+cooling down. We did not observe any new phase or splitting of the
+diffraction peaks. However, the crystal lattice parameter changes
+during heat treatment (Fig. 3). Heating was carried out in a step-
+like manner with isothermal stages at 873, 1073, and 1273K.
+Three sequential XRD patterns were acquired during each
+isothermal exposure and lattice parameters (a) and lattice distor-
+tion (5) were determined from each pattern. It can be seen that the
+lattice parameter, a, increases with increasing temperature, but
+slightly decreases during isothermal stages. Increase of a occurs
+due to thermal expansion of the lattice, while its decrease may be
+explained by ordering and closer packing of atoms in crystal
+structure during annealing at constant temperature. The ordering
+effect is evident from the narrowing and growth of diffraction
+peaks (Fig. 2). Continuous decrease of lattice distortion may also be
+related to the relaxation of the crystal structure (Fig. 3). The
+structure shrinking effect diminished at 1273 kK, hence we may
+assume that the lattice parameter reaches its equilibrium value at
+that temperature. The value of a before annealing was equal to
+0.3595 nm, after annealing and cooling it decreased to 0.3565 nm.
+The thermal expansion coefficient was evaluated as 12-10~° 1/K in
+the beginning (heating from 298 to 873 K) and 15-10-© 1/K in the
+end of the experiment (cooling from 1273 to 298 K).
+
+Morphology of the powder mixture undergoes significant
+changes in the process of HEBM (Fig. 4). Initial powders of very
+different sizes and shapes (Fig. 4,a) cold-welded into relatively large
+uniform particles with spongy surface after 60 min of treatment
+(Fig. 4,b). This powder, in turn, transformed into fragmented
+irregular particles after 90 min of HEBM (Fig. 4,c). TEM analysis of
+such particles, including the obtained electron diffraction patterns
+(EDP), shows that they primarily consist of nano-scale crystals of
+the fcc-phase with a = 0.36 nm (see Fig. 5,a and Table 1). Thorough
+analysis of HRTEM images reveals the existence of nano-crystallites
+with two slightly different d-spacings, 0.206 nm and 0.208 nm, as
+well some amorphous regions and distortions of the atomic planes
+(Fig. 6). In addition, some rounded precipitates, about 5—15 nm in
+diameter, were found with high resolution STEM (insert in Fig. 7,a).
+EDS analysis along the scan line is also presented in Fig. 7a. It can be
+seen that these precipitates are enriched with Cr (up to ~ 60 at.%)
+and depleted of all other components (below 10 at.%). Notable
+fluctuations of the EDS-determined local chemical composition can
+be observed in the matrix phase (Fig. 7a), i.e. the concentrations of
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TK 9
+
+2000 5, ae 4 TM
+l L 0,362
+L 0,8
+L0,7 + 0,361
+Loe |
+L + 0,360
+LO,5 +
+r L 0,359
+L 0,4
+L 0,3 + 0,358
+Lo,2 |
+L L 0,357
++0,1 -
+l L 0,356
+L 0,0
+
+qT CT CT : -0,1 4 0,355
+0) 50 100 150 200 250
+Time, min
+
+Fig. 3. (color online) Results of the high-temperature XRD experiments: temperature-
+time regime (T), crystal lattice distortion (5, %) and lattice parameter (a, nm). (For
+interpretation of the references to color in this figure legend, the reader is referred to
+the Web version of this article.)
+1240 A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245
+
+ 
+
+Fig. 4. SEM of the multicomponent powder blend: initial mixture of elemental pow-
+ders (a); after 60 min of HEBM (b); after 90 min of HEBM (c).
+
+ 
+
+Fig. 5. TEM image and corresponding electron diffraction patterns: (a) - powder
+sample, after HEBM; (b) - compacted sample, after HEBM + SPS. Interpretation of the
+EDP is presented in Table 1.
+
+Co and Cr vary within the range 17 = 26 at.%, Fe within 18 + 28 at.%,
+Ni 15 +21 at.%, and Mn 13 +25 at.%. Some part of these deviations
+may be related to the inaccuracy of the “standard-less” EDS analysis
+with extremely high space resolution; however, it is highly prob-
+able that nanometer-scale fluctuations of chemical composition
+occur in the HEA matrix.
+
+Consolidation of the mechanically alloyed HEA powder was
+made by SPS at 1073K for 10min. The microstructure of the
+consolidated material looks completely uniform, without pores or
+
+composition deviations, in SEM (Fig. 8a). Etching of the polished
+cross-section in a mixture of strong acids (HCI + HNOs3, - so called
+“aqua-regia”) developed boundaries between grains and some
+cavities that may be related to precipitates of a second phase
+(Fig. 8b). This microstructure shows that etching occurs mostly
+along grain boundaries, and size of the grains correlates with the
+size of powder particles after 90 min of HEBM (compare Figs. 4c and
+8b). Results of EDS analysis presented in Table 2 (average of 9
+Measurements) show that the composition of the consolidated
+sample is close to equimolar, with some minor excess of Fe and lack
+of Ni and Mn.
+
+According to TEM and EDP analysis of the consolidated mate-
+rials, the size of microstructure elements increased after SPS, and
+additional electron diffraction lines appeared (Fig. 5b and Table 1).
+These additional lines can be roughly attributed to an fcc structure
+with a= 1.05 nm. Comparison of the Fig. 5a and 5,b shows, that
+after SPS some relatively large inclusions of up to 200—300 nm in
+size, that were not found in the powder particles after HEBM, forms
+in addition to previously existing small (~10 nm) precipitates. The
+existence of different types of precipitates in the consolidated
+material was confirmed by HAADF-STEM images in combination
+with X-ray mapping (Fig. 9) and high-resolution EDS scanning
+along the line (Fig. 7,b). Two types of inhomogeneities are preva-
+lent. First, relatively large (up to 200 nm) Cr-rich inclusions that
+contain a few percent of Mn and practically zero Co, Fe, or Ni.
+Second, smaller (10—30 nm) rounded precipitates that contain all
+five elements. Line-scan EDS analysis shows that the precipitates
+contain slightly more Cr and Mn (25 + 30 at.%) and less Fe, Ni and Co
+(13 +16 at.%). The matrix contains 16+27at.% of Fe and Ni,
+11 +22 at.% Co, 10+15at.% Cr, and 15+25at.% Mn (approximate
+ranges). Therefore, we can conclude that after SPS the composition
+of small precipitates becomes more uniform with matrix phase,
+however, a small amount of large precipitates appear that contain a
+higher concentration of Cr. If the Cr-rich precipitates are undesir-
+able phases, the content of this metal should be decreased, which
+may help to avoid precipitation. However, variation of the metal
+ratio requires additional research, in order to avoid altering
+composition of the matrix phase.
+
+HRTEM study of the matrix phase confirms the co-existence of
+two fcc phases with close lattice parameters (Fig. 10). Perhaps, one
+of them pertains to the small precipitates, and another — to the
+matrix itself. Nano-twins were observed in the fcc phase with
+a=0.360nm (Fig. 10,b). Atomic packing inside the large pre-
+cipitates does not conform to an fcc phase, as evident from Fig. 11
+and Fig. 12. The crystal structure of this phase is a topic for
+further discussion.
+
+Some experimentally measured properties of the consolidated
+material are presented in Fig. 13, as a function of temperature. As
+expected, thermal diffusivity and electrical conductivity are several
+times less than corresponding values for pure metals, while specific
+heat capacity is comparable with initial components. The material
+has an average density of 7.5 g/cm?, microhardness 4.03 + 0.48 GPa
+and flexural (bending) strength 919 + 20 MPa. The Young modulus
+and Poisson ratio (ultrasonic measurements) were found to be
+184 GPa and 0.3, correspondingly.
+
+4. Discussion
+
+There are three main topics for discussion concerning bulk
+CoCrFeNiMn HEA: formation routes, stability, and properties. The
+combination of mechanical alloying and spark plasma synthesis is a
+relatively new approach for fabrication of HEAs, the casting-based
+methods are used much more often. Up to now, this approach
+has been demonstrated in a few works [14,38,39]. The results show
+the strong influence of the mechanical alloying regime on phase
+A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245 1241
+
+Table 1
+Interpretation of the Electron Diffraction Patterns presented in Fig. 5.
+
+Experimental values
+
+After HEBM
+
+After HEBM and SPS
+
+Ring diameter D, 1/nm d-spacings nm Ring diameter D, 1/nm
+
+6.69
+7.88
+9.62 0.208 9.62
+11.04 0.181 11.27
+12.45
+13.28
+15.78 0.127 15.57
+18.38 0.109 18.51
+
+ 
+
+Fig. 6. HRTEM of the powder sample (after HEBM).
+
+formation. Thus, 60 h required for obtaining mixture of fcc + bcc
+phases, when the rotating rate of planetary ball mill was 250 rpm
+[39]; the pure fcc phase was obtained after 8hat 400 rpm [14];
+while only 90min was sufficient to obtain the same result at
+912 rpm as shown in this work (see also [38]). In addition, we ob-
+tained an fcc-HEA powder without the addition of a process control
+agent (N-heptane) that was added to the mixture to avoid cold
+welding in the previous works [14,39]. The consolidation temper-
+ature used in the SPS method should be about 0.7T;,, where Typ is a
+melting temperature of the considered alloy. The experimentally
+measured melting temperature of the CoCrFeNiMn phase was re-
+ported as 1607 K [40,41], 1523 K [14], or 1543 K [42], while atom-
+istic modelling predicted T,=1679K [43]. Therefore, the
+temperature range 1070—1175K may be considered to be an
+optimal for SPS (it can be noted that Mn lowers Tp of the 4-
+component basic alloy CoCrFeNi, which is 1717 K [41] or 1707K
+[43]). A material with density of 7.5 g/cm? was obtained in the
+present work with SPS temperature 1073 K, which is slightly lower
+that the value 7.85 g/cm? achieved in the work [39] under similar
+conditions. The theoretical density for an equiatomic CoCrFeNiMn
+fcc-phase with lattice parameter 0.36 nm is equal to 8.03 g/cm?.
+Therefore, if we presume that the consolidated materials are single-
+phase, they must have porosities of 2.24% for [39] and 6.6% in the
+
+Possible interpretations
+
+Hypothetical structures: calculated d-spacings in nm, and
+
+(hkl)
+d-spacingsnm fcc, fcc, bcc,
+a=0.36nm a=1.05nm a=0.73 nm
+0.299 - 0.304 (222) 0.298 (211)
+0.254 - 0.258 (400) 0.258 (220)
+0.208 0.208 (111) - 0.211 (222)
+0.177 0.180 (200) - 0.182 (400)
+0.161 - 0.159 (622) 0.163 (420)
+0.151 - 0.152 (444) 0.156 (332)
+0.149 (422)
+0.128 0.127 (220) - 0.129 (440)
+0.125 (530), (433)
+0.108 0.108 (311) - 0.108 (631)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Concentration, at.%
+
+ 
+
+ 
+
+0 20 40 60 80 100 120 140 160
+Distance along the scanning line, nm
+
+180 200
+
+ 
+
+jw
+
+ 
+
+Concentration, at.%
+
+   
+
+ 
+
+= 1
+0 20 40 60 80 100 120 140 160 180 200
+Distance along the scanning line, nm
+
+Fig. 7. EDS microanalysis along the scanning lines, that are shown by arrows on the
+inserted STEM pictures: (a) - powder sample, after HEBM; (b) - consolidated sample,
+after HEBM + SPS.
+
+present work. These values are in a reasonable agreement with
+results from the work [14], where porosity was 7.61% after SPS at
+1073 K and decreased to 0.12%, when SPS was carried out at 1273 K.
+However, our SEM study did not reveal residual porosity at polished
+1242 A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237-1245
+
+   
+
+Fig. 8. SEM images of the consolidated sample (HEA + SPS): a - polished cross-section,
+Z-contrast (backscattered electrons, AsB detector); b — the same area after acid
+etching, image in secondary electrons. Results of EDS analysis are presented in Tal
+
+ 
+
+cross-sections without etching (Fig. 8,a). Thus, we may conclude
+that the observed lower density occurs due to presence of different
+phases with lower theoretical densities.
+
+Despite the intense research into the phase stability and
+possible phase transformations in the Co-Cr-Fe-Ni-Mn system, this
+issue is still far from being resolved (see also Introduction). For cast
+equiatomic alloys, the fcc-solid solution with lattice parameter (a)
+0.359 nm is commonly accepted as the major or sole phase. This a
+value was first obtained for a major dendritic phase in the pio-
+neering work [1] and confirmed in many other works; e.g., precise
+neutron diffraction study shown a=0.3597 nm, with error less
+than 0.00001nm [42]. Shrinking of crystal lattice from
+a= 0.3602 nm to a=0.3595nm was observed earlier for as-cast
+and annealed (1273K for 24h) samples, respectively [34]. Me-
+chanical alloying produces fcc-phases with a=0.3536+0.02 nm
+
+39], and 0. 3595 + 0.3604 nm (present work, XRD and SAED data, —
+Figs. 1, Fig. 3, Fig. 5,a, Table 1). HRTEM (Fig. 4) shows co-existence of
+two phases in reigh boring crystallites, with close lattice parame-
+ters: d-spacing 0.208nm corresponds to an fcc phase with
+a= 0.360 nm, and d-spacing 0.206 nm — to a= 0.356 nm. Since the
+corresponding X-ray diffraction peaks are broadened and blurred
+due to intense plastic deformation and lattice distortions occurred
+during HEBM, it is hard to distinguish these phases, so they look
+like one fcc phase in XRD patterns (Fig. 1). However, transformation
+of the fcc-phase with larger a into an fcc-phase with smaller a can
+be clearly observed during annealing of the HEBM treated powder
+(Fig. 3). This transformation is accompanied by lattice relaxation
+and precipitate formation. Both phases, with larger and smaller a,
+
+     
+
+Table 2
+
+[Lara a SGOT OA a Ms]8LONan)
+
+ea D200 a
+
+Fig. 9. (color online) HAADF STEM microstructure image of the sample consolidated
+by SPS, with corresponding X-ray mappings. (For interpretation of the references to
+color in this figure legend, the reader is referred to the Web version of this article.)
+
+ 
+
+Fig. 10. HRTEM of the CoCrFeNiMn matrix phases: fcc phase with a = 0.356 nm (a) and
+fcc phase with a= 0.360 nm (b).
+
+EDS analysis of the compacted material (HEBM + SPS).
+
+Polished cross section Concentration, at. %
+
+Fe Ni Mn
+
+Co Cr
+Before etching 19.0+0.8 214+04
+After etching 18.8+0.4 20.1 + 1.0
+
+23.2+1.2 18.6 + 2.0 17.8+1.7
+22.8 +0.3 18.8 + 0.4 19.1+0.4
+A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245 1243
+
+ 
+
+Fig. 11. HRTEM of the precipitated dispersed phase. Angles: « ~ 70°, B ~ 110°.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.597/ 9 og vO, Oo
+
+90 oe
+
+3s ie Sef .
+
+. oo
+
+0.520
+
+0.512
+
+0.482
+
+ 
+
+ 
+
+ 
+
+Fig. 12. (color online). Atomic structure of precipitate: HAADF STEM image with cor-
+responding X-ray mappings (a), and principal lattice spacings (b). All dimensions are
+given in nanometers. (For interpretation of the references to color in this figure legend,
+the reader is referred to the Web version of this article.)
+
+Cc,
+x, mm/s 6, 10°S J/kg K
+A 9.6 1000
+9,4
+92 900
+9,0
+800
+8,8
+8,6
+700
+8,4
+82 1600
+
+ 
+
+300 350 400 450 500 550 #600 650 #700
+Temperature, K
+
+Fig. 13. Temperature dependence of the specific electrical conductivity (co), thermal
+diffusivity (y) and specific heat capacity (c) of the consolidated (HEBM + SPS) HEA
+material.
+
+survive under the relatively soft annealing conditions (1073 K
+for 10min) taking place during SPS, as shown in Fig. 10. On
+the other hand, two-phase (fcc + bcc) powder, obtained by
+HEBM, converted during SPS into a single fcc phase with
+a= 0.3589—0.3590 nm, as it was reported in the work [39]. From all
+these results, we can draw a conclusion, that two fcc phases with
+close lattice parameters co-exist in the HEA alloy after HEBM. The
+first of which has a = 0.360 + 0.001 nm, while for the second phase
+a= 0.356 + 0.001 nm. When annealing, the first phase tends to
+“unload” some elements, mostly Cr and Mn, which results in lattice
+relaxation and shrinking, and transformation into the second
+phase. The elements released from the first phase during this
+process form precipitates.
+
+At least two types of precipitates were found in the material
+after SPS (Fig. 9). New diffraction lines appearing after SPS (Fig. 5,b
+and Table 1) can be interpreted as a fcc-phase with a= 1.05 nm,
+which is close to the structure of Cr23C. (a = 1.066 nm). At the same
+time, the d-spacing and angles measured with HRTEM (Fig. 11) can
+be interpreted as a bcc structure with a=0.73 nm. The electron
+diffraction lines calculated on the basis of this interpretation,
+exhibit reasonable agreement with experimental data (Table 1).
+Finally, a quite complicated structure was observed within the Cr-
+rich precipitates (Fig. 12). This structure possibly belongs to a bi-
+nary (Cr,Mn)C,-type carbide [44] or some not-recognized inter-
+metallic phases in the Cr-Mn system. This question requires
+additional study.
+
+The transport properties of the materials, presented in Fig. 13,
+show the significant role of lattice heat conductivity. It is known
+that for pure metals, when electric and heat conduction occur due
+to free electrons, the Wiedemann—Franz law describes the corre-
+lation between electrical and thermal conductivities:
+
+A
+gL: (1)
+
+where L = 2.45-10-8 W-Ohm/K? is the Lorenz number. Calculating
+thermal conductivity as }=cpy and substituting into eq. (1),
+we obtained L~ 4.5+0.2-10 8 W-Ohm/K?. Strictly speaking,
+within the temperature interval 350—573 K, the dependence of i/o
+on T can be described with the empirical equation 4/
+o = 12.68—0.0173T + 0.0000683T? (W-Ohm/K). Such dependences
+lead us to conclude that transport of electric charges and heat oc-
+curs due to different carriers: electric current — by electrons, and
+1244 A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237—1245
+
+heat — by electrons plus phonons. Electrical resistivity of the ma-
+terial at room temperature is 106.5 nOhm-cm, which is about an
+order of magnitude larger than the resistivity of Co, Cr, Fe and Ni,
+but 2.6 times smaller than Mn. A coefficient of thermal expansion
+(CTE), (34.2 + 0.2)-10~> K', is much less than for pure metals. These
+values are typical of multicomponent alloys and disordered solid
+solutions, because of intense electron scattering in its crystal lattice.
+Increase of electrical resistance and decrease of CTE were also re-
+ported for mechanically alloyed and SPS-consolidated Cu-Cr
+nanocomposites. In addition to the lattice disordering, this effect
+was also explained by the significant increase of specific surface of
+grain boundaries due to microstructure refinement [45]. Similar
+explanations can be suggested for the relatively low thermal con-
+ductivity (14-21 W/m-K at 350—573 K) and thermal diffusivity.
+The obtained values of electric and thermal conductivity are in a
+good agreement with data obtained earlier for the CoCrFeNi alloy:
+specific electric conductivity (9.1—9.4)-10° S for temperature range
+300—400K, and thermal conductivity 11—20.5W/m-K for
+298—573 K [46].
+
+Mechanical properties of the materials exhibit less plasticity and
+more hardness than typical fec-HEAs produced by crystallization of
+the melts, and comparable with ceramic-metal composites. Thus,
+the maximum flexural strength of TiB2-based cermet with HEA
+binder CoCrFeNiTiAl was 800 MPa, and Vickers hardness 23.56 GPa
+[47]. Possessing expectable lower hardness (microhardness 4 GPa,
+see Section 3), the HEA CoCrFeNiMn, studied in the current work,
+exceeds 900 MPa in flexural strength that is higher than the cermet
+material.
+
+5. Conclusions
+
+Due to great importance of HEAs for materials development
+[48], questions of their production routes, structures, stability,
+strengthening precipitates and properties, take on _ special
+significance.
+
+High-entropy alloy CoCrFeNiMn was produced after 90 min of
+high energy ball milling and consolidated by spark plasma sintering
+at 1073 K for 10 min.
+
+The as-milled alloy is composed of two fcc-phases with close
+lattice parameters, 0.360 nm and 0.356 nm. Both phases remain in
+the SPS-consolidated material, which was demonstrated via
+HRTEM and other methods.
+
+The fcc-phase with the parameter 0.360 nm transforms into the
+more compact phase (0.356nm) during annealing up to 1273 K.
+Similar transformation partially occurs after SPS. Some elements,
+mostly Cr and Mn, released from the matrix phase and formed
+precipitates.
+
+Two or three types of precipitates, with characteristic size from
+10 to 30 nm up to 200—300 nm, have been detected. Some of them
+have crystal structure close to Cr23Cg, another possesses a complex
+crystal structure built of Cr and Mn atoms, that was not identified
+with any known intermetallic phase. Formation of a carbide phase
+may be possible because of SPS in a graphite die; thus, use carbon-
+free dies could be a way to avoid carbide precipitates. Further
+structural research is needed to decode structures of all
+precipitates.
+
+Electric and thermal properties of the material are measured at
+room and elevated temperature. It is shown that lattice thermal
+conductivity plays an important role, along with free electron
+thermal conductivity.
+
+Thus, the results obtained allow us to suppose that the recently
+formulated contradiction concerning stability of the CoCrFeNiMn
+high-entropy phase can be resolved, by accepting the existence of
+two fcc phases: metastable (a=0.360nm) and more stable
+(a = 0.356 nm).
+
+Acknowledgements
+
+This work is supported by Russian Foundation for Basic
+Research, Project 18-53-15006 (in the frames of International
+Russian-French Program RFBR-CNRS). Use of the Spark Plasma
+Sintering set-up was possible due to support from the Ministry of
+Education and Science of the Russian Federation under the
+Competitiveness Enhancement Program of NUST MISiS (Grant no.
+K2-2018-013). Authors thank Dr. A.N. Ableev and Dr. I.D. Kovalev for
+their assistance in the samples testing, and Dr. J. Pauls for fruitful
+discussion.
+
+References
+
+[1] B. Cantor, I.T.H. Chang, P. Knight, AJ.B. Vincent, Microstructural development
+in equiatomic multicomponent alloys, Mater. Sci. Eng. A 375—377 (2004)
+213-218.
+
+[2] J.-W. Yeh, S.-K. Chen, S.J. Lin, J.-Y. Gan, T.-S. Chin, T.-T. Shun, C.-H. Tsau, S.-
+Y. Chang, Nanostructured high-entropy alloys with multiple principal ele-
+ments: novel design concepts and outcomes, Adv. Eng. Mater. 6 (2004)
+299-303.
+
+[3] B. Cantor, Multicomponent and high entropy alloys, Entropy 16 (2014)
+4749—4768.
+
+[4] J.-W. Yeh, Physical metallurgy of high-entropy alloys, JOM 67 (10) (2015)
+2254-2261.
+
+[5] Y. Zhang, T.T. Zuo, Z. Tang, M.C. Gao, K.A. Dahmen, P.K. Liaw, Z.P. Lu, Micro-
+structures and properties of high-entropy alloys, Prog. Mater. Sci. 61 (2014)
+1—93.
+
+[6] D.B. Miracle, O.N. Senkov, A critical review of high entropy alloys and related
+
+concepts, Acta Mater. 122 (2017) 448—511.
+
+B. Gludovatz, A. Honenwarter, D. Catoor, E.H. Chang, E.P. George, R.O. Ritchie,
+
+A fracture-resistant high-entropy alloy for cryogenic applications, Science 345
+
+(2014) 1153-1158.
+
+Z.J. Zhang, M.M. Mao, J. Wang, B. Gludovatz, Z. Zhang, S.X. Mao, E.P. George,
+
+Q. Yu, R.O. Ritchie, Nanoscale origins of the damage tolerance of the high-
+
+entropy alloy CrMnFeCoNi, Nat. Commun. 6 (1—6) (2015) 10143.
+
+[9] A. Gali, E.P. George, Tensile properties of high- and medium-entropy alloys,
+Intermetallics 39 (2013) 74—78.
+
+[10] F. Otto, A. Dlouhy, Ch Somsen, H. Bei, G. Eggeler, E.P. George, The influence of
+temperature and microstructure on tensile properties of a CoCrFeMnNi high-
+entropy alloy, Acta Mater. 61 (2013) 5743—5755.
+
+[11] A. Kilmametov, R. Kulagin, A. Mazilkin, S. Seils, T. Boll, M. Heilmaier, H. Hahn,
+High-pressure torsion driven mechanical alloying of CoCrFeMnNi high en-
+tropy alloy, Scr. Mater. 158 (2019) 29-33.
+
+[12] C. Zhu, Z.P. Lu, T.G. Nieh, Incipient plasticity and dislocation nucleation of
+FeCoCrNiMn high-entropy alloy, Acta Mater. 61 (2013) 2993-3001.
+
+[13] H. Shahmir, J. He, Z. Lu, M. Kawasaki, T.G. Langdona, Evidence for super-
+plasticity in a CoCrFeNiMn high-entropy alloy processed by high-pressure
+torsion, Mater. Sci. Eng. 685 (2017) 342—348.
+
+[14] F. Prusa, A. Senkova, V. Kucera, J. Capek, D. Vojtech, Properties of high-
+strength ultrafine-grained CoCrFeNiMn high-entropy alloy prepared by
+short-term mechanical alloying and spark plasma sintering, Mater. Sci. Eng. A
+734 (2018) 341-352.
+
+[15] SJ. Sun, Y.Z. Tian, H.R. Lin, X.G. Dong, Y.H. Wang, ZJ. Zhang, Z.F. Zhang,
+Enhanced strength and ductility of bulk CoCrFeMnNi high entropy alloy
+having fully recrystallized ultrafine-grained structure, Mater. Des. 133 (2017)
+122-127.
+
+[16] B. Gludovatz, A. Honenwarter, K.V.S. Thurston, H. Bei, Z. Wu, E.P. George,
+R.O. Ritchie, Exceptional damage-tolerance of a medium-entropy alloy CrCoNi
+at cryogenic temperatures, Nat. Commun. 7 (1—8) (2016) 10602.
+
+[17] S. Praveen, J. Basu, S. Kashyap, R.S. Kottada, Exceptional resistance to grain
+growth in nanocrystalline CoCrFeNi high entropy alloy at high homologous
+temperatures, J. Alloy. Comp. 662 (2016) 361—367.
+
+[18] W. Ji, Z. Fu, W. Wang, H. Wang, J. Zhang, Y. Wang, F. Zhang, Mechanical
+alloying synthesis and spark plasma sintering consolidation of CoCrFeNiAl
+high-entropy alloy, J. Alloy. Comp. 589 (2014) 61—66.
+
+[19] D.Y. Li, Y. Zhang, The ultrahigh charpy impact toughness of forged Al,CoCr-
+FeNi high entropy alloys at room and cryogenic temperatures, Intermetallics
+70 (2016) 24—28.
+
+[20] S. Mohanty, T.N. Maity, S. Mukhopadhyay, S. Sarkar, N.P. Gurao, S. Bhowmick,
+Powder metallurgical processing of equiatomic AlCoCrFeNi high entropy
+alloy: microstructure and mechanical properties, Mater. Sci. Eng. A 679 (2017)
+299-313.
+
+[21] Y.-F. Kao, T.-J. Chen, S.-K. Chen, J.-W. Yeh, Microstructure and mechanical
+property of as-cast, -homogenized, and -deformed AlxCoCrFeNi (0<x<2)
+high-entropy alloys, J. Alloy. Comp. 488 (2009) 57—64.
+
+[22] S. Guo, C. Ng, J. Lu, CT. Liu, Effect of valence electron concentration on stability
+of fcc or bcc phase in high entropy alloys, J. Appl. Phys. 109 (2011) 103505.
+
+[23] S. Guo, C.T. Liu, Phase stability in high entropy alloys: formation of solid so-
+lution phase or amorphous phase, Prog. Nat. Sci. 21 (2011) 433—446.
+
+[7
+
+[8
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
+
+[36]
+
+A.S. Rogachev et al. / Journal of Alloys and Compounds 805 (2019) 1237-1245
+
+M.S. Lucas, G.B. Wilks, L. Mauger, J.A. Munoz, O.N. Senkov, E. Michel,
+J. Horwath, S.L. Semiatin, M.B. Stone, D.L. Abernathy, E. Karapetrova, Absence
+of long-range chemical ordering in equimolar FeCoCrNi, Appl. Phys. Lett. 100
+(2012) 257907.
+
+A.K. Singh, A. Subramanian, On the formation of disordered solid solutions in
+multicomponent alloys, J. Alloy. Comp. 587 (2014) 113-119.
+
+F. He, Z. Wang, Q. Wu, J. Li, J. Wang, C.T. Liu, Phase separation of metastable
+CoCrFeNi high entropy alloy at intermediate temperatures, Scr. Mater. 126
+(2017) 15=19.
+
+U. Dahlborg, J. Cornide, M. Calvo-Dahlborg, T.C. Hansen, A. Fitch, Z. Leong,
+S. Chambreland, R.R. Goodall, Structure of some CoCrFeNi and CoCrFeNiPd
+multicomponent HEA alloys by diffraction techniques, J. Alloy. Comp. 681
+(2016) 330-341.
+
+F. Otto, Y. Yang, H. Bei, E.P. George, Relative effects of enthalpy and entropy on
+the phase stability of equiatomic high-entropy alloys, Acta Mater. 61 (2013)
+2628—2638.
+
+J.Y. He, C. Zhu, D.Q. Zhou, W.H. Liu, T.G. Nieh, Z.P. Lu, Steady state flow of the
+FeCoNiCrMn high entropy alloy at elevated temperatures, Intermetallics 55
+(2014) 9-14.
+
+B. Schuh, F. Mendez-Martin, B. Volker, E.P. George, H. Clemens, R. Pippan,
+A. Hohenwarter, Mechanical properties, microstructure and thermal stability
+of nanocrystalline CoCrFeMnNi high-entropy alloy after severe plastic defor-
+mation, Acta Mater. 96 (2015) 258—268.
+
+EJ. Pickering, R. Minoz-Moreno, HJ. Stone, N.G. Jones, Precipitation in the
+equiatomic high-entropy alloy CrMnFeCoNi, Scr. Mater. 113 (2016) 106—109.
+F. Otto, A. Dlouhy, K.G. Pradeep, M. Kubénova, D. Raabec, G. Eggeler,
+E.P. Georgea, Decomposition of the single-phase high-entropy alloy
+CrMnFeCoNi after prolonged anneals at intermediate temperatures, Acta
+Mater. 112 (2016) 40—52.
+
+J.Y. He, H. Wang, H.L. Huang, X.D. Xu, M.W. Chen, Y. Wu, XJ. Liu, T.G. Nieh,
+K. An, Z.P. Lu, A precipitation-hardened high-entropy alloy with outstanding
+tensile properties, Acta Mater. 102 (2016) 187—196.
+
+G.A. Salishchev, M.A. Tikhonovsky, D.G. Shaysultanov, N.D. Stepanov,
+A.V. Kuznetsov, I.V. Kolodiy, A.S. Tortika, O.N. Senkov, Effect of Mn and V on
+structure and mechanical properties of high-entropy alloys based on CoCrFeNi
+system, J. Alloy. Comp. 591 (2014) 11—21.
+
+P.P. Bhattacharjee, G.D. Sathiaraj, M. Zaid, J.R. Gatti, C. Lee, C.-W. Tsai, J.-
+W. Yeh, Microstructure and texture evolution during annealing of equiatomic
+CoCrFeMnNi high-entropy alloy, J. Alloy. Comp. 587 (2014) 544—552.
+
+B. Gludovatz, E.P. George, R.O. Ritchie, Processing, microstructure and me-
+chanical properties of the CrMnFeCoNi high-entropy alloy, J. Met. 67 (2015)
+
+[37]
+
+[38]
+
+[39]
+
+[40]
+
+[41]
+
+[42]
+
+[43]
+
+[44]
+
+[45]
+
+[46]
+
+[47]
+
+[48]
+
+1245
+
+2262—2270.
+
+K.K. Alaneme, M.O. Bodunrin, S.R. Oke, Processing, alloy composition and
+phase transition effect on the mechanical and corrosion properties of high-
+entropy alloys: a review, J. Mater. Res. Technol. 4 (2016) 384—393.
+
+N.A. Kochetov, A.S. Rogachev, A.S. Shchukin, S.G. Vadchenko, I.D. Kovalev,
+Mechanical alloying with partial amorphization of Fe—Cr—Co—Ni—Mn
+multicomponent powder mixture and its spark plasma sintering for compact
+high-entropy material production, in: Izvestiya Vuzov. Poroshkovaya Metal-
+lurgiya I Funktsional’nye Pokrytiya (Universities’ Proceedings. Powder Met-
+allurgy and Functional Coatings), vol. 2, 2018, pp. 35—42 (in Russ.), https://doi.
+org/10.17073/1997-308X-2018-2-35-42.
+
+W. Ji, W. Wang, H. Wang, J. Zhang, Y. Wang, F. Zhang, Z. Fu, Alloying behavior
+and novel properties of CoCrFeNiMn high-entropy alloy fabricated by me-
+chanical alloying and spark plasma sintering, Intermetallics 56 (2015) 24—27.
+K.-Y. Tsai, M.-H. Tsai, J.-W. Yeh, Sluggish siffusion in Co-Cr-Fe-Mn-Ni high-
+entropy alloys, Acta Mater. 61 (2013) 4887—4897.
+
+M. Vaidya, S. Trubel, B.S. Murty, G. Wilde, S.V. Divinski, Ni tracer diffusion in
+CoCrFeNi and CoCrFeMnNi high entropy alloys, J. Alloy. Comp. 688B (2016)
+994-1001.
+
+LR. Owen, EJ. Pickering, H.Y. Playford, HJ. Stone, M.G. Tucker, N.G. Jones, An
+assessment of the lattice strain in the CrMnFeCoNi high-entropy alloy, Acta
+Mater. 122 (2017) 11-18.
+
+M.A. Gutierrez, G.D. Rodriguez, G. Bozzolo, H.O. Mosca, Melting temperature
+of CoCrFeNiMn high-entropy alloys, Comput. Mater. Sci. 148 (2018) 69—75.
+G.K. Tirumalasetty, C.M. Fang, J. Jansen, T. Yokosawa, M.F.J. Boeije, J. Sietsma,
+M.A. van Huis, H.W. Zandbergen, Structural tale of two novel (Cr,Mn)C car-
+bides in steel, Acta Mater. 78 (2014) 161—172.
+
+A.S. Rogachev, K.V. Kuskov, N.F. Shkodich, D.O. Moskovskikh, A.O. Orlov,
+A.A. Usenko, A.V. Karpov, I.D. Kovalev, A.S. Mukasyan, Influence of high-
+energy ball milling on electrical resistance of Cu and Cu/Cr nanocomposite
+materials produced by Spark Plasma Sintering, J. Alloy. Comp. 688A (2016)
+468—474.
+
+H.P. Chou, Y.S. Chang, S.K. Shen, J.W. Yeh, Microstructure, thermophysical and
+electrical properties in Al,CoCrFeNi (0 < x < 2) high-entropy alloys, Mater.
+Sci. Eng. B 163 (3) (2009) 184—189.
+
+W. ji, J. Zhang, W. Wang, H. Wang, F. Zhang, Y. Wang, Z. Fu, Fabrication and
+properties of TiB2-based cermets by spark plasma sintering with CoCrFeNiTiAl
+high-entropy alloy as sintering aid, J. Eur. Ceram. Soc. 35 (2015) 879-886.
+D.B. Miracle, High entropy alloys as a bold step forward in alloy development,
+Nat. Commun. 10 (2019) 1805. https://doi.org/10.1038/s41467-019-09700-1.
+
